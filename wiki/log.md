@@ -12,3 +12,9 @@
 - entity 페이지 생성: 상대팀 선수 11명 (박건우, 구창모, 김성윤, 구자욱, 디아즈, 최형우, 페라자, 강백호, 노시환, 채은성, 하주석)
 - concept 페이지 생성: kbo-2026-season
 - index.md 업데이트
+
+## [2026-04-08] refactor | wiki 폴더 구조 정리
+- 야구 관련 페이지를 wiki/baseball/kbo/ 하위로 재배치
+- teams/ (팀 4개), players/ (선수 26명), games/ (경기 기록 8개) 분리
+- concept 페이지는 kbo/ 루트에 유지
+- index.md, CLAUDE.md 업데이트

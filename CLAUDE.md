@@ -14,16 +14,21 @@ Karpathy의 LLM Wiki 패턴을 따른다.
   - `raw/media/` — 영상 스크립트, 팟캐스트 메모
   - `raw/notes/` — 개인 메모, 일기, 생각 정리
   - `raw/assets/` — 이미지, 첨부파일
-- `wiki/` — LLM이 소유하는 위키. flat 구조.
+- `wiki/` — LLM이 소유하는 위키.
   - `wiki/index.md` — 카테고리별 페이지 카탈로그
   - `wiki/log.md` — 시간순 작업 기록
+  - `wiki/baseball/kbo/` — KBO 야구 관련 페이지
+    - `teams/` — 팀 페이지
+    - `players/` — 선수 페이지
+    - `games/` — 경기 기록 (source 페이지)
+    - concept 페이지는 `kbo/` 루트에 위치
 
 ## 위키 규칙
 
 - **언어**: 모든 위키 페이지는 한국어로 작성한다.
 - **파일명**: 영문 kebab-case (예: `shohei-ohtani.md`, `lo-fi-hip-hop.md`)
 - **교차참조**: `[[wikilink]]` 스타일을 사용한다. (Obsidian 호환)
-- **위치**: 모든 위키 페이지는 `wiki/` 아래 한 레벨에 위치한다. 하위 폴더 없음.
+- **위치**: 위키 페이지는 `wiki/` 아래 카테고리별 하위 폴더에 위치한다. (예: `wiki/baseball/kbo/`)
 
 ## 페이지 유형
 
