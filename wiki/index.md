@@ -27,6 +27,7 @@
 - [[flexen]] — 플렉센 (선발투수)
 - [[tamura]] — 타무라 (중계투수)
 - [[kim-taek-yeon]] — 김택연 (마무리투수)
+- [[choi-min-seok]] — 최민석 (선발투수)
 - [[gwak-bin]] — 곽빈 (선발투수)
 
 #### NC
@@ -64,5 +65,13 @@
 ## 영상
 
 ## 개발
+
+> `wiki/dev/`
+
+### 개념
+- [[llm-wiki]] — LLM Wiki (Karpathy의 LLM 기반 지식 베이스 패턴)
+
+### 자료
+- [[source-llm-wiki-seminar]] — LLM Wiki 패턴 완벽 해부 세미나
 
 ## 기타

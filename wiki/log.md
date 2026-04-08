@@ -18,3 +18,13 @@
 - teams/ (팀 4개), players/ (선수 26명), games/ (경기 기록 8개) 분리
 - concept 페이지는 kbo/ 루트에 유지
 - index.md, CLAUDE.md 업데이트
+
+## [2026-04-08] query | 최민석 선수 페이지 추가
+- entity 페이지 생성: choi-min-seok (선발투수)
+- 4/2 삼성전 6이닝 무자책 호투 기록 반영
+- index.md 업데이트
+
+## [2026-04-08] ingest | LLM Wiki 패턴 세미나 자료
+- source 페이지 생성: source-llm-wiki-seminar (PDF 15p + 인포그래픽)
+- concept 페이지 생성: llm-wiki (LLM Wiki 패턴 개념 정리)
+- index.md 업데이트 (개발 카테고리 추가)
