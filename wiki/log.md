@@ -28,3 +28,12 @@
 - source 페이지 생성: source-llm-wiki-seminar (PDF 15p + 인포그래픽)
 - concept 페이지 생성: llm-wiki (LLM Wiki 패턴 개념 정리)
 - index.md 업데이트 (개발 카테고리 추가)
+
+## [2026-04-09] ingest | KBO 2026 시즌 전체 재구성 (3/28~4/8)
+- raw/articles/kbo/ 기반 전 구단 데이터로 wiki 재구성
+- source 페이지 50개 생성 (10개 날짜, 전 경기)
+- 팀 entity 10개 생성 (두산, NC, 삼성, 한화, KT, LG, KIA, SSG, 롯데, 키움)
+- 선수 entity 326개 생성 (전 구단 타자 + 투수)
+- kbo-2026-season concept 페이지 업데이트 (순위표 포함)
+- index.md 전면 업데이트
+- 스크립트 생성: scripts/rebuild_kbo_wiki.py
