@@ -181,23 +181,28 @@ def parse_game(filepath):
                 in_table = False
                 header_found = False
                 continue
+            # 경계 | 만 제거하고 내부 빈 칸은 보존 (결과 칸이 비어도 인덱스 일관성 유지)
             cols = [c.strip() for c in line.split("|")]
-            cols = [c for c in cols if c]
+            if cols and cols[0] == "":
+                cols = cols[1:]
+            if cols and cols[-1] == "":
+                cols = cols[:-1]
             if not cols or cols[0] in ("****", "TOTAL", "**TOTAL**"):
                 continue
             if len(cols) >= 10:
                 try:
                     name = cols[0]
-                    if name in ("****", "TOTAL", "**TOTAL**"):
+                    if not name or name in ("****", "TOTAL", "**TOTAL**"):
                         continue
+                    # 헤더: 선수명(0)|등판(1)|결과(2)|승(3)|패(4)|세(5)|이닝(6)|타자(7)|투구수(8)|타수(9)|피안타(10)|홈런(11)|4사구(12)|삼진(13)|실점(14)|자책(15)|ERA(16)
                     result = cols[2]
-                    ip_str = cols[5]
-                    ha = cols[9] if len(cols) > 9 else "0"
-                    k = cols[12] if len(cols) > 12 else "0"
-                    er = cols[14] if len(cols) > 14 else "0"
-                    runs = cols[13] if len(cols) > 13 else "0"
-                    era = cols[-1] if len(cols) > 15 else ""
-                    pitches = cols[7] if len(cols) > 7 else "0"
+                    ip_str = cols[6]
+                    ha = cols[10] if len(cols) > 10 else "0"
+                    k = cols[13] if len(cols) > 13 else "0"
+                    runs = cols[14] if len(cols) > 14 else "0"
+                    er = cols[15] if len(cols) > 15 else "0"
+                    era = cols[16] if len(cols) > 16 else ""
+                    pitches = cols[8] if len(cols) > 8 else "0"
 
                     if current_team not in game.get("pitchers", {}):
                         game["pitchers"][current_team] = {}
