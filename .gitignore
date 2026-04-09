@@ -1,9 +1,24 @@
+# Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/plugins/
+.obsidian/graph.json
+
+# macOS
 .DS_Store
 
 # Quartz
 node_modules/
 public/
 .quartz-cache/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Claude
+.claude/settings.local.json
+
+# Debug dumps
+debug_*.json
