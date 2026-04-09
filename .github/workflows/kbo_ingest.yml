@@ -30,9 +30,7 @@ jobs:
           cache-dependency-path: scripts/requirements-scraper.txt
 
       - name: Install dependencies
-        run: |
-          pip install -r scripts/requirements-scraper.txt
-          playwright install chromium --with-deps
+        run: pip install -r scripts/requirements-scraper.txt
 
       - name: Run KBO scraper
         run: |
