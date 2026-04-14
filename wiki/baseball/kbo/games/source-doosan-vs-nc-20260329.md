@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260329\20260329OBNC0_두산_vs_NC.md
+source: raw/articles/kbo/2026/20260329/20260329OBNC0_두산_vs_NC.md
 ---
 
 # 두산 vs NC 2026.03.29 경기 요약

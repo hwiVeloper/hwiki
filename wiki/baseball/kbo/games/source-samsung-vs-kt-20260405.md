@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260405\20260405SSKT0_삼성_vs_KT.md
+source: raw/articles/kbo/2026/20260405/20260405SSKT0_삼성_vs_KT.md
 ---
 
 # 삼성 vs KT 2026.04.05 경기 요약

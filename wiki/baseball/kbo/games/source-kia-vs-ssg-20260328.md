@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260328\20260328HTSK0_KIA_vs_SSG.md
+source: raw/articles/kbo/2026/20260328/20260328HTSK0_KIA_vs_SSG.md
 ---
 
 # KIA vs SSG 2026.03.28 경기 요약

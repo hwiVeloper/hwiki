@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260407\20260407WOOB0_키움_vs_두산.md
+source: raw/articles/kbo/2026/20260407/20260407WOOB0_키움_vs_두산.md
 ---
 
 # 키움 vs 두산 2026.04.07 경기 요약

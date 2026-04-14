@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260402\20260402KTHH0_KT_vs_한화.md
+source: raw/articles/kbo/2026/20260402/20260402KTHH0_KT_vs_한화.md
 ---
 
 # KT vs 한화 2026.04.02 경기 요약

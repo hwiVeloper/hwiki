@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260403\20260403HHOB0_한화_vs_두산.md
+source: raw/articles/kbo/2026/20260403/20260403HHOB0_한화_vs_두산.md
 ---
 
 # 한화 vs 두산 2026.04.03 경기 요약

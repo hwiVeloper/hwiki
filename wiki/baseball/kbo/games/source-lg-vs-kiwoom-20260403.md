@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260403\20260403LGWO0_LG_vs_키움.md
+source: raw/articles/kbo/2026/20260403/20260403LGWO0_LG_vs_키움.md
 ---
 
 # LG vs 키움 2026.04.03 경기 요약

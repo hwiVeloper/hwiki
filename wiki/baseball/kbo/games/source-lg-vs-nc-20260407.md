@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260407\20260407LGNC0_LG_vs_NC.md
+source: raw/articles/kbo/2026/20260407/20260407LGNC0_LG_vs_NC.md
 ---
 
 # LG vs NC 2026.04.07 경기 요약

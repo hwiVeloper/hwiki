@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260410\20260410LTWO0_롯데_vs_키움.md
+source: raw/articles/kbo/2026/20260410/20260410LTWO0_롯데_vs_키움.md
 ---
 
 # 롯데 vs 키움 2026.04.10 경기 요약

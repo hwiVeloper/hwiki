@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw\articles\kbo\2026\20260412\20260412OBKT0_두산_vs_KT.md
+source: raw/articles/kbo/2026/20260412/20260412OBKT0_두산_vs_KT.md
 ---
 
 # 두산 vs KT 2026.04.12 경기 요약
