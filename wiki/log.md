@@ -46,4 +46,14 @@
 - 신규 경기 5개 반영 (1일치)
 - games / teams / players / kbo-2026-season / index 재생성
 
+## [2026-04-15] ingest | KBO 위키 전면 재구성 (raw/articles/kbo/ 기반)
+- raw/articles/kbo/2026/ 70경기 원본을 파싱해 wiki/baseball/kbo/ 하위 전면 재생성
+- teams/ 10팀: 성적표·로스터 집계 통계 재빌드 (타자 타율/장타 관련, 투수 ERA/탈삼진 등)
+- players/ 359명: 파일명 컨벤션 `{team}-{name_romanized}.md` 일원화, 모든 경기별 지표 수록
+- games/ 70개: source 페이지 표 형식 통일, 신규 wikilink 적용
+- kbo-2026-season.md: 순위표·위키 구조·파일명 컨벤션 문서화
+- index.md: 신규 슬러그로 전면 재빌드
+- 같은 한글명 다팀 등장 5건(손아섭·최원준·박지훈·김민석·화이트)에 동명이인/이적 주의 박스 삽입
+- 깨진 wikilink 0건 (dev 예시 문구 제외)
+
 <!-- last-kbo-ingest-date: 2026-04-14 -->

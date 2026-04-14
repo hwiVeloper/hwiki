@@ -2,108 +2,47 @@
 type: concept
 ---
 
-# KBO 2026 시즌
+# 2026 KBO 시즌
 
-2026년 KBO 리그 정규시즌. 2026년 3월 28일 개막.
+KBO 리그 2026 시즌. 기록 범위: **2026.03.28 ~ 2026.04.14** (70경기).
 
-## 순위 (4월 14일 기준)
+## 순위표
 
-| 순위 | 팀 | 승 | 패 | 무 | 승률 |
-|------|------|----|----|----|----|
-| 1 | [[lg\|LG]] | 10 | 4 | 0 | .714 |
-| 2 | [[samsung\|삼성]] | 9 | 4 | 1 | .692 |
-| 3 | [[kt\|KT]] | 9 | 5 | 0 | .642 |
-| 4 | [[nc\|NC]] | 7 | 7 | 0 | .500 |
-| 5 | [[kia\|KIA]] | 7 | 7 | 0 | .500 |
-| 6 | [[ssg\|SSG]] | 7 | 7 | 0 | .500 |
-| 7 | [[hanwha\|한화]] | 6 | 8 | 0 | .428 |
-| 8 | [[doosan\|두산]] | 5 | 8 | 1 | .384 |
-| 9 | [[lotte\|롯데]] | 5 | 9 | 0 | .357 |
-| 10 | [[kiwoom\|키움]] | 4 | 10 | 0 | .285 |
+| 순위 | 팀 | 경기 | 승 | 패 | 무 | 승률 | 득점 | 실점 | 득실차 |
+|------|----|------|----|----|----|------|------|------|--------|
+| 1 | [[lg|LG]] | 14 | 10 | 4 | 0 | 0.714 | 69 | 52 | +17 |
+| 2 | [[samsung|삼성]] | 14 | 9 | 4 | 1 | 0.692 | 81 | 66 | +15 |
+| 3 | [[kt|KT]] | 14 | 9 | 5 | 0 | 0.643 | 93 | 74 | +19 |
+| 4 | [[kia|KIA]] | 14 | 7 | 7 | 0 | 0.500 | 72 | 70 | +2 |
+| 5 | [[ssg|SSG]] | 14 | 7 | 7 | 0 | 0.500 | 82 | 82 | +0 |
+| 6 | [[nc|NC]] | 14 | 7 | 7 | 0 | 0.500 | 68 | 57 | +11 |
+| 7 | [[hanwha|한화]] | 14 | 6 | 8 | 0 | 0.429 | 91 | 98 | -7 |
+| 8 | [[doosan|두산]] | 14 | 5 | 8 | 1 | 0.385 | 69 | 85 | -16 |
+| 9 | [[lotte|롯데]] | 14 | 5 | 9 | 0 | 0.357 | 49 | 69 | -20 |
+| 10 | [[kiwoom|키움]] | 14 | 4 | 10 | 0 | 0.286 | 56 | 77 | -21 |
 
-## 전체 경기 기록
+## 위키 구조
 
-| 날짜 | 경기 | 스코어 | 출처 |
-|------|------|--------|------|
-| 03.28 | KIA vs SSG | 6-7 | [[source-kia-vs-ssg-20260328]] |
-| 03.28 | KT vs LG | 11-7 | [[source-kt-vs-lg-20260328]] |
-| 03.28 | 롯데 vs 삼성 | 6-3 | [[source-lotte-vs-samsung-20260328]] |
-| 03.28 | 두산 vs NC | 0-6 | [[source-doosan-vs-nc-20260328]] |
-| 03.28 | 키움 vs 한화 | 9-10 | [[source-kiwoom-vs-hanwha-20260328]] |
-| 03.29 | KIA vs SSG | 6-11 | [[source-kia-vs-ssg-20260329]] |
-| 03.29 | KT vs LG | 6-5 | [[source-kt-vs-lg-20260329]] |
-| 03.29 | 롯데 vs 삼성 | 6-2 | [[source-lotte-vs-samsung-20260329]] |
-| 03.29 | 두산 vs NC | 9-6 | [[source-doosan-vs-nc-20260329]] |
-| 03.29 | 키움 vs 한화 | 4-10 | [[source-kiwoom-vs-hanwha-20260329]] |
-| 03.31 | KIA vs LG | 7-2 | [[source-kia-vs-lg-20260331]] |
-| 03.31 | KT vs 한화 | 9-4 | [[source-kt-vs-hanwha-20260331]] |
-| 03.31 | 롯데 vs NC | 2-9 | [[source-lotte-vs-nc-20260331]] |
-| 03.31 | 두산 vs 삼성 | 5-5 | [[source-doosan-vs-samsung-20260331]] |
-| 03.31 | 키움 vs SSG | 3-9 | [[source-kiwoom-vs-ssg-20260331]] |
-| 04.01 | KIA vs LG | 2-7 | [[source-kia-vs-lg-20260401]] |
-| 04.01 | KT vs 한화 | 14-11 | [[source-kt-vs-hanwha-20260401]] |
-| 04.01 | 롯데 vs NC | 4-5 | [[source-lotte-vs-nc-20260401]] |
-| 04.01 | 두산 vs 삼성 | 3-13 | [[source-doosan-vs-samsung-20260401]] |
-| 04.01 | 키움 vs SSG | 11-2 | [[source-kiwoom-vs-ssg-20260401]] |
-| 04.02 | KIA vs LG | 1-2 | [[source-kia-vs-lg-20260402]] |
-| 04.02 | KT vs 한화 | 13-8 | [[source-kt-vs-hanwha-20260402]] |
-| 04.02 | 롯데 vs NC | 4-8 | [[source-lotte-vs-nc-20260402]] |
-| 04.02 | 두산 vs 삼성 | 2-5 | [[source-doosan-vs-samsung-20260402]] |
-| 04.02 | 키움 vs SSG | 1-11 | [[source-kiwoom-vs-ssg-20260402]] |
-| 04.03 | 한화 vs 두산 | 11-6 | [[source-hanwha-vs-doosan-20260403]] |
-| 04.03 | LG vs 키움 | 2-5 | [[source-lg-vs-kiwoom-20260403]] |
-| 04.03 | NC vs KIA | 5-2 | [[source-nc-vs-kia-20260403]] |
-| 04.03 | SSG vs 롯데 | 17-2 | [[source-ssg-vs-lotte-20260403]] |
-| 04.03 | 삼성 vs KT | 2-1 | [[source-samsung-vs-kt-20260403]] |
-| 04.04 | 한화 vs 두산 | 9-3 | [[source-hanwha-vs-doosan-20260404]] |
-| 04.04 | LG vs 키움 | 6-4 | [[source-lg-vs-kiwoom-20260404]] |
-| 04.04 | NC vs KIA | 6-0 | [[source-nc-vs-kia-20260404]] |
-| 04.04 | SSG vs 롯데 | 7-6 | [[source-ssg-vs-lotte-20260404]] |
-| 04.04 | 삼성 vs KT | 8-6 | [[source-samsung-vs-kt-20260404]] |
-| 04.05 | 한화 vs 두산 | 0-8 | [[source-hanwha-vs-doosan-20260405]] |
-| 04.05 | LG vs 키움 | 6-5 | [[source-lg-vs-kiwoom-20260405]] |
-| 04.05 | NC vs KIA | 0-3 | [[source-nc-vs-kia-20260405]] |
-| 04.05 | SSG vs 롯데 | 4-3 | [[source-ssg-vs-lotte-20260405]] |
-| 04.05 | 삼성 vs KT | 0-2 | [[source-samsung-vs-kt-20260405]] |
-| 04.07 | 한화 vs SSG | 6-2 | [[source-hanwha-vs-ssg-20260407]] |
-| 04.07 | KT vs 롯데 | 7-3 | [[source-kt-vs-lotte-20260407]] |
-| 04.07 | LG vs NC | 2-0 | [[source-lg-vs-nc-20260407]] |
-| 04.07 | 삼성 vs KIA | 10-3 | [[source-samsung-vs-kia-20260407]] |
-| 04.07 | 키움 vs 두산 | 5-2 | [[source-kiwoom-vs-doosan-20260407]] |
-| 04.08 | 한화 vs SSG | 4-3 | [[source-hanwha-vs-ssg-20260408]] |
-| 04.08 | KT vs 롯데 | 1-6 | [[source-kt-vs-lotte-20260408]] |
-| 04.08 | LG vs NC | 5-4 | [[source-lg-vs-nc-20260408]] |
-| 04.08 | 삼성 vs KIA | 5-15 | [[source-samsung-vs-kia-20260408]] |
-| 04.08 | 키움 vs 두산 | 3-7 | [[source-kiwoom-vs-doosan-20260408]] |
-| 04.10 | KIA vs 한화 | 6-5 | [[source-kia-vs-hanwha-20260410]] |
-| 04.10 | 롯데 vs 키움 | 3-1 | [[source-lotte-vs-kiwoom-20260410]] |
-| 04.10 | NC vs 삼성 | 5-8 | [[source-nc-vs-samsung-20260410]] |
-| 04.10 | 두산 vs KT | 8-7 | [[source-doosan-vs-kt-20260410]] |
-| 04.10 | SSG vs LG | 2-10 | [[source-ssg-vs-lg-20260410]] |
-| 04.11 | KIA vs 한화 | 6-5 | [[source-kia-vs-hanwha-20260411]] |
-| 04.11 | 롯데 vs 키움 | 3-1 | [[source-lotte-vs-kiwoom-20260411]] |
-| 04.11 | NC vs 삼성 | 4-5 | [[source-nc-vs-samsung-20260411]] |
-| 04.11 | 두산 vs KT | 4-6 | [[source-doosan-vs-kt-20260411]] |
-| 04.11 | SSG vs LG | 3-4 | [[source-ssg-vs-lg-20260411]] |
-| 04.12 | KIA vs 한화 | 9-3 | [[source-kia-vs-hanwha-20260412]] |
-| 04.12 | 롯데 vs 키움 | 0-2 | [[source-lotte-vs-kiwoom-20260412]] |
-| 04.12 | NC vs 삼성 | 3-9 | [[source-nc-vs-samsung-20260412]] |
-| 04.12 | 두산 vs KT | 1-6 | [[source-doosan-vs-kt-20260412]] |
-| 04.12 | SSG vs LG | 1-9 | [[source-ssg-vs-lg-20260412]] |
-| 04.14 | KT vs NC | 4-7 | [[source-kt-vs-nc-20260414]] |
-| 04.14 | 롯데 vs LG | 1-2 | [[source-lotte-vs-lg-20260414]] |
-| 04.14 | 두산 vs SSG | 11-3 | [[source-doosan-vs-ssg-20260414]] |
-| 04.14 | 삼성 vs 한화 | 6-5 | [[source-samsung-vs-hanwha-20260414]] |
-| 04.14 | 키움 vs KIA | 2-6 | [[source-kiwoom-vs-kia-20260414]] |
+- `teams/` — 10구단 팀 페이지 (성적표·로스터)
+- `players/` — 선수 페이지. 파일명은 `{team_code}-{name_romanized}.md` 컨벤션
+- `games/` — 경기 단위 source 페이지 (`source-{away}-vs-{home}-YYYYMMDD.md`)
 
-## 관련 항목
-- [[doosan]]
-- [[nc]]
-- [[samsung]]
-- [[hanwha]]
-- [[kt]]
-- [[lg]]
-- [[kia]]
-- [[ssg]]
-- [[lotte]]
-- [[kiwoom]]
+### 파일명 컨벤션 주의사항
+
+- `{team}-{name}` 형식은 **동명이인 분리**를 주 목적으로 한다. 예: `kt-choi-won-jun`(타자)과 `doosan-choi-won-jun`(투수)은 서로 다른 사람.
+- **같은 이름이 두 팀에 등장하는 5건** (손아섭/최원준/박지훈/김민석/화이트)은 자동으로 동명이인/이적 주의 박스와 교차 wikilink가 삽입되어 있다.
+- **실제 이적 사례**는 수동 확인 후 한쪽 페이지를 stub/리다이렉트로 변경하거나 통합 페이지를 만드는 방식으로 처리할 것.
+- 로마자 변환은 기존 영문 슬러그 페이지(예: `kim-do-young`, `nail`) 우선, 나머지는 `hangul-romanize` + 한국식 관용 표기(김→kim, 박→park 등) 적용.
+
+## 팀 페이지
+
+- [[kia|KIA 타이거즈]]
+- [[kt|KT 위즈]]
+- [[lg|LG 트윈스]]
+- [[nc|NC 다이노스]]
+- [[ssg|SSG 랜더스]]
+- [[doosan|두산 베어스]]
+- [[lotte|롯데 자이언츠]]
+- [[samsung|삼성 라이온즈]]
+- [[kiwoom|키움 히어로즈]]
+- [[hanwha|한화 이글스]]
