@@ -3,8 +3,17 @@
 
 import os
 import re
+import sys
 import glob
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
+
+# Windows 콘솔에서 이모지 print가 cp949로 인코딩 실패하는 것 방지
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
+KST = timezone(timedelta(hours=9))
+LOG_MARKER_RE = re.compile(r"<!--\s*last-kbo-ingest-date:\s*(\d{4}-\d{2}-\d{2})\s*-->")
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW_DIR = os.path.join(BASE, "raw/articles/kbo/2026")
@@ -30,7 +39,7 @@ TEAM_STADIUM = {
 
 # ── Parse one game file ──
 def parse_game(filepath):
-    with open(filepath, "r") as f:
+    with open(filepath, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     game = {"filepath": filepath, "batters": {}, "pitchers": {}}
@@ -277,6 +286,60 @@ source: {os.path.relpath(game['filepath'], BASE)}
     return content.strip() + "\n"
 
 
+# ── log.md 갱신 ──
+def update_log(games):
+    """log.md에 KBO 자동 수집 엔트리를 멱등적으로 추가한다.
+
+    파일 끝의 `<!-- last-kbo-ingest-date: YYYY-MM-DD -->` 워터마크를 기준으로
+    - 마커가 없으면: 기존 로그를 건드리지 않고 현재 최신 경기 날짜로 마커만 설치.
+    - 마커보다 늦은 raw 데이터가 있으면: 해당 구간만 요약한 엔트리를 append.
+    """
+    log_path = os.path.join(BASE, "wiki/log.md")
+    try:
+        with open(log_path, "r", encoding="utf-8") as f:
+            existing = f.read()
+    except FileNotFoundError:
+        return False
+
+    raw_dates = sorted({g.get("date", "").replace(".", "-") for g in games if g.get("date")})
+    if not raw_dates:
+        return False
+    latest_raw = raw_dates[-1]
+
+    m = LOG_MARKER_RE.search(existing)
+    if not m:
+        # 첫 실행: 백필 엔트리 없이 워터마크만 설치
+        new_content = existing.rstrip() + f"\n\n<!-- last-kbo-ingest-date: {latest_raw} -->\n"
+        with open(log_path, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        print(f"📝 log.md 워터마크 초기화: {latest_raw}")
+        return True
+
+    last_logged = m.group(1)
+    new_dates = [d for d in raw_dates if d > last_logged]
+    if not new_dates:
+        return False
+
+    new_set = set(new_dates)
+    new_game_count = sum(1 for g in games if g.get("date", "").replace(".", "-") in new_set)
+
+    today_kst = datetime.now(KST).strftime("%Y-%m-%d")
+    range_str = new_dates[0] if len(new_dates) == 1 else f"{new_dates[0]} ~ {new_dates[-1]}"
+
+    entry = (
+        f"\n## [{today_kst}] ingest | KBO 자동 수집 ({range_str})\n"
+        f"- 신규 경기 {new_game_count}개 반영 ({len(new_dates)}일치)\n"
+        f"- games / teams / players / kbo-2026-season / index 재생성\n"
+    )
+
+    without_marker = LOG_MARKER_RE.sub("", existing).rstrip()
+    new_content = without_marker + "\n" + entry + f"\n<!-- last-kbo-ingest-date: {latest_raw} -->\n"
+    with open(log_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+    print(f"📝 log.md 추가: {range_str} ({new_game_count}경기)")
+    return True
+
+
 # ── Main ──
 def main():
     # Find all individual game files (exclude all_games)
@@ -346,7 +409,7 @@ def main():
         date_raw = game.get("date", "").replace(".", "")
         fname = f"source-{ac}-vs-{hc}-{date_raw}.md"
         fpath = os.path.join(WIKI_DIR, "games", fname)
-        with open(fpath, "w") as f:
+        with open(fpath, "w", encoding="utf-8") as f:
             f.write(gen_source(game))
         source_count += 1
     print(f"📝 source 페이지 {source_count}개 생성")
@@ -420,7 +483,7 @@ KBO 리그 소속 프로야구단.
 - [[kbo-2026-season]]
 """
         fpath = os.path.join(WIKI_DIR, "teams", f"{tc}.md")
-        with open(fpath, "w") as f:
+        with open(fpath, "w", encoding="utf-8") as f:
             f.write(content.strip() + "\n")
 
     print(f"📝 팀 페이지 {len(team_games)}개 생성")
@@ -468,7 +531,7 @@ type: entity
 - [[{tc}]] | [[kbo-2026-season]]
 """
         fpath = os.path.join(WIKI_DIR, "players", f"{name_slug}.md")
-        with open(fpath, "w") as f:
+        with open(fpath, "w", encoding="utf-8") as f:
             f.write(content.strip() + "\n")
         player_count += 1
 
@@ -482,7 +545,7 @@ type: entity
 
         if os.path.exists(fpath):
             # Append pitching stats to existing page
-            with open(fpath, "r") as f:
+            with open(fpath, "r", encoding="utf-8") as f:
                 existing = f.read()
             if "투수 성적" not in existing:
                 game_rows = []
@@ -501,7 +564,7 @@ type: entity
 """
                 # Insert before 관련 항목
                 existing = existing.replace("## 관련 항목", pitch_section.strip() + "\n\n## 관련 항목")
-                with open(fpath, "w") as f:
+                with open(fpath, "w", encoding="utf-8") as f:
                     f.write(existing)
             continue
 
@@ -533,7 +596,7 @@ type: entity
 - [[{tc}]] | [[kbo-2026-season]]
 """
         fpath_out = os.path.join(WIKI_DIR, "players", f"{name_slug}.md")
-        with open(fpath_out, "w") as f:
+        with open(fpath_out, "w", encoding="utf-8") as f:
             f.write(content.strip() + "\n")
         player_count += 1
 
@@ -569,6 +632,14 @@ type: entity
         standing_rows.append(f"| {i} | [[{tc}\\|{tn}]] | {w} | {l} | {d} | .{int(pct*1000):03d} |")
     standing_table = "\n".join(standing_rows)
 
+    # 최신 경기 날짜 (순위 헤더 라벨용)
+    latest_date = max((g.get("date", "") for g in games if g.get("date")), default="")
+    if latest_date:
+        y, m, d = latest_date.split(".")
+        standings_label = f"{int(m)}월 {int(d)}일 기준"
+    else:
+        standings_label = "기준일 없음"
+
     season_content = f"""---
 type: concept
 ---
@@ -577,7 +648,7 @@ type: concept
 
 2026년 KBO 리그 정규시즌. 2026년 3월 28일 개막.
 
-## 순위 (4월 8일 기준)
+## 순위 ({standings_label})
 
 | 순위 | 팀 | 승 | 패 | 무 | 승률 |
 |------|------|----|----|----|----|
@@ -593,7 +664,7 @@ type: concept
 {chr(10).join(f'- [[{tc}]]' for tc in TEAM_CODE.values())}
 """
     fpath = os.path.join(WIKI_DIR, "kbo-2026-season.md")
-    with open(fpath, "w") as f:
+    with open(fpath, "w", encoding="utf-8") as f:
         f.write(season_content.strip() + "\n")
     print("📝 kbo-2026-season.md 업데이트")
 
@@ -676,9 +747,12 @@ type: concept
 ## 기타
 """
     fpath = os.path.join(BASE, "wiki/index.md")
-    with open(fpath, "w") as f:
+    with open(fpath, "w", encoding="utf-8") as f:
         f.write(index_content.strip() + "\n")
     print("📝 index.md 업데이트")
+
+    # ── log.md 갱신 ──
+    update_log(games)
 
     print(f"\n🏁 완료! source {source_count} + 팀 {len(team_games)} + 선수 {player_count} + concept 1 + index 1")
 

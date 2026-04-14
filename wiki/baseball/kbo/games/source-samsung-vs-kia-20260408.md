@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260408/20260408SSHT0_삼성_vs_KIA.md
+source: raw\articles\kbo\2026\20260408\20260408SSHT0_삼성_vs_KIA.md
 ---
 
 # 삼성 vs KIA 2026.04.08 경기 요약

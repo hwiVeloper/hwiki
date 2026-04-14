@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260331/20260331OBSS0_두산_vs_삼성.md
+source: raw\articles\kbo\2026\20260331\20260331OBSS0_두산_vs_삼성.md
 ---
 
 # 두산 vs 삼성 2026.03.31 경기 요약

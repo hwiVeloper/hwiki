@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260328/20260328LTSS0_롯데_vs_삼성.md
+source: raw\articles\kbo\2026\20260328\20260328LTSS0_롯데_vs_삼성.md
 ---
 
 # 롯데 vs 삼성 2026.03.28 경기 요약

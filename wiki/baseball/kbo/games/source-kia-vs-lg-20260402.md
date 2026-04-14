@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260402/20260402HTLG0_KIA_vs_LG.md
+source: raw\articles\kbo\2026\20260402\20260402HTLG0_KIA_vs_LG.md
 ---
 
 # KIA vs LG 2026.04.02 경기 요약

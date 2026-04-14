@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260329/20260329KTLG0_KT_vs_LG.md
+source: raw\articles\kbo\2026\20260329\20260329KTLG0_KT_vs_LG.md
 ---
 
 # KT vs LG 2026.03.29 경기 요약

@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260331/20260331WOSK0_키움_vs_SSG.md
+source: raw\articles\kbo\2026\20260331\20260331WOSK0_키움_vs_SSG.md
 ---
 
 # 키움 vs SSG 2026.03.31 경기 요약

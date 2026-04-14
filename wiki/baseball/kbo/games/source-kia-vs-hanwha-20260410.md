@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260410/20260410HTHH0_KIA_vs_한화.md
+source: raw\articles\kbo\2026\20260410\20260410HTHH0_KIA_vs_한화.md
 ---
 
 # KIA vs 한화 2026.04.10 경기 요약

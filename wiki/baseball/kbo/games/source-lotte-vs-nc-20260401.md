@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260401/20260401LTNC0_롯데_vs_NC.md
+source: raw\articles\kbo\2026\20260401\20260401LTNC0_롯데_vs_NC.md
 ---
 
 # 롯데 vs NC 2026.04.01 경기 요약

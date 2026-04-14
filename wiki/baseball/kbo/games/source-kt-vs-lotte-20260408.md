@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260408/20260408KTLT0_KT_vs_롯데.md
+source: raw\articles\kbo\2026\20260408\20260408KTLT0_KT_vs_롯데.md
 ---
 
 # KT vs 롯데 2026.04.08 경기 요약

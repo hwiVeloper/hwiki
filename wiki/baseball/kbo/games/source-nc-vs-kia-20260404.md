@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260404/20260404NCHT0_NC_vs_KIA.md
+source: raw\articles\kbo\2026\20260404\20260404NCHT0_NC_vs_KIA.md
 ---
 
 # NC vs KIA 2026.04.04 경기 요약

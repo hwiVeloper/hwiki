@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260411/20260411NCSS0_NC_vs_삼성.md
+source: raw\articles\kbo\2026\20260411\20260411NCSS0_NC_vs_삼성.md
 ---
 
 # NC vs 삼성 2026.04.11 경기 요약

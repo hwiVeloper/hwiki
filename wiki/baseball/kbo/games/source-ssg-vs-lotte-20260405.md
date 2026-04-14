@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260405/20260405SKLT0_SSG_vs_롯데.md
+source: raw\articles\kbo\2026\20260405\20260405SKLT0_SSG_vs_롯데.md
 ---
 
 # SSG vs 롯데 2026.04.05 경기 요약

@@ -37,3 +37,9 @@
 - kbo-2026-season concept 페이지 업데이트 (순위표 포함)
 - index.md 전면 업데이트
 - 스크립트 생성: scripts/rebuild_kbo_wiki.py
+
+## [2026-04-14] ingest | KBO 자동 수집 (2026-04-11 ~ 2026-04-12)
+- 신규 경기 10개 반영 (2일치)
+- games / teams / players / kbo-2026-season / index 재생성
+
+<!-- last-kbo-ingest-date: 2026-04-12 -->

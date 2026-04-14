@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260411/20260411SKLG0_SSG_vs_LG.md
+source: raw\articles\kbo\2026\20260411\20260411SKLG0_SSG_vs_LG.md
 ---
 
 # SSG vs LG 2026.04.11 경기 요약

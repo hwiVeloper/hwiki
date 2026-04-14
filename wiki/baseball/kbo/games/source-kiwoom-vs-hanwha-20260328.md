@@ -1,6 +1,6 @@
 ---
 type: source
-source: raw/articles/kbo/2026/20260328/20260328WOHH0_키움_vs_한화.md
+source: raw\articles\kbo\2026\20260328\20260328WOHH0_키움_vs_한화.md
 ---
 
 # 키움 vs 한화 2026.03.28 경기 요약
