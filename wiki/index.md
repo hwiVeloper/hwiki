@@ -18,461 +18,457 @@
 
 ### 선수 (`players/`)
 
-> 파일명 컨벤션: `{team}-{name_romanized}.md`
-
 #### KIA
-- [[kia-kim-ho-ryeong|김호령]] — 14경기
-- [[kia-castro|카스트로]] — 14경기
-- [[kia-kim-do-young|김도영]] — 14경기
-- [[kia-kim-seon-bin|김선빈]] — 14경기
-- [[kia-han-jun-soo|한준수]] — 14경기
-- [[kia-na-sung-bum|나성범]] — 13경기
-- [[kia-dale|데일]] — 13경기
-- [[kia-park-jae-hyun|박재현]] — 12경기
-- [[kia-kim-gyu-sung|김규성]] — 12경기
-- [[kia-jung-hyun-chang|정현창]] — 11경기
-- [[kia-park-jung-u|박정우]] — 10경기
-- [[kia-park-sang-jun|박상준]] — 7경기
-- [[kia-oh-seon-u|오선우]] — 6경기
-- [[kia-kim-tae-gun|김태군]] — 6경기
-- [[kia-park-min|박민]] — 6경기
-- [[kia-yoon-do-hyun|윤도현]] — 5경기
-- [[kia-ko-jong-uk|고종욱]] — 4경기
-- [[kia-lee-chang-jin|이창진]] — 1경기
-- [[kia-kim-bum-su|김범수]] (투수) — 8경기
-- [[kia-sung-young-tak|성영탁]] (투수) — 6경기
-- [[kia-jo-sang-u|조상우]] (투수) — 6경기
-- [[kia-hong-min-gyu|홍민규]] (투수) — 5경기
-- [[kia-lee-tae-yang|이태양]] (투수) — 5경기
-- [[kia-jun-sang-hyun|전상현]] (투수) — 4경기
-- [[kia-jung-hae-young|정해영]] (투수) — 4경기
-- [[kia-hwang-dong-ha|황동하]] (투수) — 4경기
-- [[kia-choi-ji-min|최지민]] (투수) — 4경기
-- [[kia-nail|네일]] (투수) — 3경기
-- [[kia-lee-ui-li|이의리]] (투수) — 3경기
-- [[kia-oller|올러]] (투수) — 3경기
-- [[kia-yang-hyun-jong|양현종]] (투수) — 3경기
-- [[kia-han-jae-seung|한재승]] (투수) — 3경기
-- [[kia-kim-si-hun|김시훈]] (투수) — 2경기
-- [[kia-kim-tae-hyoung|김태형]] (투수) — 2경기
-- [[kia-kim-gi-hun|김기훈]] (투수) — 1경기
-- [[kia-hong-geon-hui|홍건희]] (투수) — 1경기
+- [[player-데일]] — 데일
+- [[player-김호령]] — 김호령
+- [[player-카스트로]] — 카스트로
+- [[player-김선빈]] — 김선빈
+- [[kim-do-young]] — 김도영
+- [[na-sung-bum]] — 나성범
+- [[han-jun-soo]] — 한준수
+- [[player-박재현]] — 박재현
+- [[player-김규성]] — 김규성
+- [[player-윤도현]] — 윤도현
+- [[player-김태군]] — 김태군
+- [[player-박상준]] — 박상준
+- [[player-오선우]] — 오선우
+- [[player-박민]] — 박민
+- [[player-박정우]] — 박정우
+- [[player-고종욱]] — 고종욱
+- [[player-정현창]] — 정현창
+- [[nail]] — 네일 (투수)
+- [[player-김범수]] — 김범수 (투수)
+- [[player-성영탁]] — 성영탁 (투수)
+- [[player-전상현]] — 전상현 (투수)
+- [[jung-hae-young]] — 정해영 (투수)
+- [[player-조상우]] — 조상우 (투수)
+- [[player-이의리]] — 이의리 (투수)
+- [[player-황동하]] — 황동하 (투수)
+- [[player-홍민규]] — 홍민규 (투수)
+- [[player-김시훈]] — 김시훈 (투수)
+- [[player-최지민]] — 최지민 (투수)
+- [[player-김기훈]] — 김기훈 (투수)
+- [[player-올러]] — 올러 (투수)
+- [[yang-hyun-jong]] — 양현종 (투수)
+- [[player-김태형]] — 김태형 (투수)
+- [[player-이태양]] — 이태양 (투수)
+- [[player-한재승]] — 한재승 (투수)
+- [[player-홍건희]] — 홍건희 (투수)
 
 #### KT
-- [[kt-kim-hyun-soo|김현수]] — 14경기
-- [[kt-hilliard|힐리어드]] — 14경기
-- [[kt-jang-sung-woo|장성우]] — 14경기
-- [[kt-lee-gang-min|이강민]] — 14경기
-- [[kt-choi-won-jun|최원준]] — 13경기
-- [[kt-ahn-hyun-min|안현민]] — 13경기
-- [[kt-ryu-hyun-in|류현인]] — 13경기
-- [[kt-kim-sang-su|김상수]] — 13경기
-- [[kt-oh-yoon-seok|오윤석]] — 11경기
-- [[kt-han-seung-taek|한승택]] — 11경기
-- [[kt-gwon-dong-jin|권동진]] — 8경기
-- [[kt-bae-jung-dae|배정대]] — 7경기
-- [[kt-lee-jung-hun|이정훈]] — 6경기
-- [[kt-heo-kyung-min|허경민]] — 6경기
-- [[kt-jang-jin-hyuk|장진혁]] — 5경기
-- [[kt-an-chi-young|안치영]] — 3경기
-- [[kt-jo-dae-hyun|조대현]] — 2경기
-- [[kt-kang-min-sung|강민성]] — 1경기
-- [[kt-kim-min-seok|김민석]] — 1경기
-- [[kt-yoo-jun-gyu|유준규]] — 1경기
-- [[kt-han-seung-hyuk|한승혁]] (투수) — 9경기
-- [[kt-sugimoto|스기모토]] (투수) — 9경기
-- [[kt-kim-min-soo|김민수]] (투수) — 8경기
-- [[kt-park-young-hyun|박영현]] (투수) — 7경기
-- [[kt-jun-yong-ju|전용주]] (투수) — 7경기
-- [[kt-son-dong-hyun|손동현]] (투수) — 7경기
-- [[kt-woo-gyu-min|우규민]] (투수) — 5경기
-- [[kt-joo-kwon|주권]] (투수) — 4경기
-- [[kt-sauer|사우어]] (투수) — 3경기
-- [[kt-so-hyung-jun|소형준]] (투수) — 3경기
-- [[kt-bosulli|보쉴리]] (투수) — 3경기
-- [[kt-go-young-pyo|고영표]] (투수) — 3경기
-- [[kt-oh-won-seok|오원석]] (투수) — 2경기
-- [[kt-park-ji-hun|박지훈]] (투수) — 1경기
-- [[kt-moon-yong-ik|문용익]] (투수) — 1경기
+- [[kim-hyun-soo]] — 김현수
+- [[ahn-hyun-min]] — 안현민
+- [[choi-won-jun-kia]] — 최원준
+- [[jang-sung-woo]] — 장성우
+- [[oh-yoon-seok]] — 오윤석
+- [[hilliard]] — 힐리어드
+- [[player-허경민]] — 허경민
+- [[lee-gang-min]] — 이강민
+- [[player-김상수]] — 김상수
+- [[ryu-hyun-in]] — 류현인
+- [[player-이정훈]] — 이정훈
+- [[player-한승택]] — 한승택
+- [[player-배정대]] — 배정대
+- [[player-권동진]] — 권동진
+- [[player-장진혁]] — 장진혁
+- [[player-안치영]] — 안치영
+- [[park-young-hyun]] — 박영현
+- [[player-조대현]] — 조대현
+- [[player-유준규]] — 유준규
+- [[sauer]] — 사우어 (투수)
+- [[player-전용주]] — 전용주 (투수)
+- [[player-한승혁]] — 한승혁 (투수)
+- [[player-스기모토]] — 스기모토 (투수)
+- [[player-우규민]] — 우규민 (투수)
+- [[so-hyung-jun]] — 소형준 (투수)
+- [[player-손동현]] — 손동현 (투수)
+- [[kim-min-soo]] — 김민수 (투수)
+- [[player-보쉴리]] — 보쉴리 (투수)
+- [[joo-kwon]] — 주권 (투수)
+- [[go-young-pyo]] — 고영표 (투수)
+- [[oh-won-seok]] — 오원석 (투수)
+- [[park-ji-hun]] — 박지훈 (투수)
+- [[player-문용익]] — 문용익 (투수)
 
 #### LG
-- [[lg-hong-chang-ki|홍창기]] — 14경기
-- [[lg-shin-min-jae|신민재]] — 14경기
-- [[lg-austin|오스틴]] — 14경기
-- [[lg-moon-sung-joo|문성주]] — 14경기
-- [[lg-koo-bon-hyuk|구본혁]] — 14경기
-- [[lg-park-hae-min|박해민]] — 14경기
-- [[lg-moon-bo-kyung|문보경]] — 13경기
-- [[lg-park-dong-won|박동원]] — 13경기
-- [[lg-chun-sung-ho|천성호]] — 13경기
-- [[lg-oh-ji-hwan|오지환]] — 13경기
-- [[lg-lee-jae-won|이재원]] — 10경기
-- [[lg-choi-won-young|최원영]] — 10경기
-- [[lg-lee-ju-heon|이주헌]] — 8경기
-- [[lg-lee-young-bin|이영빈]] — 6경기
-- [[lg-song-chan-ui|송찬의]] — 1경기
-- [[lg-yoo-young-chan|유영찬]] (투수) — 9경기
-- [[lg-woo-gang-hun|우강훈]] (투수) — 7경기
-- [[lg-kim-jin-sung|김진성]] (투수) — 7경기
-- [[lg-jang-hyun-sik|장현식]] (투수) — 7경기
-- [[lg-bae-jae-jun|배재준]] (투수) — 6경기
-- [[lg-lee-jung-yong|이정용]] (투수) — 5경기
-- [[lg-ham-deok-joo|함덕주]] (투수) — 5경기
-- [[lg-kim-young-u|김영우]] (투수) — 5경기
-- [[lg-cirinos|치리노스]] (투수) — 3경기
-- [[lg-baek-seung-hyun|백승현]] (투수) — 3경기
-- [[lg-im-chan-gyu|임찬규]] (투수) — 3경기
-- [[lg-tolhurst|톨허스트]] (투수) — 3경기
-- [[lg-lee-u-chan|이우찬]] (투수) — 3경기
-- [[lg-song-seung-gi|송승기]] (투수) — 3경기
-- [[lg-park-si-won|박시원]] (투수) — 2경기
-- [[lg-wells|웰스]] (투수) — 2경기
-- [[lg-sung-dong-hyun|성동현]] (투수) — 1경기
+- [[austin]] — 오스틴
+- [[moon-sung-joo]] — 문성주
+- [[park-hae-min]] — 박해민
+- [[player-천성호]] — 천성호
+- [[oh-ji-hwan]] — 오지환
+- [[moon-bo-kyung]] — 문보경
+- [[shin-min-jae]] — 신민재
+- [[hong-chang-ki]] — 홍창기
+- [[park-dong-won]] — 박동원
+- [[koo-bon-hyuk]] — 구본혁
+- [[player-이주헌]] — 이주헌
+- [[player-이영빈]] — 이영빈
+- [[player-이재원]] — 이재원
+- [[player-최원영]] — 최원영
+- [[player-치리노스]] — 치리노스 (투수)
+- [[player-배재준]] — 배재준 (투수)
+- [[player-이정용]] — 이정용 (투수)
+- [[ham-deok-joo]] — 함덕주 (투수)
+- [[player-김영우]] — 김영우 (투수)
+- [[baek-seung-hyun]] — 백승현 (투수)
+- [[player-우강훈]] — 우강훈 (투수)
+- [[park-si-won]] — 박시원 (투수)
+- [[im-chan-gyu]] — 임찬규 (투수)
+- [[player-김진성]] — 김진성 (투수)
+- [[player-장현식]] — 장현식 (투수)
+- [[yoo-young-chan]] — 유영찬 (투수)
+- [[player-톨허스트]] — 톨허스트 (투수)
+- [[player-이우찬]] — 이우찬 (투수)
+- [[player-송승기]] — 송승기 (투수)
+- [[player-웰스]] — 웰스 (투수)
+- [[player-성동현]] — 성동현 (투수)
 
 #### NC
-- [[nc-kim-ju-won|김주원]] — 14경기
-- [[nc-park-gun-woo|박건우]] — 14경기
-- [[nc-kim-hwi-jip|김휘집]] — 14경기
-- [[nc-kim-hyung-jun|김형준]] — 14경기
-- [[nc-seo-ho-chul|서호철]] — 14경기
-- [[nc-choi-jung-won|최정원]] — 14경기
-- [[nc-park-min-woo|박민우]] — 13경기
-- [[nc-davidson|데이비슨]] — 13경기
-- [[nc-chun-jae-hwan|천재환]] — 13경기
-- [[nc-lee-woo-sung|이우성]] — 12경기
-- [[nc-shin-jae-in|신재인]] — 10경기
-- [[nc-han-seok-hyun|한석현]] — 9경기
-- [[nc-heo-yun|허윤]] — 9경기
-- [[nc-kim-jung-ho|김정호]] — 6경기
-- [[nc-kim-han-byul|김한별]] — 5경기
-- [[nc-oh-young-soo|오영수]] — 5경기
-- [[nc-go-jun-hwi|고준휘]] — 3경기
-- [[nc-kwon-hee-dong|권희동]] — 2경기
-- [[nc-oh-jang-han|오장한]] — 1경기
-- [[nc-oh-tae-yang|오태양]] — 1경기
-- [[nc-kim-young-gyu|김영규]] (투수) — 10경기
-- [[nc-bae-jae-hwan|배재환]] (투수) — 9경기
-- [[nc-im-ji-min|임지민]] (투수) — 9경기
-- [[nc-lee-jun-hyuk|이준혁]] (투수) — 7경기
-- [[nc-kim-jin-ho|김진호]] (투수) — 6경기
-- [[nc-ryu-jin-wook|류진욱]] (투수) — 6경기
-- [[nc-won-jong-hae|원종해]] (투수) — 6경기
-- [[nc-shin-young-u|신영우]] (투수) — 4경기
-- [[nc-koo-chang-mo|구창모]] (투수) — 3경기
-- [[nc-taylor|테일러]] (투수) — 3경기
-- [[nc-toda|토다]] (투수) — 3경기
-- [[nc-verhagen|버하겐]] (투수) — 3경기
-- [[nc-mok-ji-hun|목지훈]] (투수) — 3경기
-- [[nc-jun-sa-min|전사민]] (투수) — 3경기
-- [[nc-im-jung-ho|임정호]] (투수) — 2경기
-- [[nc-shin-min-hyuk|신민혁]] (투수) — 2경기
-- [[nc-son-ju-hwan|손주환]] (투수) — 1경기
+- [[park-min-woo]] — 박민우
+- [[park-gun-woo]] — 박건우
+- [[kim-hwi-jip]] — 김휘집
+- [[kim-hyung-jun]] — 김형준
+- [[choi-jung-won]] — 최정원
+- [[kim-ju-won]] — 김주원
+- [[davidson]] — 데이비슨
+- [[lee-woo-sung]] — 이우성
+- [[seo-ho-chul]] — 서호철
+- [[han-seok-hyun]] — 한석현
+- [[player-신재인]] — 신재인
+- [[chun-jae-hwan]] — 천재환
+- [[oh-young-soo]] — 오영수
+- [[kwon-hee-dong]] — 권희동
+- [[player-김정호]] — 김정호
+- [[go-jun-hwi]] — 고준휘
+- [[kim-han-byul]] — 김한별
+- [[heo-yun]] — 허윤
+- [[player-오태양]] — 오태양
+- [[koo-chang-mo]] — 구창모 (투수)
+- [[bae-jae-hwan]] — 배재환 (투수)
+- [[im-ji-min]] — 임지민 (투수)
+- [[kim-jin-ho]] — 김진호 (투수)
+- [[kim-young-gyu]] — 김영규 (투수)
+- [[lee-jun-hyuk]] — 이준혁 (투수)
+- [[taylor]] — 테일러 (투수)
+- [[son-ju-hwan]] — 손주환 (투수)
+- [[im-jung-ho]] — 임정호 (투수)
+- [[ryu-jin-wook]] — 류진욱 (투수)
+- [[player-토다]] — 토다 (투수)
+- [[player-신영우]] — 신영우 (투수)
+- [[player-원종해]] — 원종해 (투수)
+- [[player-신민혁]] — 신민혁 (투수)
+- [[player-버하겐]] — 버하겐 (투수)
+- [[player-목지훈]] — 목지훈 (투수)
+- [[player-전사민]] — 전사민 (투수)
 
 #### SSG
-- [[ssg-park-sung-han|박성한]] — 14경기
-- [[ssg-heredia|에레디아]] — 14경기
-- [[ssg-choi-jung|최정]] — 14경기
-- [[ssg-kim-jae-hwan|김재환]] — 14경기
-- [[ssg-go-myung-jun|고명준]] — 14경기
-- [[ssg-choi-ji-hun|최지훈]] — 14경기
-- [[ssg-kim-sung-uk|김성욱]] — 14경기
-- [[ssg-jo-hyoung-u|조형우]] — 12경기
-- [[ssg-ahn-sang-hyun|안상현]] — 12경기
-- [[ssg-jung-jun-jae|정준재]] — 12경기
-- [[ssg-han-yoo-seom|한유섬]] — 12경기
-- [[ssg-oh-tae-gon|오태곤]] — 11경기
-- [[ssg-chae-hyun-u|채현우]] — 10경기
-- [[ssg-lee-ji-young|이지영]] — 9경기
-- [[ssg-hong-dae-in|홍대인]] — 5경기
-- [[ssg-kim-min-jun|김민준]] — 2경기
-- [[ssg-seok-jung-u|석정우]] — 2경기
-- [[ssg-im-geun-u|임근우]] — 1경기
-- [[ssg-jun-young-jun|전영준]] (투수) — 8경기
-- [[ssg-park-si-hu|박시후]] (투수) — 7경기
-- [[ssg-moon-seung-won|문승원]] (투수) — 6경기
-- [[ssg-kim-min|김민]] (투수) — 6경기
-- [[ssg-lee-lo-un|이로운]] (투수) — 5경기
-- [[ssg-han-du-sol|한두솔]] (투수) — 5경기
-- [[ssg-noh-kyung-eun|노경은]] (투수) — 4경기
-- [[ssg-jo-byoung-hyun|조병현]] (투수) — 4경기
-- [[ssg-white|화이트]] (투수) — 3경기
-- [[ssg-kim-geon-u|김건우]] (투수) — 3경기
-- [[ssg-veneziano|베니지아노]] (투수) — 3경기
-- [[ssg-takeda|타케다]] (투수) — 3경기
-- [[ssg-jang-ji-hun|장지훈]] (투수) — 3경기
-- [[ssg-lee-gi-sun|이기순]] (투수) — 2경기
-- [[ssg-baek-seung-geon|백승건]] (투수) — 2경기
-- [[ssg-choi-min-jun|최민준]] (투수) — 2경기
-- [[ssg-kim-taek-hyoung|김택형]] (투수) — 1경기
+- [[player-박성한]] — 박성한
+- [[go-myung-jun]] — 고명준
+- [[heredia]] — 에레디아
+- [[choi-jung]] — 최정
+- [[player-조형우]] — 조형우
+- [[choi-ji-hun]] — 최지훈
+- [[ahn-sang-hyun]] — 안상현
+- [[han-yoo-seom]] — 한유섬
+- [[player-김재환]] — 김재환
+- [[player-정준재]] — 정준재
+- [[player-김성욱]] — 김성욱
+- [[player-오태곤]] — 오태곤
+- [[player-홍대인]] — 홍대인
+- [[player-채현우]] — 채현우
+- [[player-이지영]] — 이지영
+- [[player-김민준]] — 김민준
+- [[player-석정우]] — 석정우
+- [[player-화이트]] — 화이트 (투수)
+- [[player-전영준]] — 전영준 (투수)
+- [[player-박시후]] — 박시후 (투수)
+- [[moon-seung-won]] — 문승원 (투수)
+- [[player-이로운]] — 이로운 (투수)
+- [[player-김민]] — 김민 (투수)
+- [[player-김건우]] — 김건우 (투수)
+- [[player-김택형]] — 김택형 (투수)
+- [[player-노경은]] — 노경은 (투수)
+- [[player-조병현]] — 조병현 (투수)
+- [[veneziano]] — 베니지아노 (투수)
+- [[player-이기순]] — 이기순 (투수)
+- [[player-백승건]] — 백승건 (투수)
+- [[player-타케다]] — 타케다 (투수)
+- [[player-최민준]] — 최민준 (투수)
+- [[player-한두솔]] — 한두솔 (투수)
+- [[player-장지훈]] — 장지훈 (투수)
 
 #### 두산
-- [[doosan-park-chan-ho|박찬호]] — 14경기
-- [[doosan-jung-su-bin|정수빈]] — 14경기
-- [[doosan-cameron|카메론]] — 14경기
-- [[doosan-yang-eui-ji|양의지]] — 14경기
-- [[doosan-yang-seok-hwan|양석환]] — 13경기
-- [[doosan-ahn-jae-seok|안재석]] — 13경기
-- [[doosan-park-ji-hun|박지훈]] — 13경기
-- [[doosan-park-jun-sun|박준순]] — 12경기
-- [[doosan-kim-min-seok|김민석]] — 11경기
-- [[doosan-lee-yu-chan|이유찬]] — 11경기
-- [[doosan-kang-seung-ho|강승호]] — 10경기
-- [[doosan-kim-in-tae|김인태]] — 9경기
-- [[doosan-yoon-jun-ho|윤준호]] — 8경기
-- [[doosan-jo-su-haeng|조수행]] — 8경기
-- [[doosan-oh-myung-jin|오명진]] — 7경기
-- [[doosan-son-a-seop|손아섭]] — 1경기
-- [[doosan-lee-byung-hun|이병헌]] (투수) — 8경기
-- [[doosan-yang-jae-hun|양재훈]] (투수) — 7경기
-- [[doosan-park-shin-ji|박신지]] (투수) — 6경기
-- [[doosan-tamura|타무라]] (투수) — 6경기
-- [[doosan-lee-yong-chan|이용찬]] (투수) — 6경기
-- [[doosan-kim-taek-yeon|김택연]] (투수) — 5경기
-- [[doosan-yoon-tae-ho|윤태호]] (투수) — 5경기
-- [[doosan-park-chi-guk|박치국]] (투수) — 4경기
-- [[doosan-kim-jung-woo|김정우]] (투수) — 4경기
-- [[doosan-gwak-bin|곽빈]] (투수) — 3경기
-- [[doosan-choi-ji-gang|최지강]] (투수) — 3경기
-- [[doosan-zach-logue|잭로그]] (투수) — 3경기
-- [[doosan-choi-seung-yong|최승용]] (투수) — 3경기
-- [[doosan-choi-min-seok|최민석]] (투수) — 3경기
-- [[doosan-flexen|플렉센]] (투수) — 2경기
-- [[doosan-choi-won-jun|최원준]] (투수) — 2경기
-- [[doosan-park-jung-soo|박정수]] (투수) — 2경기
+- [[park-jun-sun]] — 박준순
+- [[park-chan-ho]] — 박찬호
+- [[cameron]] — 카메론
+- [[yang-seok-hwan]] — 양석환
+- [[ahn-jae-seok]] — 안재석
+- [[jung-su-bin]] — 정수빈
+- [[kim-min-seok]] — 김민석
+- [[yang-eui-ji]] — 양의지
+- [[kang-seung-ho]] — 강승호
+- [[park-ji-hun]] — 박지훈
+- [[yoon-jun-ho]] — 윤준호
+- [[jo-su-haeng]] — 조수행
+- [[player-손아섭]] — 손아섭
+- [[kim-in-tae]] — 김인태
+- [[lee-yu-chan]] — 이유찬
+- [[oh-myung-jin]] — 오명진
+- [[flexen]] — 플렉센 (투수)
+- [[park-shin-ji]] — 박신지 (투수)
+- [[lee-byung-hun]] — 이병헌 (투수)
+- [[park-chi-guk]] — 박치국 (투수)
+- [[yang-jae-hun]] — 양재훈 (투수)
+- [[choi-won-jun-kia]] — 최원준 (투수)
+- [[gwak-bin]] — 곽빈 (투수)
+- [[choi-ji-gang]] — 최지강 (투수)
+- [[tamura]] — 타무라 (투수)
+- [[lee-yong-chan]] — 이용찬 (투수)
+- [[kim-taek-yeon]] — 김택연 (투수)
+- [[zach-logue]] — 잭로그 (투수)
+- [[choi-seung-yong]] — 최승용 (투수)
+- [[choi-min-seok]] — 최민석 (투수)
+- [[yoon-tae-ho]] — 윤태호 (투수)
+- [[kim-jung-woo]] — 김정우 (투수)
+- [[park-jung-soo]] — 박정수 (투수)
+- [[player-이영하]] — 이영하 (투수)
 
 #### 롯데
-- [[lotte-reyes|레이예스]] — 14경기
-- [[lotte-son-ho-young|손호영]] — 14경기
-- [[lotte-yoon-dong-hee|윤동희]] — 14경기
-- [[lotte-jeon-jun-woo|전준우]] — 14경기
-- [[lotte-no-jin-hyuk|노진혁]] — 14경기
-- [[lotte-jeon-min-jae|전민재]] — 14경기
-- [[lotte-hwang-sung-bin|황성빈]] — 14경기
-- [[lotte-han-tae-yang|한태양]] — 13경기
-- [[lotte-yoo-gang-nam|유강남]] — 12경기
-- [[lotte-son-sung-bin|손성빈]] — 12경기
-- [[lotte-jang-doo-sung|장두성]] — 12경기
-- [[lotte-park-seung-uk|박승욱]] — 11경기
-- [[lotte-kim-min-sung|김민성]] — 10경기
-- [[lotte-lee-ho-jun|이호준]] — 10경기
-- [[lotte-han-dong-hui|한동희]] — 10경기
-- [[lotte-shin-yun-hu|신윤후]] — 3경기
-- [[lotte-lee-seo-jun|이서준]] — 1경기
-- [[lotte-choi-jun-yong|최준용]] (투수) — 7경기
-- [[lotte-park-jung-min|박정민]] (투수) — 7경기
-- [[lotte-jung-chul-won|정철원]] (투수) — 6경기
-- [[lotte-kyoyama|쿄야마]] (투수) — 6경기
-- [[lotte-kim-won-jung|김원중]] (투수) — 6경기
-- [[lotte-rodriguez|로드리게스]] (투수) — 3경기
-- [[lotte-beasley|비슬리]] (투수) — 3경기
-- [[lotte-park-se-woong|박세웅]] (투수) — 3경기
-- [[lotte-yoon-sung-bin|윤성빈]] (투수) — 3경기
-- [[lotte-lee-min-seok|이민석]] (투수) — 3경기
-- [[lotte-na-gyun-an|나균안]] (투수) — 3경기
-- [[lotte-choi-i-jun|최이준]] (투수) — 3경기
-- [[lotte-kim-jin-uk|김진욱]] (투수) — 2경기
-- [[lotte-park-jun-u|박준우]] (투수) — 1경기
-- [[lotte-kim-gang-hyun|김강현]] (투수) — 1경기
-- [[lotte-shin-dong-geon|신동건]] (투수) — 1경기
-- [[lotte-jung-hyun-su|정현수]] (투수) — 1경기
-- [[lotte-choi-chung-yeon|최충연]] (투수) — 1경기
+- [[reyes]] — 레이예스
+- [[no-jin-hyuk]] — 노진혁
+- [[hwang-sung-bin]] — 황성빈
+- [[player-한동희]] — 한동희
+- [[han-tae-yang]] — 한태양
+- [[jeon-jun-woo]] — 전준우
+- [[yoon-dong-hee]] — 윤동희
+- [[player-손호영]] — 손호영
+- [[jeon-min-jae]] — 전민재
+- [[player-유강남]] — 유강남
+- [[player-손성빈]] — 손성빈
+- [[player-박승욱]] — 박승욱
+- [[jang-doo-sung]] — 장두성
+- [[player-김민성]] — 김민성
+- [[player-신윤후]] — 신윤후
+- [[player-이호준]] — 이호준
+- [[choi-jun-yong]] — 최준용
+- [[player-로드리게스]] — 로드리게스 (투수)
+- [[jung-chul-won]] — 정철원 (투수)
+- [[player-쿄야마]] — 쿄야마 (투수)
+- [[player-김원중]] — 김원중 (투수)
+- [[park-jung-min]] — 박정민 (투수)
+- [[player-비슬리]] — 비슬리 (투수)
+- [[park-se-woong]] — 박세웅 (투수)
+- [[player-윤성빈]] — 윤성빈 (투수)
+- [[player-박준우]] — 박준우 (투수)
+- [[player-이민석]] — 이민석 (투수)
+- [[player-나균안]] — 나균안 (투수)
+- [[player-김진욱]] — 김진욱 (투수)
+- [[player-김강현]] — 김강현 (투수)
+- [[player-신동건]] — 신동건 (투수)
+- [[player-정현수]] — 정현수 (투수)
+- [[player-최이준]] — 최이준 (투수)
+- [[player-최충연]] — 최충연 (투수)
 
 #### 삼성
-- [[samsung-diaz|디아즈]] — 14경기
-- [[samsung-choi-hyung-woo|최형우]] — 14경기
-- [[samsung-ryu-ji-hyeok|류지혁]] — 14경기
-- [[samsung-kim-ji-chan|김지찬]] — 14경기
-- [[samsung-lee-jae-hyun|이재현]] — 13경기
-- [[samsung-koo-ja-wook|구자욱]] — 13경기
-- [[samsung-kang-min-ho|강민호]] — 13경기
-- [[samsung-kim-young-woong|김영웅]] — 10경기
-- [[samsung-park-se-hyuk|박세혁]] — 9경기
-- [[samsung-kim-hun-gon|김헌곤]] — 9경기
-- [[samsung-lee-hae-seung|이해승]] — 9경기
-- [[samsung-jeon-byung-woo|전병우]] — 8경기
-- [[samsung-ham-su-ho|함수호]] — 8경기
-- [[samsung-kim-sung-yun|김성윤]] — 7경기
-- [[samsung-yang-woo-hyun|양우현]] — 6경기
-- [[samsung-park-seung-gyu|박승규]] — 4경기
-- [[samsung-lee-sung-gyu|이성규]] — 4경기
-- [[samsung-hong-hyun-bin|홍현빈]] — 3경기
-- [[samsung-sim-jae-hun|심재훈]] — 2경기
-- [[samsung-kim-tae-hun|김태훈]] — 2경기
-- [[samsung-kim-jae-sang|김재상]] — 1경기
-- [[samsung-lee-seung-hyun|이승현]] (투수) — 10경기
-- [[samsung-bae-chan-seung|배찬승]] (투수) — 8경기
-- [[samsung-lee-seung-min|이승민]] (투수) — 8경기
-- [[samsung-miyaji|미야지]] (투수) — 6경기
-- [[samsung-kim-jae-yun|김재윤]] (투수) — 6경기
-- [[samsung-choi-ji-gwang|최지광]] (투수) — 6경기
-- [[samsung-im-gi-young|임기영]] (투수) — 5경기
-- [[samsung-baek-jung-hyun|백정현]] (투수) — 5경기
-- [[samsung-jang-chan-hee|장찬희]] (투수) — 4경기
-- [[samsung-hurado|후라도]] (투수) — 3경기
-- [[samsung-choi-won-tae|최원태]] (투수) — 3경기
-- [[samsung-o-rourkelin|오러클린]] (투수) — 3경기
-- [[samsung-yook-sun-yup|육선엽]] (투수) — 2경기
-- [[samsung-yang-chang-sub|양창섭]] (투수) — 2경기
-- [[samsung-won-tae-in|원태인]] (투수) — 1경기
+- [[ryu-ji-hyeok]] — 류지혁
+- [[diaz]] — 디아즈
+- [[choi-hyung-woo-kia]] — 최형우
+- [[kim-ji-chan]] — 김지찬
+- [[koo-ja-wook]] — 구자욱
+- [[kim-sung-yun]] — 김성윤
+- [[jeon-byung-woo]] — 전병우
+- [[kang-min-ho]] — 강민호
+- [[player-박승규]] — 박승규
+- [[kim-young-woong]] — 김영웅
+- [[lee-jae-hyun]] — 이재현
+- [[yang-woo-hyun]] — 양우현
+- [[park-se-hyuk]] — 박세혁
+- [[kim-hun-gon]] — 김헌곤
+- [[hong-hyun-bin]] — 홍현빈
+- [[ham-su-ho]] — 함수호
+- [[player-김태훈]] — 김태훈
+- [[player-이성규]] — 이성규
+- [[sim-jae-hun]] — 심재훈
+- [[lee-hae-seung]] — 이해승
+- [[player-김재상]] — 김재상
+- [[player-후라도]] — 후라도 (투수)
+- [[yook-sun-yup]] — 육선엽 (투수)
+- [[im-gi-young]] — 임기영 (투수)
+- [[baek-jung-hyun]] — 백정현 (투수)
+- [[player-최원태]] — 최원태 (투수)
+- [[miyaji]] — 미야지 (투수)
+- [[bae-chan-seung]] — 배찬승 (투수)
+- [[lee-seung-min]] — 이승민 (투수)
+- [[lee-seung-hyun]] — 이승현 (투수)
+- [[o-rourkelin]] — 오러클린 (투수)
+- [[jang-chan-hee]] — 장찬희 (투수)
+- [[kim-jae-yun]] — 김재윤 (투수)
+- [[choi-ji-gwang]] — 최지광 (투수)
+- [[yang-chang-sub]] — 양창섭 (투수)
+- [[player-원태인]] — 원태인 (투수)
 
 #### 키움
-- [[kiwoom-lee-ju-hyung|이주형]] — 14경기
-- [[kiwoom-ahn-chi-hong|안치홍]] — 14경기
-- [[kiwoom-brooks|브룩스]] — 14경기
-- [[kiwoom-kim-gun-hee|김건희]] — 14경기
-- [[kiwoom-park-chan-hyuk|박찬혁]] — 13경기
-- [[kiwoom-park-han-gyul|박한결]] — 13경기
-- [[kiwoom-choi-ju-hwan|최주환]] — 12경기
-- [[kiwoom-eo-jun-seo|어준서]] — 12경기
-- [[kiwoom-lee-hyung-jong|이형종]] — 10경기
-- [[kiwoom-oh-seon-jin|오선진]] — 9경기
-- [[kiwoom-park-ju-hong|박주홍]] — 8경기
-- [[kiwoom-im-ji-yeol|임지열]] — 7경기
-- [[kiwoom-choi-jae-young|최재영]] — 6경기
-- [[kiwoom-kim-tae-jin|김태진]] — 5경기
-- [[kiwoom-kim-ji-seok|김지석]] — 4경기
-- [[kiwoom-kim-jae-hyun|김재현]] — 3경기
-- [[kiwoom-park-su-jong|박수종]] — 3경기
-- [[kiwoom-chu-jae-hyun|추재현]] — 2경기
-- [[kiwoom-yeom-seung-won|염승원]] — 2경기
-- [[kiwoom-park-jung-hoon|박정훈]] (투수) — 7경기
-- [[kiwoom-yuto|유토]] (투수) — 7경기
-- [[kiwoom-kim-sung-jin|김성진]] (투수) — 6경기
-- [[kiwoom-park-jin-hyoung|박진형]] (투수) — 6경기
-- [[kiwoom-kim-jae-woong|김재웅]] (투수) — 5경기
-- [[kiwoom-oh-seok-ju|오석주]] (투수) — 5경기
-- [[kiwoom-bae-dong-hyun|배동현]] (투수) — 4경기
-- [[kiwoom-park-yun-sung|박윤성]] (투수) — 4경기
-- [[kiwoom-jun-jun-pyo|전준표]] (투수) — 4경기
-- [[kiwoom-alcantara|알칸타라]] (투수) — 3경기
-- [[kiwoom-ha-young-min|하영민]] (투수) — 3경기
-- [[kiwoom-wiles|와일스]] (투수) — 3경기
-- [[kiwoom-jung-da-hun|정다훈]] (투수) — 3경기
-- [[kiwoom-yoon-seok-won|윤석원]] (투수) — 2경기
-- [[kiwoom-jung-se-young|정세영]] (투수) — 2경기
-- [[kiwoom-lee-jun-u|이준우]] (투수) — 2경기
-- [[kiwoom-jung-hyun-u|정현우]] (투수) — 1경기
-- [[kiwoom-an-u-jin|안우진]] (투수) — 1경기
-- [[kiwoom-won-jong-hyun|원종현]] (투수) — 1경기
+- [[lee-ju-hyung]] — 이주형
+- [[brooks]] — 브룩스
+- [[ahn-chi-hong]] — 안치홍
+- [[park-chan-hyuk]] — 박찬혁
+- [[choi-ju-hwan]] — 최주환
+- [[kim-gun-hee]] — 김건희
+- [[eo-jun-seo]] — 어준서
+- [[park-ju-hong]] — 박주홍
+- [[park-han-gyul]] — 박한결
+- [[player-최재영]] — 최재영
+- [[player-임지열]] — 임지열
+- [[lee-hyung-jong]] — 이형종
+- [[player-오선진]] — 오선진
+- [[player-김태진]] — 김태진
+- [[player-추재현]] — 추재현
+- [[player-김지석]] — 김지석
+- [[player-염승원]] — 염승원
+- [[player-김재현]] — 김재현
+- [[player-박수종]] — 박수종
+- [[player-알칸타라]] — 알칸타라 (투수)
+- [[kim-sung-jin]] — 김성진 (투수)
+- [[kim-jae-woong]] — 김재웅 (투수)
+- [[bae-dong-hyun]] — 배동현 (투수)
+- [[park-jung-hoon]] — 박정훈 (투수)
+- [[player-박윤성]] — 박윤성 (투수)
+- [[yuto]] — 유토 (투수)
+- [[player-하영민]] — 하영민 (투수)
+- [[player-박진형]] — 박진형 (투수)
+- [[player-오석주]] — 오석주 (투수)
+- [[player-윤석원]] — 윤석원 (투수)
+- [[player-전준표]] — 전준표 (투수)
+- [[player-와일스]] — 와일스 (투수)
+- [[player-정현우]] — 정현우 (투수)
+- [[player-정세영]] — 정세영 (투수)
+- [[player-정다훈]] — 정다훈 (투수)
+- [[player-이준우]] — 이준우 (투수)
+- [[player-안우진]] — 안우진 (투수)
+- [[player-원종현]] — 원종현 (투수)
 
 #### 한화
-- [[hanwha-peraza|페라자]] — 14경기
-- [[hanwha-kang-baek-ho|강백호]] — 14경기
-- [[hanwha-chae-eun-seong|채은성]] — 14경기
-- [[hanwha-ha-ju-seok|하주석]] — 14경기
-- [[hanwha-oh-jae-won|오재원]] — 13경기
-- [[hanwha-moon-hyun-bin|문현빈]] — 13경기
-- [[hanwha-noh-si-hwan|노시환]] — 13경기
-- [[hanwha-sim-woo-jun|심우준]] — 12경기
-- [[hanwha-choi-jae-hun|최재훈]] — 11경기
-- [[hanwha-lee-do-yoon|이도윤]] — 10경기
-- [[hanwha-heo-in-seo|허인서]] — 9경기
-- [[hanwha-kim-tae-yeon|김태연]] — 7경기
-- [[hanwha-hwang-young-mook|황영묵]] — 5경기
-- [[hanwha-choi-in-ho|최인호]] — 5경기
-- [[hanwha-lee-won-seok|이원석]] — 5경기
-- [[hanwha-choi-yu-bin|최유빈]] — 3경기
-- [[hanwha-lee-jin-young|이진영]] — 2경기
-- [[hanwha-son-a-seop|손아섭]] — 1경기
-- [[hanwha-jang-gyu-hyun|장규현]] — 1경기
-- [[hanwha-jung-woo-joo|정우주]] (투수) — 10경기
-- [[hanwha-jo-dong-wook|조동욱]] (투수) — 9경기
-- [[hanwha-park-sang-won|박상원]] (투수) — 8경기
-- [[hanwha-park-jun-young|박준영]] (투수) — 7경기
-- [[hanwha-yoon-san-heum|윤산흠]] (투수) — 7경기
-- [[hanwha-kim-seo-hyun|김서현]] (투수) — 7경기
-- [[hanwha-kim-jong-soo|김종수]] (투수) — 7경기
-- [[hanwha-kim-do-bin|김도빈]] (투수) — 5경기
-- [[hanwha-kang-geon-u|강건우]] (투수) — 4경기
-- [[hanwha-hernandez|에르난데스]] (투수) — 3경기
-- [[hanwha-won-jong-hyuk|원종혁]] (투수) — 3경기
-- [[hanwha-wang-yan-cheng|왕옌청]] (투수) — 3경기
-- [[hanwha-moon-dong-ju|문동주]] (투수) — 3경기
-- [[hanwha-hwang-jun-seo|황준서]] (투수) — 3경기
-- [[hanwha-lee-sang-gyu|이상규]] (투수) — 3경기
-- [[hanwha-kang-jae-min|강재민]] (투수) — 2경기
-- [[hanwha-ryu-hyun-jin|류현진]] (투수) — 2경기
-- [[hanwha-lee-min-u|이민우]] (투수) — 2경기
-- [[hanwha-white|화이트]] (투수) — 1경기
-- [[hanwha-uhm-sang-baek|엄상백]] (투수) — 1경기
-- [[hanwha-park-jae-gyu|박재규]] (투수) — 1경기
-- [[hanwha-kim-bum-jun|김범준]] (투수) — 1경기
-- [[hanwha-cushing|쿠싱]] (투수) — 1경기
+- [[peraza]] — 페라자
+- [[moon-hyun-bin]] — 문현빈
+- [[kang-baek-ho]] — 강백호
+- [[ha-ju-seok]] — 하주석
+- [[chae-eun-seong]] — 채은성
+- [[sim-woo-jun]] — 심우준
+- [[oh-jae-won]] — 오재원
+- [[player-이원석]] — 이원석
+- [[noh-si-hwan]] — 노시환
+- [[lee-do-yoon]] — 이도윤
+- [[choi-jae-hun]] — 최재훈
+- [[heo-in-seo]] — 허인서
+- [[choi-in-ho]] — 최인호
+- [[kim-tae-yeon]] — 김태연
+- [[player-이진영]] — 이진영
+- [[player-최유빈]] — 최유빈
+- [[hwang-young-mook]] — 황영묵
+- [[hernandez]] — 에르난데스 (투수)
+- [[jo-dong-wook]] — 조동욱 (투수)
+- [[park-jun-young]] — 박준영 (투수)
+- [[yoon-san-heum]] — 윤산흠 (투수)
+- [[jung-woo-joo]] — 정우주 (투수)
+- [[kim-do-bin]] — 김도빈 (투수)
+- [[kim-seo-hyun]] — 김서현 (투수)
+- [[player-강재민]] — 강재민 (투수)
+- [[player-원종혁]] — 원종혁 (투수)
+- [[wang-yan-cheng]] — 왕옌청 (투수)
+- [[player-화이트]] — 화이트 (투수)
+- [[player-엄상백]] — 엄상백 (투수)
+- [[player-류현진]] — 류현진 (투수)
+- [[park-sang-won]] — 박상원 (투수)
+- [[player-강건우]] — 강건우 (투수)
+- [[player-박재규]] — 박재규 (투수)
+- [[player-문동주]] — 문동주 (투수)
+- [[kim-jong-soo]] — 김종수 (투수)
+- [[hwang-jun-seo]] — 황준서 (투수)
+- [[kim-bum-jun]] — 김범준 (투수)
+- [[player-이상규]] — 이상규 (투수)
+- [[player-쿠싱]] — 쿠싱 (투수)
+- [[player-이민우]] — 이민우 (투수)
+
 
 ### 개념
 - [[kbo-2026-season]] — 2026 KBO 시즌
 
 ### 경기 기록 (`games/`)
-- [[source-doosan-vs-nc-20260328]] — 두산 vs NC 2026.03.28
 - [[source-kia-vs-ssg-20260328]] — KIA vs SSG 2026.03.28
-- [[source-kiwoom-vs-hanwha-20260328]] — 키움 vs 한화 2026.03.28
 - [[source-kt-vs-lg-20260328]] — KT vs LG 2026.03.28
 - [[source-lotte-vs-samsung-20260328]] — 롯데 vs 삼성 2026.03.28
-- [[source-doosan-vs-nc-20260329]] — 두산 vs NC 2026.03.29
+- [[source-doosan-vs-nc-20260328]] — 두산 vs NC 2026.03.28
+- [[source-kiwoom-vs-hanwha-20260328]] — 키움 vs 한화 2026.03.28
 - [[source-kia-vs-ssg-20260329]] — KIA vs SSG 2026.03.29
-- [[source-kiwoom-vs-hanwha-20260329]] — 키움 vs 한화 2026.03.29
 - [[source-kt-vs-lg-20260329]] — KT vs LG 2026.03.29
 - [[source-lotte-vs-samsung-20260329]] — 롯데 vs 삼성 2026.03.29
-- [[source-doosan-vs-samsung-20260331]] — 두산 vs 삼성 2026.03.31
+- [[source-doosan-vs-nc-20260329]] — 두산 vs NC 2026.03.29
+- [[source-kiwoom-vs-hanwha-20260329]] — 키움 vs 한화 2026.03.29
 - [[source-kia-vs-lg-20260331]] — KIA vs LG 2026.03.31
-- [[source-kiwoom-vs-ssg-20260331]] — 키움 vs SSG 2026.03.31
 - [[source-kt-vs-hanwha-20260331]] — KT vs 한화 2026.03.31
 - [[source-lotte-vs-nc-20260331]] — 롯데 vs NC 2026.03.31
-- [[source-doosan-vs-samsung-20260401]] — 두산 vs 삼성 2026.04.01
+- [[source-doosan-vs-samsung-20260331]] — 두산 vs 삼성 2026.03.31
+- [[source-kiwoom-vs-ssg-20260331]] — 키움 vs SSG 2026.03.31
 - [[source-kia-vs-lg-20260401]] — KIA vs LG 2026.04.01
-- [[source-kiwoom-vs-ssg-20260401]] — 키움 vs SSG 2026.04.01
 - [[source-kt-vs-hanwha-20260401]] — KT vs 한화 2026.04.01
 - [[source-lotte-vs-nc-20260401]] — 롯데 vs NC 2026.04.01
-- [[source-doosan-vs-samsung-20260402]] — 두산 vs 삼성 2026.04.02
+- [[source-doosan-vs-samsung-20260401]] — 두산 vs 삼성 2026.04.01
+- [[source-kiwoom-vs-ssg-20260401]] — 키움 vs SSG 2026.04.01
 - [[source-kia-vs-lg-20260402]] — KIA vs LG 2026.04.02
-- [[source-kiwoom-vs-ssg-20260402]] — 키움 vs SSG 2026.04.02
 - [[source-kt-vs-hanwha-20260402]] — KT vs 한화 2026.04.02
 - [[source-lotte-vs-nc-20260402]] — 롯데 vs NC 2026.04.02
+- [[source-doosan-vs-samsung-20260402]] — 두산 vs 삼성 2026.04.02
+- [[source-kiwoom-vs-ssg-20260402]] — 키움 vs SSG 2026.04.02
 - [[source-hanwha-vs-doosan-20260403]] — 한화 vs 두산 2026.04.03
 - [[source-lg-vs-kiwoom-20260403]] — LG vs 키움 2026.04.03
 - [[source-nc-vs-kia-20260403]] — NC vs KIA 2026.04.03
-- [[source-samsung-vs-kt-20260403]] — 삼성 vs KT 2026.04.03
 - [[source-ssg-vs-lotte-20260403]] — SSG vs 롯데 2026.04.03
+- [[source-samsung-vs-kt-20260403]] — 삼성 vs KT 2026.04.03
 - [[source-hanwha-vs-doosan-20260404]] — 한화 vs 두산 2026.04.04
 - [[source-lg-vs-kiwoom-20260404]] — LG vs 키움 2026.04.04
 - [[source-nc-vs-kia-20260404]] — NC vs KIA 2026.04.04
-- [[source-samsung-vs-kt-20260404]] — 삼성 vs KT 2026.04.04
 - [[source-ssg-vs-lotte-20260404]] — SSG vs 롯데 2026.04.04
+- [[source-samsung-vs-kt-20260404]] — 삼성 vs KT 2026.04.04
 - [[source-hanwha-vs-doosan-20260405]] — 한화 vs 두산 2026.04.05
 - [[source-lg-vs-kiwoom-20260405]] — LG vs 키움 2026.04.05
 - [[source-nc-vs-kia-20260405]] — NC vs KIA 2026.04.05
-- [[source-samsung-vs-kt-20260405]] — 삼성 vs KT 2026.04.05
 - [[source-ssg-vs-lotte-20260405]] — SSG vs 롯데 2026.04.05
+- [[source-samsung-vs-kt-20260405]] — 삼성 vs KT 2026.04.05
 - [[source-hanwha-vs-ssg-20260407]] — 한화 vs SSG 2026.04.07
-- [[source-kiwoom-vs-doosan-20260407]] — 키움 vs 두산 2026.04.07
 - [[source-kt-vs-lotte-20260407]] — KT vs 롯데 2026.04.07
 - [[source-lg-vs-nc-20260407]] — LG vs NC 2026.04.07
 - [[source-samsung-vs-kia-20260407]] — 삼성 vs KIA 2026.04.07
+- [[source-kiwoom-vs-doosan-20260407]] — 키움 vs 두산 2026.04.07
 - [[source-hanwha-vs-ssg-20260408]] — 한화 vs SSG 2026.04.08
-- [[source-kiwoom-vs-doosan-20260408]] — 키움 vs 두산 2026.04.08
 - [[source-kt-vs-lotte-20260408]] — KT vs 롯데 2026.04.08
 - [[source-lg-vs-nc-20260408]] — LG vs NC 2026.04.08
 - [[source-samsung-vs-kia-20260408]] — 삼성 vs KIA 2026.04.08
-- [[source-doosan-vs-kt-20260410]] — 두산 vs KT 2026.04.10
+- [[source-kiwoom-vs-doosan-20260408]] — 키움 vs 두산 2026.04.08
 - [[source-kia-vs-hanwha-20260410]] — KIA vs 한화 2026.04.10
 - [[source-lotte-vs-kiwoom-20260410]] — 롯데 vs 키움 2026.04.10
 - [[source-nc-vs-samsung-20260410]] — NC vs 삼성 2026.04.10
+- [[source-doosan-vs-kt-20260410]] — 두산 vs KT 2026.04.10
 - [[source-ssg-vs-lg-20260410]] — SSG vs LG 2026.04.10
-- [[source-doosan-vs-kt-20260411]] — 두산 vs KT 2026.04.11
 - [[source-kia-vs-hanwha-20260411]] — KIA vs 한화 2026.04.11
 - [[source-lotte-vs-kiwoom-20260411]] — 롯데 vs 키움 2026.04.11
 - [[source-nc-vs-samsung-20260411]] — NC vs 삼성 2026.04.11
+- [[source-doosan-vs-kt-20260411]] — 두산 vs KT 2026.04.11
 - [[source-ssg-vs-lg-20260411]] — SSG vs LG 2026.04.11
-- [[source-doosan-vs-kt-20260412]] — 두산 vs KT 2026.04.12
 - [[source-kia-vs-hanwha-20260412]] — KIA vs 한화 2026.04.12
 - [[source-lotte-vs-kiwoom-20260412]] — 롯데 vs 키움 2026.04.12
 - [[source-nc-vs-samsung-20260412]] — NC vs 삼성 2026.04.12
+- [[source-doosan-vs-kt-20260412]] — 두산 vs KT 2026.04.12
 - [[source-ssg-vs-lg-20260412]] — SSG vs LG 2026.04.12
-- [[source-doosan-vs-ssg-20260414]] — 두산 vs SSG 2026.04.14
-- [[source-kiwoom-vs-kia-20260414]] — 키움 vs KIA 2026.04.14
 - [[source-kt-vs-nc-20260414]] — KT vs NC 2026.04.14
 - [[source-lotte-vs-lg-20260414]] — 롯데 vs LG 2026.04.14
+- [[source-doosan-vs-ssg-20260414]] — 두산 vs SSG 2026.04.14
 - [[source-samsung-vs-hanwha-20260414]] — 삼성 vs 한화 2026.04.14
+- [[source-kiwoom-vs-kia-20260414]] — 키움 vs KIA 2026.04.14
+- [[source-kt-vs-nc-20260415]] — KT vs NC 2026.04.15
+- [[source-lotte-vs-lg-20260415]] — 롯데 vs LG 2026.04.15
+- [[source-doosan-vs-ssg-20260415]] — 두산 vs SSG 2026.04.15
+- [[source-samsung-vs-hanwha-20260415]] — 삼성 vs 한화 2026.04.15
+- [[source-kiwoom-vs-kia-20260415]] — 키움 vs KIA 2026.04.15
 
 ## 음악
 

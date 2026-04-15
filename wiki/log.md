@@ -56,4 +56,8 @@
 - 같은 한글명 다팀 등장 5건(손아섭·최원준·박지훈·김민석·화이트)에 동명이인/이적 주의 박스 삽입
 - 깨진 wikilink 0건 (dev 예시 문구 제외)
 
-<!-- last-kbo-ingest-date: 2026-04-14 -->
+## [2026-04-16] ingest | KBO 자동 수집 (2026-04-15)
+- 신규 경기 5개 반영 (1일치)
+- games / teams / players / kbo-2026-season / index 재생성
+
+<!-- last-kbo-ingest-date: 2026-04-15 -->
