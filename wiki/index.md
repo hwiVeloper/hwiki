@@ -57,8 +57,8 @@
 
 #### KT
 - [[kim-hyun-soo]] — 김현수
-- [[ahn-hyun-min]] — 안현민
 - [[choi-won-jun-kia]] — 최원준
+- [[ahn-hyun-min]] — 안현민
 - [[jang-sung-woo]] — 장성우
 - [[oh-yoon-seok]] — 오윤석
 - [[hilliard]] — 힐리어드
@@ -66,8 +66,8 @@
 - [[lee-gang-min]] — 이강민
 - [[player-김상수]] — 김상수
 - [[ryu-hyun-in]] — 류현인
-- [[player-이정훈]] — 이정훈
 - [[player-한승택]] — 한승택
+- [[player-이정훈]] — 이정훈
 - [[player-배정대]] — 배정대
 - [[player-권동진]] — 권동진
 - [[player-장진혁]] — 장진혁
@@ -98,11 +98,11 @@
 - [[oh-ji-hwan]] — 오지환
 - [[moon-bo-kyung]] — 문보경
 - [[shin-min-jae]] — 신민재
-- [[hong-chang-ki]] — 홍창기
 - [[park-dong-won]] — 박동원
+- [[hong-chang-ki]] — 홍창기
 - [[koo-bon-hyuk]] — 구본혁
-- [[player-이주헌]] — 이주헌
 - [[player-이영빈]] — 이영빈
+- [[player-이주헌]] — 이주헌
 - [[player-이재원]] — 이재원
 - [[player-최원영]] — 최원영
 - [[player-치리노스]] — 치리노스 (투수)
@@ -127,16 +127,16 @@
 - [[park-min-woo]] — 박민우
 - [[park-gun-woo]] — 박건우
 - [[kim-hwi-jip]] — 김휘집
-- [[kim-hyung-jun]] — 김형준
 - [[choi-jung-won]] — 최정원
 - [[kim-ju-won]] — 김주원
+- [[kim-hyung-jun]] — 김형준
 - [[davidson]] — 데이비슨
 - [[lee-woo-sung]] — 이우성
 - [[seo-ho-chul]] — 서호철
-- [[han-seok-hyun]] — 한석현
 - [[player-신재인]] — 신재인
-- [[chun-jae-hwan]] — 천재환
+- [[han-seok-hyun]] — 한석현
 - [[oh-young-soo]] — 오영수
+- [[chun-jae-hwan]] — 천재환
 - [[kwon-hee-dong]] — 권희동
 - [[player-김정호]] — 김정호
 - [[go-jun-hwi]] — 고준휘
@@ -168,10 +168,10 @@
 - [[choi-jung]] — 최정
 - [[player-조형우]] — 조형우
 - [[choi-ji-hun]] — 최지훈
+- [[player-정준재]] — 정준재
 - [[ahn-sang-hyun]] — 안상현
 - [[han-yoo-seom]] — 한유섬
 - [[player-김재환]] — 김재환
-- [[player-정준재]] — 정준재
 - [[player-김성욱]] — 김성욱
 - [[player-오태곤]] — 오태곤
 - [[player-홍대인]] — 홍대인
@@ -201,10 +201,10 @@
 - [[park-jun-sun]] — 박준순
 - [[park-chan-ho]] — 박찬호
 - [[cameron]] — 카메론
+- [[kim-min-seok]] — 김민석
 - [[yang-seok-hwan]] — 양석환
 - [[ahn-jae-seok]] — 안재석
 - [[jung-su-bin]] — 정수빈
-- [[kim-min-seok]] — 김민석
 - [[yang-eui-ji]] — 양의지
 - [[kang-seung-ho]] — 강승호
 - [[park-ji-hun]] — 박지훈
@@ -242,14 +242,14 @@
 - [[jeon-jun-woo]] — 전준우
 - [[yoon-dong-hee]] — 윤동희
 - [[player-손호영]] — 손호영
-- [[jeon-min-jae]] — 전민재
 - [[player-유강남]] — 유강남
+- [[jeon-min-jae]] — 전민재
 - [[player-손성빈]] — 손성빈
-- [[player-박승욱]] — 박승욱
 - [[jang-doo-sung]] — 장두성
+- [[player-박승욱]] — 박승욱
 - [[player-김민성]] — 김민성
-- [[player-신윤후]] — 신윤후
 - [[player-이호준]] — 이호준
+- [[player-신윤후]] — 신윤후
 - [[choi-jun-yong]] — 최준용
 - [[player-로드리게스]] — 로드리게스 (투수)
 - [[jung-chul-won]] — 정철원 (투수)
@@ -275,12 +275,12 @@
 - [[choi-hyung-woo-kia]] — 최형우
 - [[kim-ji-chan]] — 김지찬
 - [[koo-ja-wook]] — 구자욱
-- [[kim-sung-yun]] — 김성윤
 - [[jeon-byung-woo]] — 전병우
+- [[kim-sung-yun]] — 김성윤
 - [[kang-min-ho]] — 강민호
 - [[player-박승규]] — 박승규
-- [[kim-young-woong]] — 김영웅
 - [[lee-jae-hyun]] — 이재현
+- [[kim-young-woong]] — 김영웅
 - [[yang-woo-hyun]] — 양우현
 - [[park-se-hyuk]] — 박세혁
 - [[kim-hun-gon]] — 김헌곤
@@ -310,10 +310,10 @@
 #### 키움
 - [[lee-ju-hyung]] — 이주형
 - [[brooks]] — 브룩스
-- [[ahn-chi-hong]] — 안치홍
 - [[park-chan-hyuk]] — 박찬혁
-- [[choi-ju-hwan]] — 최주환
+- [[ahn-chi-hong]] — 안치홍
 - [[kim-gun-hee]] — 김건희
+- [[choi-ju-hwan]] — 최주환
 - [[eo-jun-seo]] — 어준서
 - [[park-ju-hong]] — 박주홍
 - [[park-han-gyul]] — 박한결
@@ -356,13 +356,14 @@
 - [[sim-woo-jun]] — 심우준
 - [[oh-jae-won]] — 오재원
 - [[player-이원석]] — 이원석
-- [[noh-si-hwan]] — 노시환
 - [[lee-do-yoon]] — 이도윤
+- [[noh-si-hwan]] — 노시환
 - [[choi-jae-hun]] — 최재훈
 - [[heo-in-seo]] — 허인서
 - [[choi-in-ho]] — 최인호
 - [[kim-tae-yeon]] — 김태연
 - [[player-이진영]] — 이진영
+- [[player-박정현]] — 박정현
 - [[player-최유빈]] — 최유빈
 - [[hwang-young-mook]] — 황영묵
 - [[hernandez]] — 에르난데스 (투수)
@@ -388,6 +389,7 @@
 - [[player-이상규]] — 이상규 (투수)
 - [[player-쿠싱]] — 쿠싱 (투수)
 - [[player-이민우]] — 이민우 (투수)
+- [[player-이교훈]] — 이교훈 (투수)
 
 
 ### 개념
@@ -469,6 +471,11 @@
 - [[source-doosan-vs-ssg-20260415]] — 두산 vs SSG 2026.04.15
 - [[source-samsung-vs-hanwha-20260415]] — 삼성 vs 한화 2026.04.15
 - [[source-kiwoom-vs-kia-20260415]] — 키움 vs KIA 2026.04.15
+- [[source-kt-vs-nc-20260416]] — KT vs NC 2026.04.16
+- [[source-lotte-vs-lg-20260416]] — 롯데 vs LG 2026.04.16
+- [[source-doosan-vs-ssg-20260416]] — 두산 vs SSG 2026.04.16
+- [[source-samsung-vs-hanwha-20260416]] — 삼성 vs 한화 2026.04.16
+- [[source-kiwoom-vs-kia-20260416]] — 키움 vs KIA 2026.04.16
 
 ## 음악
 
