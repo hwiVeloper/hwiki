@@ -19,8 +19,8 @@
 ### 선수 (`players/`)
 
 #### KIA
-- [[player-데일]] — 데일
 - [[player-김호령]] — 김호령
+- [[player-데일]] — 데일
 - [[player-카스트로]] — 카스트로
 - [[player-김선빈]] — 김선빈
 - [[kim-do-young]] — 김도영
@@ -30,11 +30,12 @@
 - [[player-김규성]] — 김규성
 - [[player-윤도현]] — 윤도현
 - [[player-김태군]] — 김태군
+- [[player-박민]] — 박민
 - [[player-박상준]] — 박상준
 - [[player-오선우]] — 오선우
-- [[player-박민]] — 박민
 - [[player-박정우]] — 박정우
 - [[player-고종욱]] — 고종욱
+- [[player-주효상]] — 주효상
 - [[player-정현창]] — 정현창
 - [[nail]] — 네일 (투수)
 - [[player-김범수]] — 김범수 (투수)
@@ -60,16 +61,17 @@
 - [[choi-won-jun-kia]] — 최원준
 - [[ahn-hyun-min]] — 안현민
 - [[jang-sung-woo]] — 장성우
+- [[player-김상수]] — 김상수
 - [[oh-yoon-seok]] — 오윤석
 - [[hilliard]] — 힐리어드
-- [[player-허경민]] — 허경민
 - [[lee-gang-min]] — 이강민
-- [[player-김상수]] — 김상수
+- [[player-허경민]] — 허경민
 - [[ryu-hyun-in]] — 류현인
+- [[player-배정대]] — 배정대
 - [[player-한승택]] — 한승택
 - [[player-이정훈]] — 이정훈
-- [[player-배정대]] — 배정대
 - [[player-권동진]] — 권동진
+- [[player-장준원]] — 장준원
 - [[player-장진혁]] — 장진혁
 - [[player-안치영]] — 안치영
 - [[park-young-hyun]] — 박영현
@@ -202,10 +204,10 @@
 - [[park-chan-ho]] — 박찬호
 - [[cameron]] — 카메론
 - [[kim-min-seok]] — 김민석
+- [[yang-eui-ji]] — 양의지
 - [[yang-seok-hwan]] — 양석환
 - [[ahn-jae-seok]] — 안재석
 - [[jung-su-bin]] — 정수빈
-- [[yang-eui-ji]] — 양의지
 - [[kang-seung-ho]] — 강승호
 - [[park-ji-hun]] — 박지훈
 - [[yoon-jun-ho]] — 윤준호
@@ -320,13 +322,14 @@
 - [[player-최재영]] — 최재영
 - [[player-임지열]] — 임지열
 - [[lee-hyung-jong]] — 이형종
+- [[player-김지석]] — 김지석
 - [[player-오선진]] — 오선진
 - [[player-김태진]] — 김태진
 - [[player-추재현]] — 추재현
-- [[player-김지석]] — 김지석
 - [[player-염승원]] — 염승원
 - [[player-김재현]] — 김재현
 - [[player-박수종]] — 박수종
+- [[player-송지후]] — 송지후
 - [[player-알칸타라]] — 알칸타라 (투수)
 - [[kim-sung-jin]] — 김성진 (투수)
 - [[kim-jae-woong]] — 김재웅 (투수)
@@ -476,6 +479,8 @@
 - [[source-doosan-vs-ssg-20260416]] — 두산 vs SSG 2026.04.16
 - [[source-samsung-vs-hanwha-20260416]] — 삼성 vs 한화 2026.04.16
 - [[source-kiwoom-vs-kia-20260416]] — 키움 vs KIA 2026.04.16
+- [[source-kia-vs-doosan-20260417]] — KIA vs 두산 2026.04.17
+- [[source-kiwoom-vs-kt-20260417]] — 키움 vs KT 2026.04.17
 
 ## 음악
 
