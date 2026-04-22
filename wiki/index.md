@@ -62,9 +62,9 @@
 - [[choi-won-jun-kia]] — 최원준
 - [[kim-hyun-soo]] — 김현수
 - [[ahn-hyun-min]] — 안현민
+- [[hilliard]] — 힐리어드
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
-- [[hilliard]] — 힐리어드
 - [[player-김상수]] — 김상수
 - [[oh-yoon-seok]] — 오윤석
 - [[player-허경민]] — 허경민
@@ -72,9 +72,9 @@
 - [[player-배정대]] — 배정대
 - [[player-한승택]] — 한승택
 - [[player-이정훈]] — 이정훈
-- [[player-장준원]] — 장준원
-- [[player-권동진]] — 권동진
 - [[player-김민혁]] — 김민혁
+- [[player-권동진]] — 권동진
+- [[player-장준원]] — 장준원
 - [[player-장진혁]] — 장진혁
 - [[player-안치영]] — 안치영
 - [[park-young-hyun]] — 박영현
@@ -100,18 +100,18 @@
 - [[austin]] — 오스틴
 - [[moon-sung-joo]] — 문성주
 - [[player-천성호]] — 천성호
-- [[oh-ji-hwan]] — 오지환
 - [[park-hae-min]] — 박해민
+- [[oh-ji-hwan]] — 오지환
 - [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
 - [[shin-min-jae]] — 신민재
 - [[hong-chang-ki]] — 홍창기
 - [[koo-bon-hyuk]] — 구본혁
+- [[player-송찬의]] — 송찬의
 - [[player-이영빈]] — 이영빈
 - [[player-이주헌]] — 이주헌
 - [[player-최원영]] — 최원영
 - [[player-이재원]] — 이재원
-- [[player-송찬의]] — 송찬의
 - [[player-치리노스]] — 치리노스 (투수)
 - [[player-배재준]] — 배재준 (투수)
 - [[player-이정용]] — 이정용 (투수)
@@ -136,8 +136,8 @@
 - [[park-min-woo]] — 박민우
 - [[park-gun-woo]] — 박건우
 - [[kim-ju-won]] — 김주원
-- [[kim-hwi-jip]] — 김휘집
 - [[lee-woo-sung]] — 이우성
+- [[kim-hwi-jip]] — 김휘집
 - [[davidson]] — 데이비슨
 - [[kim-hyung-jun]] — 김형준
 - [[choi-jung-won]] — 최정원
@@ -148,11 +148,11 @@
 - [[chun-jae-hwan]] — 천재환
 - [[kwon-hee-dong]] — 권희동
 - [[player-김정호]] — 김정호
+- [[player-안중열]] — 안중열
 - [[go-jun-hwi]] — 고준휘
 - [[kim-han-byul]] — 김한별
 - [[heo-yun]] — 허윤
 - [[player-오태양]] — 오태양
-- [[player-안중열]] — 안중열
 - [[player-도태훈]] — 도태훈
 - [[koo-chang-mo]] — 구창모 (투수)
 - [[bae-jae-hwan]] — 배재환 (투수)
@@ -180,9 +180,9 @@
 - [[choi-ji-hun]] — 최지훈
 - [[player-조형우]] — 조형우
 - [[player-정준재]] — 정준재
+- [[player-김재환]] — 김재환
 - [[player-김성욱]] — 김성욱
 - [[han-yoo-seom]] — 한유섬
-- [[player-김재환]] — 김재환
 - [[ahn-sang-hyun]] — 안상현
 - [[player-오태곤]] — 오태곤
 - [[player-이지영]] — 이지영
@@ -190,6 +190,8 @@
 - [[player-홍대인]] — 홍대인
 - [[player-석정우]] — 석정우
 - [[player-김민준]] — 김민준
+- [[player-최준우]] — 최준우
+- [[player-김민식]] — 김민식
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
 - [[player-박시후]] — 박시후 (투수)
@@ -218,12 +220,12 @@
 - [[yang-eui-ji]] — 양의지
 - [[yang-seok-hwan]] — 양석환
 - [[ahn-jae-seok]] — 안재석
-- [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
+- [[park-ji-hun]] — 박지훈
 - [[yoon-jun-ho]] — 윤준호
+- [[lee-yu-chan]] — 이유찬
 - [[player-손아섭]] — 손아섭
 - [[kim-in-tae]] — 김인태
-- [[lee-yu-chan]] — 이유찬
 - [[jo-su-haeng]] — 조수행
 - [[oh-myung-jin]] — 오명진
 - [[flexen]] — 플렉센 (투수)
@@ -249,14 +251,14 @@
 #### 롯데
 - [[reyes]] — 레이예스
 - [[no-jin-hyuk]] — 노진혁
+- [[han-tae-yang]] — 한태양
 - [[hwang-sung-bin]] — 황성빈
 - [[player-한동희]] — 한동희
-- [[han-tae-yang]] — 한태양
 - [[jeon-jun-woo]] — 전준우
 - [[yoon-dong-hee]] — 윤동희
+- [[jeon-min-jae]] — 전민재
 - [[player-손호영]] — 손호영
 - [[player-유강남]] — 유강남
-- [[jeon-min-jae]] — 전민재
 - [[player-손성빈]] — 손성빈
 - [[jang-doo-sung]] — 장두성
 - [[player-박승욱]] — 박승욱
@@ -293,8 +295,8 @@
 - [[jeon-byung-woo]] — 전병우
 - [[koo-ja-wook]] — 구자욱
 - [[player-박승규]] — 박승규
-- [[kim-sung-yun]] — 김성윤
 - [[kang-min-ho]] — 강민호
+- [[kim-sung-yun]] — 김성윤
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
@@ -335,9 +337,9 @@
 - [[park-ju-hong]] — 박주홍
 - [[eo-jun-seo]] — 어준서
 - [[lee-hyung-jong]] — 이형종
+- [[player-임지열]] — 임지열
 - [[park-han-gyul]] — 박한결
 - [[player-김지석]] — 김지석
-- [[player-임지열]] — 임지열
 - [[player-최재영]] — 최재영
 - [[player-추재현]] — 추재현
 - [[player-송지후]] — 송지후
@@ -410,6 +412,7 @@
 - [[player-쿠싱]] — 쿠싱 (투수)
 - [[player-이민우]] — 이민우 (투수)
 - [[player-이교훈]] — 이교훈 (투수)
+- [[player-권민규]] — 권민규 (투수)
 
 
 ### 개념
@@ -513,6 +516,11 @@
 - [[source-nc-vs-kiwoom-20260421]] — NC vs 키움 2026.04.21
 - [[source-doosan-vs-lotte-20260421]] — 두산 vs 롯데 2026.04.21
 - [[source-ssg-vs-samsung-20260421]] — SSG vs 삼성 2026.04.21
+- [[source-hanwha-vs-lg-20260422]] — 한화 vs LG 2026.04.22
+- [[source-kia-vs-kt-20260422]] — KIA vs KT 2026.04.22
+- [[source-nc-vs-kiwoom-20260422]] — NC vs 키움 2026.04.22
+- [[source-doosan-vs-lotte-20260422]] — 두산 vs 롯데 2026.04.22
+- [[source-ssg-vs-samsung-20260422]] — SSG vs 삼성 2026.04.22
 
 ## 음악
 
