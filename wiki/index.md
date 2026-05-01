@@ -63,15 +63,15 @@
 - [[kim-hyun-soo]] — 김현수
 - [[hilliard]] — 힐리어드
 - [[jang-sung-woo]] — 장성우
-- [[lee-gang-min]] — 이강민
 - [[player-김상수]] — 김상수
+- [[lee-gang-min]] — 이강민
 - [[ahn-hyun-min]] — 안현민
 - [[oh-yoon-seok]] — 오윤석
 - [[player-허경민]] — 허경민
 - [[ryu-hyun-in]] — 류현인
+- [[player-김민혁]] — 김민혁
 - [[player-배정대]] — 배정대
 - [[player-한승택]] — 한승택
-- [[player-김민혁]] — 김민혁
 - [[player-이정훈]] — 이정훈
 - [[player-장준원]] — 장준원
 - [[player-권동진]] — 권동진
@@ -105,9 +105,9 @@
 - [[park-hae-min]] — 박해민
 - [[oh-ji-hwan]] — 오지환
 - [[park-dong-won]] — 박동원
+- [[player-송찬의]] — 송찬의
 - [[hong-chang-ki]] — 홍창기
 - [[shin-min-jae]] — 신민재
-- [[player-송찬의]] — 송찬의
 - [[koo-bon-hyuk]] — 구본혁
 - [[player-이영빈]] — 이영빈
 - [[player-이주헌]] — 이주헌
@@ -137,26 +137,27 @@
 - [[park-min-woo]] — 박민우
 - [[kim-ju-won]] — 김주원
 - [[park-gun-woo]] — 박건우
-- [[lee-woo-sung]] — 이우성
 - [[davidson]] — 데이비슨
+- [[lee-woo-sung]] — 이우성
 - [[kim-hyung-jun]] — 김형준
 - [[kim-hwi-jip]] — 김휘집
 - [[choi-jung-won]] — 최정원
 - [[seo-ho-chul]] — 서호철
-- [[chun-jae-hwan]] — 천재환
 - [[han-seok-hyun]] — 한석현
+- [[chun-jae-hwan]] — 천재환
 - [[player-신재인]] — 신재인
 - [[player-안중열]] — 안중열
 - [[oh-young-soo]] — 오영수
 - [[go-jun-hwi]] — 고준휘
 - [[player-도태훈]] — 도태훈
 - [[kwon-hee-dong]] — 권희동
-- [[player-김정호]] — 김정호
 - [[kim-han-byul]] — 김한별
+- [[player-김정호]] — 김정호
 - [[heo-yun]] — 허윤
 - [[player-오태양]] — 오태양
 - [[player-한재환]] — 한재환
 - [[park-si-won]] — 박시원
+- [[player-윤준혁]] — 윤준혁
 - [[koo-chang-mo]] — 구창모 (투수)
 - [[bae-jae-hwan]] — 배재환 (투수)
 - [[im-ji-min]] — 임지민 (투수)
@@ -175,6 +176,7 @@
 - [[player-목지훈]] — 목지훈 (투수)
 - [[player-전사민]] — 전사민 (투수)
 - [[player-하준영]] — 하준영 (투수)
+- [[player-김태경]] — 김태경 (투수)
 
 #### SSG
 - [[player-박성한]] — 박성한
@@ -231,11 +233,11 @@
 - [[lee-yu-chan]] — 이유찬
 - [[yoon-jun-ho]] — 윤준호
 - [[player-손아섭]] — 손아섭
+- [[oh-myung-jin]] — 오명진
+- [[player-김기연]] — 김기연
 - [[kim-in-tae]] — 김인태
 - [[jo-su-haeng]] — 조수행
-- [[oh-myung-jin]] — 오명진
 - [[player-임종성]] — 임종성
-- [[player-김기연]] — 김기연
 - [[flexen]] — 플렉센 (투수)
 - [[park-shin-ji]] — 박신지 (투수)
 - [[lee-byung-hun]] — 이병헌 (투수)
@@ -256,6 +258,8 @@
 - [[player-이영하]] — 이영하 (투수)
 - [[benjamin]] — 벤자민 (투수)
 - [[player-최준호]] — 최준호 (투수)
+- [[player-김명신]] — 김명신 (투수)
+- [[player-최주형]] — 최주형 (투수)
 
 #### 롯데
 - [[reyes]] — 레이예스
@@ -266,11 +270,11 @@
 - [[jeon-min-jae]] — 전민재
 - [[hwang-sung-bin]] — 황성빈
 - [[player-유강남]] — 유강남
-- [[yoon-dong-hee]] — 윤동희
 - [[jang-doo-sung]] — 장두성
+- [[yoon-dong-hee]] — 윤동희
 - [[player-박승욱]] — 박승욱
-- [[player-손호영]] — 손호영
 - [[player-손성빈]] — 손성빈
+- [[player-손호영]] — 손호영
 - [[player-신윤후]] — 신윤후
 - [[player-이호준]] — 이호준
 - [[player-김민성]] — 김민성
@@ -306,16 +310,16 @@
 - [[kim-ji-chan]] — 김지찬
 - [[jeon-byung-woo]] — 전병우
 - [[player-박승규]] — 박승규
+- [[kim-hun-gon]] — 김헌곤
 - [[koo-ja-wook]] — 구자욱
 - [[kang-min-ho]] — 강민호
-- [[kim-hun-gon]] — 김헌곤
 - [[kim-sung-yun]] — 김성윤
 - [[lee-jae-hyun]] — 이재현
-- [[kim-young-woong]] — 김영웅
 - [[yang-woo-hyun]] — 양우현
+- [[kim-young-woong]] — 김영웅
+- [[player-김재상]] — 김재상
 - [[player-김도환]] — 김도환
 - [[park-se-hyuk]] — 박세혁
-- [[player-김재상]] — 김재상
 - [[hong-hyun-bin]] — 홍현빈
 - [[sim-jae-hun]] — 심재훈
 - [[ham-su-ho]] — 함수호
@@ -343,8 +347,8 @@
 #### 키움
 - [[ahn-chi-hong]] — 안치홍
 - [[brooks]] — 브룩스
-- [[lee-ju-hyung]] — 이주형
 - [[kim-gun-hee]] — 김건희
+- [[lee-ju-hyung]] — 이주형
 - [[choi-ju-hwan]] — 최주환
 - [[park-chan-hyuk]] — 박찬혁
 - [[park-ju-hong]] — 박주홍
@@ -355,14 +359,16 @@
 - [[player-오선진]] — 오선진
 - [[park-han-gyul]] — 박한결
 - [[player-송지후]] — 송지후
-- [[player-최재영]] — 최재영
-- [[player-추재현]] — 추재현
 - [[player-임병욱]] — 임병욱
+- [[player-최재영]] — 최재영
 - [[player-박수종]] — 박수종
+- [[player-추재현]] — 추재현
 - [[player-김태진]] — 김태진
 - [[player-염승원]] — 염승원
+- [[player-전태현]] — 전태현
 - [[player-김재현]] — 김재현
 - [[player-김동헌]] — 김동헌
+- [[yang-hyun-jong]] — 양현종
 - [[player-알칸타라]] — 알칸타라 (투수)
 - [[kim-sung-jin]] — 김성진 (투수)
 - [[kim-jae-woong]] — 김재웅 (투수)
@@ -398,10 +404,10 @@
 - [[oh-jae-won]] — 오재원
 - [[choi-jae-hun]] — 최재훈
 - [[heo-in-seo]] — 허인서
-- [[hwang-young-mook]] — 황영묵
 - [[kim-tae-yeon]] — 김태연
-- [[choi-in-ho]] — 최인호
+- [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
+- [[choi-in-ho]] — 최인호
 - [[player-박정현]] — 박정현
 - [[player-최유빈]] — 최유빈
 - [[hernandez]] — 에르난데스 (투수)
@@ -573,6 +579,11 @@
 - [[source-ssg-vs-hanwha-20260430]] — SSG vs 한화 2026.04.30
 - [[source-samsung-vs-doosan-20260430]] — 삼성 vs 두산 2026.04.30
 - [[source-kiwoom-vs-lotte-20260430]] — 키움 vs 롯데 2026.04.30
+- [[source-hanwha-vs-samsung-20260501]] — 한화 vs 삼성 2026.05.01
+- [[source-kt-vs-kia-20260501]] — KT vs KIA 2026.05.01
+- [[source-lotte-vs-ssg-20260501]] — 롯데 vs SSG 2026.05.01
+- [[source-nc-vs-lg-20260501]] — NC vs LG 2026.05.01
+- [[source-doosan-vs-kiwoom-20260501]] — 두산 vs 키움 2026.05.01
 
 ## 음악
 
