@@ -20,8 +20,8 @@
 
 #### KIA
 - [[player-김호령]] — 김호령
-- [[player-김선빈]] — 김선빈
 - [[kim-do-young]] — 김도영
+- [[player-김선빈]] — 김선빈
 - [[player-데일]] — 데일
 - [[player-박재현]] — 박재현
 - [[na-sung-bum]] — 나성범
@@ -68,8 +68,8 @@
 - [[lee-gang-min]] — 이강민
 - [[ahn-hyun-min]] — 안현민
 - [[oh-yoon-seok]] — 오윤석
-- [[player-허경민]] — 허경민
 - [[player-김민혁]] — 김민혁
+- [[player-허경민]] — 허경민
 - [[ryu-hyun-in]] — 류현인
 - [[player-배정대]] — 배정대
 - [[player-한승택]] — 한승택
@@ -107,13 +107,14 @@
 - [[oh-ji-hwan]] — 오지환
 - [[park-dong-won]] — 박동원
 - [[hong-chang-ki]] — 홍창기
-- [[player-송찬의]] — 송찬의
 - [[shin-min-jae]] — 신민재
 - [[koo-bon-hyuk]] — 구본혁
+- [[player-송찬의]] — 송찬의
 - [[player-이영빈]] — 이영빈
 - [[player-이주헌]] — 이주헌
 - [[player-최원영]] — 최원영
 - [[player-이재원]] — 이재원
+- [[kim-min-soo]] — 김민수
 - [[player-치리노스]] — 치리노스 (투수)
 - [[player-배재준]] — 배재준 (투수)
 - [[player-이정용]] — 이정용 (투수)
@@ -134,25 +135,26 @@
 - [[player-김유영]] — 김유영 (투수)
 - [[player-김진수]] — 김진수 (투수)
 - [[player-이종준]] — 이종준 (투수)
+- [[player-이상영]] — 이상영 (투수)
 
 #### NC
 - [[park-min-woo]] — 박민우
-- [[kim-ju-won]] — 김주원
 - [[park-gun-woo]] — 박건우
 - [[lee-woo-sung]] — 이우성
+- [[kim-ju-won]] — 김주원
 - [[davidson]] — 데이비슨
+- [[choi-jung-won]] — 최정원
 - [[kim-hyung-jun]] — 김형준
 - [[kim-hwi-jip]] — 김휘집
-- [[choi-jung-won]] — 최정원
-- [[seo-ho-chul]] — 서호철
 - [[han-seok-hyun]] — 한석현
+- [[seo-ho-chul]] — 서호철
 - [[chun-jae-hwan]] — 천재환
 - [[player-신재인]] — 신재인
 - [[player-안중열]] — 안중열
 - [[go-jun-hwi]] — 고준휘
+- [[kim-han-byul]] — 김한별
 - [[oh-young-soo]] — 오영수
 - [[player-도태훈]] — 도태훈
-- [[kim-han-byul]] — 김한별
 - [[kwon-hee-dong]] — 권희동
 - [[player-김정호]] — 김정호
 - [[player-윤준혁]] — 윤준혁
@@ -199,9 +201,10 @@
 - [[player-채현우]] — 채현우
 - [[player-김민식]] — 김민식
 - [[player-석정우]] — 석정우
+- [[player-류효승]] — 류효승
 - [[player-김민준]] — 김민준
 - [[player-김창평]] — 김창평
-- [[player-류효승]] — 류효승
+- [[player-김정민]] — 김정민
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
 - [[player-박시후]] — 박시후 (투수)
@@ -223,8 +226,8 @@
 
 #### 두산
 - [[park-jun-sun]] — 박준순
-- [[park-chan-ho]] — 박찬호
 - [[cameron]] — 카메론
+- [[park-chan-ho]] — 박찬호
 - [[jung-su-bin]] — 정수빈
 - [[kim-min-seok]] — 김민석
 - [[yang-eui-ji]] — 양의지
@@ -233,9 +236,9 @@
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
 - [[lee-yu-chan]] — 이유찬
+- [[oh-myung-jin]] — 오명진
 - [[yoon-jun-ho]] — 윤준호
 - [[player-손아섭]] — 손아섭
-- [[oh-myung-jin]] — 오명진
 - [[player-김기연]] — 김기연
 - [[kim-in-tae]] — 김인태
 - [[jo-su-haeng]] — 조수행
@@ -267,15 +270,15 @@
 - [[reyes]] — 레이예스
 - [[no-jin-hyuk]] — 노진혁
 - [[jeon-jun-woo]] — 전준우
-- [[player-한동희]] — 한동희
 - [[jeon-min-jae]] — 전민재
+- [[player-한동희]] — 한동희
 - [[han-tae-yang]] — 한태양
 - [[yoon-dong-hee]] — 윤동희
 - [[player-유강남]] — 유강남
 - [[hwang-sung-bin]] — 황성빈
 - [[jang-doo-sung]] — 장두성
-- [[player-박승욱]] — 박승욱
 - [[player-손성빈]] — 손성빈
+- [[player-박승욱]] — 박승욱
 - [[player-손호영]] — 손호영
 - [[player-신윤후]] — 신윤후
 - [[player-이호준]] — 이호준
@@ -307,20 +310,20 @@
 
 #### 삼성
 - [[ryu-ji-hyeok]] — 류지혁
-- [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
+- [[diaz]] — 디아즈
 - [[kim-ji-chan]] — 김지찬
 - [[player-박승규]] — 박승규
 - [[jeon-byung-woo]] — 전병우
 - [[kim-hun-gon]] — 김헌곤
+- [[kim-sung-yun]] — 김성윤
 - [[koo-ja-wook]] — 구자욱
 - [[kang-min-ho]] — 강민호
-- [[kim-sung-yun]] — 김성윤
 - [[lee-jae-hyun]] — 이재현
 - [[yang-woo-hyun]] — 양우현
 - [[kim-young-woong]] — 김영웅
-- [[player-김재상]] — 김재상
 - [[player-김도환]] — 김도환
+- [[player-김재상]] — 김재상
 - [[park-se-hyuk]] — 박세혁
 - [[hong-hyun-bin]] — 홍현빈
 - [[sim-jae-hun]] — 심재훈
@@ -358,17 +361,17 @@
 - [[player-김지석]] — 김지석
 - [[eo-jun-seo]] — 어준서
 - [[lee-hyung-jong]] — 이형종
-- [[player-오선진]] — 오선진
-- [[park-han-gyul]] — 박한결
 - [[player-송지후]] — 송지후
+- [[player-오선진]] — 오선진
 - [[player-임병욱]] — 임병욱
+- [[park-han-gyul]] — 박한결
 - [[player-최재영]] — 최재영
 - [[player-박수종]] — 박수종
 - [[player-추재현]] — 추재현
 - [[yang-hyun-jong]] — 양현종
+- [[player-전태현]] — 전태현
 - [[player-김태진]] — 김태진
 - [[player-염승원]] — 염승원
-- [[player-전태현]] — 전태현
 - [[player-권혁빈]] — 권혁빈
 - [[player-김재현]] — 김재현
 - [[player-김동헌]] — 김동헌
@@ -393,6 +396,8 @@
 - [[player-원종현]] — 원종현 (투수)
 - [[player-김연주]] — 김연주 (투수)
 - [[player-박준현]] — 박준현 (투수)
+- [[player-김서준]] — 김서준 (투수)
+- [[player-이태양]] — 이태양 (투수)
 
 #### 한화
 - [[peraza]] — 페라자
@@ -404,15 +409,16 @@
 - [[sim-woo-jun]] — 심우준
 - [[player-이원석]] — 이원석
 - [[lee-do-yoon]] — 이도윤
-- [[oh-jae-won]] — 오재원
 - [[heo-in-seo]] — 허인서
+- [[oh-jae-won]] — 오재원
 - [[choi-jae-hun]] — 최재훈
 - [[player-이진영]] — 이진영
-- [[kim-tae-yeon]] — 김태연
 - [[hwang-young-mook]] — 황영묵
+- [[kim-tae-yeon]] — 김태연
 - [[choi-in-ho]] — 최인호
 - [[player-박정현]] — 박정현
 - [[player-최유빈]] — 최유빈
+- [[player-쿠싱]] — 쿠싱
 - [[hernandez]] — 에르난데스 (투수)
 - [[jo-dong-wook]] — 조동욱 (투수)
 - [[park-jun-young]] — 박준영 (투수)
@@ -434,7 +440,6 @@
 - [[hwang-jun-seo]] — 황준서 (투수)
 - [[kim-bum-jun]] — 김범준 (투수)
 - [[player-이상규]] — 이상규 (투수)
-- [[player-쿠싱]] — 쿠싱 (투수)
 - [[player-이민우]] — 이민우 (투수)
 - [[player-이교훈]] — 이교훈 (투수)
 - [[player-권민규]] — 권민규 (투수)
@@ -592,6 +597,11 @@
 - [[source-lotte-vs-ssg-20260502]] — 롯데 vs SSG 2026.05.02
 - [[source-nc-vs-lg-20260502]] — NC vs LG 2026.05.02
 - [[source-doosan-vs-kiwoom-20260502]] — 두산 vs 키움 2026.05.02
+- [[source-hanwha-vs-samsung-20260503]] — 한화 vs 삼성 2026.05.03
+- [[source-kt-vs-kia-20260503]] — KT vs KIA 2026.05.03
+- [[source-lotte-vs-ssg-20260503]] — 롯데 vs SSG 2026.05.03
+- [[source-nc-vs-lg-20260503]] — NC vs LG 2026.05.03
+- [[source-doosan-vs-kiwoom-20260503]] — 두산 vs 키움 2026.05.03
 
 ## 음악
 
