@@ -23,21 +23,21 @@
 - [[kim-do-young]] — 김도영
 - [[player-김선빈]] — 김선빈
 - [[player-박재현]] — 박재현
-- [[player-데일]] — 데일
 - [[na-sung-bum]] — 나성범
+- [[player-데일]] — 데일
 - [[player-카스트로]] — 카스트로
 - [[han-jun-soo]] — 한준수
 - [[player-박민]] — 박민
 - [[player-김규성]] — 김규성
 - [[player-오선우]] — 오선우
+- [[player-박상준]] — 박상준
 - [[player-김태군]] — 김태군
+- [[player-아데를린]] — 아데를린
 - [[player-박정우]] — 박정우
 - [[player-윤도현]] — 윤도현
 - [[player-정현창]] — 정현창
 - [[player-고종욱]] — 고종욱
-- [[player-박상준]] — 박상준
 - [[player-주효상]] — 주효상
-- [[player-아데를린]] — 아데를린
 - [[player-이호연]] — 이호연
 - [[player-한승연]] — 한승연
 - [[nail]] — 네일 (투수)
@@ -69,16 +69,16 @@
 - [[jang-sung-woo]] — 장성우
 - [[player-김상수]] — 김상수
 - [[lee-gang-min]] — 이강민
+- [[player-김민혁]] — 김민혁
 - [[ahn-hyun-min]] — 안현민
 - [[oh-yoon-seok]] — 오윤석
-- [[player-김민혁]] — 김민혁
 - [[player-허경민]] — 허경민
 - [[player-배정대]] — 배정대
 - [[ryu-hyun-in]] — 류현인
 - [[player-한승택]] — 한승택
 - [[player-이정훈]] — 이정훈
-- [[player-장준원]] — 장준원
 - [[player-권동진]] — 권동진
+- [[player-장준원]] — 장준원
 - [[player-유준규]] — 유준규
 - [[player-강민성]] — 강민성
 - [[kang-hyun-woo]] — 강현우
@@ -110,14 +110,14 @@
 - [[moon-sung-joo]] — 문성주
 - [[park-hae-min]] — 박해민
 - [[oh-ji-hwan]] — 오지환
+- [[koo-bon-hyuk]] — 구본혁
 - [[shin-min-jae]] — 신민재
 - [[park-dong-won]] — 박동원
-- [[koo-bon-hyuk]] — 구본혁
 - [[hong-chang-ki]] — 홍창기
 - [[player-송찬의]] — 송찬의
+- [[player-이재원]] — 이재원
 - [[player-이주헌]] — 이주헌
 - [[player-이영빈]] — 이영빈
-- [[player-이재원]] — 이재원
 - [[player-최원영]] — 최원영
 - [[kim-min-soo]] — 김민수
 - [[player-치리노스]] — 치리노스 (투수)
@@ -157,9 +157,9 @@
 - [[chun-jae-hwan]] — 천재환
 - [[kim-han-byul]] — 김한별
 - [[player-안중열]] — 안중열
+- [[oh-young-soo]] — 오영수
 - [[player-신재인]] — 신재인
 - [[go-jun-hwi]] — 고준휘
-- [[oh-young-soo]] — 오영수
 - [[player-도태훈]] — 도태훈
 - [[kwon-hee-dong]] — 권희동
 - [[player-김정호]] — 김정호
@@ -196,11 +196,11 @@
 - [[choi-ji-hun]] — 최지훈
 - [[player-정준재]] — 정준재
 - [[go-myung-jun]] — 고명준
-- [[player-조형우]] — 조형우
 - [[player-오태곤]] — 오태곤
+- [[player-조형우]] — 조형우
 - [[ahn-sang-hyun]] — 안상현
-- [[han-yoo-seom]] — 한유섬
 - [[player-김재환]] — 김재환
+- [[han-yoo-seom]] — 한유섬
 - [[player-김성욱]] — 김성욱
 - [[player-최준우]] — 최준우
 - [[player-이지영]] — 이지영
@@ -278,26 +278,27 @@
 #### 롯데
 - [[reyes]] — 레이예스
 - [[jeon-jun-woo]] — 전준우
-- [[no-jin-hyuk]] — 노진혁
 - [[jeon-min-jae]] — 전민재
+- [[no-jin-hyuk]] — 노진혁
 - [[player-한동희]] — 한동희
 - [[yoon-dong-hee]] — 윤동희
-- [[han-tae-yang]] — 한태양
 - [[jang-doo-sung]] — 장두성
+- [[han-tae-yang]] — 한태양
 - [[player-유강남]] — 유강남
 - [[hwang-sung-bin]] — 황성빈
 - [[player-박승욱]] — 박승욱
 - [[player-손성빈]] — 손성빈
 - [[player-손호영]] — 손호영
+- [[player-고승민]] — 고승민
 - [[player-신윤후]] — 신윤후
 - [[na-seung-yub]] — 나승엽
 - [[player-이호준]] — 이호준
-- [[player-고승민]] — 고승민
 - [[player-김민성]] — 김민성
 - [[player-이서준]] — 이서준
 - [[choi-jun-yong]] — 최준용
 - [[player-정보근]] — 정보근
 - [[player-김한홀]] — 김한홀
+- [[player-김세민]] — 김세민
 - [[player-로드리게스]] — 로드리게스 (투수)
 - [[jung-chul-won]] — 정철원 (투수)
 - [[player-쿄야마]] — 쿄야마 (투수)
@@ -328,8 +329,8 @@
 - [[player-박승규]] — 박승규
 - [[jeon-byung-woo]] — 전병우
 - [[koo-ja-wook]] — 구자욱
-- [[kim-hun-gon]] — 김헌곤
 - [[kim-sung-yun]] — 김성윤
+- [[kim-hun-gon]] — 김헌곤
 - [[kang-min-ho]] — 강민호
 - [[yang-woo-hyun]] — 양우현
 - [[lee-jae-hyun]] — 이재현
@@ -375,10 +376,10 @@
 - [[player-임지열]] — 임지열
 - [[player-김지석]] — 김지석
 - [[eo-jun-seo]] — 어준서
-- [[lee-hyung-jong]] — 이형종
-- [[player-송지후]] — 송지후
 - [[player-임병욱]] — 임병욱
 - [[player-오선진]] — 오선진
+- [[lee-hyung-jong]] — 이형종
+- [[player-송지후]] — 송지후
 - [[player-박수종]] — 박수종
 - [[park-han-gyul]] — 박한결
 - [[yang-hyun-jong]] — 양현종
@@ -429,8 +430,8 @@
 - [[ha-ju-seok]] — 하주석
 - [[lee-do-yoon]] — 이도윤
 - [[heo-in-seo]] — 허인서
-- [[oh-jae-won]] — 오재원
 - [[kim-tae-yeon]] — 김태연
+- [[oh-jae-won]] — 오재원
 - [[choi-jae-hun]] — 최재훈
 - [[player-이진영]] — 이진영
 - [[hwang-young-mook]] — 황영묵
@@ -635,6 +636,11 @@
 - [[source-nc-vs-ssg-20260507]] — NC vs SSG 2026.05.07
 - [[source-doosan-vs-lg-20260507]] — 두산 vs LG 2026.05.07
 - [[source-kiwoom-vs-samsung-20260507]] — 키움 vs 삼성 2026.05.07
+- [[source-kia-vs-lotte-20260508]] — KIA vs 롯데 2026.05.08
+- [[source-kt-vs-kiwoom-20260508]] — KT vs 키움 2026.05.08
+- [[source-lg-vs-hanwha-20260508]] — LG vs 한화 2026.05.08
+- [[source-ssg-vs-doosan-20260508]] — SSG vs 두산 2026.05.08
+- [[source-samsung-vs-nc-20260508]] — 삼성 vs NC 2026.05.08
 
 ## 음악
 
