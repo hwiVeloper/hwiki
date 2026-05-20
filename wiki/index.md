@@ -218,12 +218,12 @@
 - [[player-이지영]] — 이지영
 - [[player-홍대인]] — 홍대인
 - [[player-류효승]] — 류효승
-- [[player-김민식]] — 김민식
 - [[player-이정범]] — 이정범
+- [[player-김민식]] — 김민식
 - [[player-석정우]] — 석정우
+- [[player-김정민]] — 김정민
 - [[player-김민준]] — 김민준
 - [[player-김창평]] — 김창평
-- [[player-김정민]] — 김정민
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
 - [[player-박시후]] — 박시후 (투수)
@@ -389,20 +389,20 @@
 - [[lee-ju-hyung]] — 이주형
 - [[player-임병욱]] — 임병욱
 - [[park-chan-hyuk]] — 박찬혁
+- [[player-서건창]] — 서건창
 - [[player-임지열]] — 임지열
 - [[player-김지석]] — 김지석
-- [[player-서건창]] — 서건창
 - [[eo-jun-seo]] — 어준서
 - [[player-오선진]] — 오선진
-- [[player-박수종]] — 박수종
 - [[lee-hyung-jong]] — 이형종
+- [[player-박수종]] — 박수종
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
-- [[park-han-gyul]] — 박한결
 - [[player-김웅빈]] — 김웅빈
+- [[park-han-gyul]] — 박한결
+- [[player-권혁빈]] — 권혁빈
 - [[player-최재영]] — 최재영
 - [[player-추재현]] — 추재현
-- [[player-권혁빈]] — 권혁빈
 - [[player-전태현]] — 전태현
 - [[player-김태진]] — 김태진
 - [[player-염승원]] — 염승원
@@ -706,6 +706,7 @@
 - [[source-lotte-vs-hanwha-20260519]] — 롯데 vs 한화 2026.05.19
 - [[source-nc-vs-doosan-20260519]] — NC vs 두산 2026.05.19
 - [[source-ssg-vs-kiwoom-20260519]] — SSG vs 키움 2026.05.19
+- [[source-ssg-vs-kiwoom-20260520]] — SSG vs 키움 2026.05.20
 
 ## 음악
 
