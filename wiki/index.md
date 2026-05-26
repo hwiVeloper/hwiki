@@ -261,8 +261,8 @@
 - [[ahn-jae-seok]] — 안재석
 - [[yang-seok-hwan]] — 양석환
 - [[player-손아섭]] — 손아섭
-- [[oh-myung-jin]] — 오명진
 - [[yoon-jun-ho]] — 윤준호
+- [[oh-myung-jin]] — 오명진
 - [[player-김기연]] — 김기연
 - [[lee-yu-chan]] — 이유찬
 - [[kim-in-tae]] — 김인태
@@ -300,13 +300,13 @@
 - [[jang-doo-sung]] — 장두성
 - [[hwang-sung-bin]] — 황성빈
 - [[player-한동희]] — 한동희
-- [[no-jin-hyuk]] — 노진혁
 - [[player-고승민]] — 고승민
+- [[no-jin-hyuk]] — 노진혁
 - [[player-유강남]] — 유강남
 - [[yoon-dong-hee]] — 윤동희
 - [[player-손성빈]] — 손성빈
-- [[han-tae-yang]] — 한태양
 - [[player-박승욱]] — 박승욱
+- [[han-tae-yang]] — 한태양
 - [[na-seung-yub]] — 나승엽
 - [[player-손호영]] — 손호영
 - [[player-신윤후]] — 신윤후
@@ -417,6 +417,7 @@
 - [[player-김태진]] — 김태진
 - [[player-염승원]] — 염승원
 - [[player-주성원]] — 주성원
+- [[player-여동욱]] — 여동욱
 - [[player-김재현]] — 김재현
 - [[player-김동헌]] — 김동헌
 - [[player-알칸타라]] — 알칸타라 (투수)
@@ -736,6 +737,9 @@
 - [[source-ssg-vs-kia-20260524]] — SSG vs KIA 2026.05.24
 - [[source-samsung-vs-lotte-20260524]] — 삼성 vs 롯데 2026.05.24
 - [[source-kiwoom-vs-lg-20260524]] — 키움 vs LG 2026.05.24
+- [[source-kia-vs-kiwoom-20260526]] — KIA vs 키움 2026.05.26
+- [[source-kt-vs-doosan-20260526]] — KT vs 두산 2026.05.26
+- [[source-lg-vs-lotte-20260526]] — LG vs 롯데 2026.05.26
 
 ## 음악
 
