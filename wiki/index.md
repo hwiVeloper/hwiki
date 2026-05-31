@@ -28,8 +28,8 @@
 - [[player-데일]] — 데일
 - [[player-카스트로]] — 카스트로
 - [[player-박민]] — 박민
-- [[player-아데를린]] — 아데를린
 - [[player-김규성]] — 김규성
+- [[player-아데를린]] — 아데를린
 - [[player-박상준]] — 박상준
 - [[player-김태군]] — 김태군
 - [[player-박정우]] — 박정우
@@ -76,8 +76,8 @@
 - [[oh-yoon-seok]] — 오윤석
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
-- [[player-권동진]] — 권동진
 - [[ryu-hyun-in]] — 류현인
+- [[player-권동진]] — 권동진
 - [[player-배정대]] — 배정대
 - [[player-이정훈]] — 이정훈
 - [[player-유준규]] — 유준규
@@ -109,11 +109,11 @@
 
 #### LG
 - [[austin]] — 오스틴
+- [[park-hae-min]] — 박해민
 - [[player-천성호]] — 천성호
 - [[oh-ji-hwan]] — 오지환
-- [[park-hae-min]] — 박해민
-- [[shin-min-jae]] — 신민재
 - [[hong-chang-ki]] — 홍창기
+- [[shin-min-jae]] — 신민재
 - [[park-dong-won]] — 박동원
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
@@ -165,10 +165,10 @@
 - [[seo-ho-chul]] — 서호철
 - [[kim-hwi-jip]] — 김휘집
 - [[kim-han-byul]] — 김한별
+- [[player-안중열]] — 안중열
 - [[chun-jae-hwan]] — 천재환
 - [[oh-young-soo]] — 오영수
 - [[player-신재인]] — 신재인
-- [[player-안중열]] — 안중열
 - [[park-si-won]] — 박시원
 - [[player-도태훈]] — 도태훈
 - [[kwon-hee-dong]] — 권희동
@@ -201,6 +201,7 @@
 - [[player-박지한]] — 박지한 (투수)
 - [[player-김준원]] — 김준원 (투수)
 - [[player-최우석]] — 최우석 (투수)
+- [[player-최요한]] — 최요한 (투수)
 
 #### SSG
 - [[player-박성한]] — 박성한
@@ -298,9 +299,9 @@
 - [[reyes]] — 레이예스
 - [[jeon-min-jae]] — 전민재
 - [[jeon-jun-woo]] — 전준우
+- [[hwang-sung-bin]] — 황성빈
 - [[player-고승민]] — 고승민
 - [[jang-doo-sung]] — 장두성
-- [[hwang-sung-bin]] — 황성빈
 - [[player-한동희]] — 한동희
 - [[no-jin-hyuk]] — 노진혁
 - [[player-유강남]] — 유강남
@@ -459,10 +460,10 @@
 - [[moon-hyun-bin]] — 문현빈
 - [[noh-si-hwan]] — 노시환
 - [[sim-woo-jun]] — 심우준
-- [[heo-in-seo]] — 허인서
+- [[kim-tae-yeon]] — 김태연
 - [[lee-do-yoon]] — 이도윤
 - [[player-이원석]] — 이원석
-- [[kim-tae-yeon]] — 김태연
+- [[heo-in-seo]] — 허인서
 - [[chae-eun-seong]] — 채은성
 - [[ha-ju-seok]] — 하주석
 - [[hwang-young-mook]] — 황영묵
@@ -764,6 +765,11 @@
 - [[source-lotte-vs-nc-20260530]] — 롯데 vs NC 2026.05.30
 - [[source-doosan-vs-samsung-20260530]] — 두산 vs 삼성 2026.05.30
 - [[source-ssg-vs-hanwha-20260530]] — SSG vs 한화 2026.05.30
+- [[source-kia-vs-lg-20260531]] — KIA vs LG 2026.05.31
+- [[source-kt-vs-kiwoom-20260531]] — KT vs 키움 2026.05.31
+- [[source-lotte-vs-nc-20260531]] — 롯데 vs NC 2026.05.31
+- [[source-doosan-vs-samsung-20260531]] — 두산 vs 삼성 2026.05.31
+- [[source-ssg-vs-hanwha-20260531]] — SSG vs 한화 2026.05.31
 
 ## 음악
 
