@@ -67,6 +67,7 @@
 - [[player-곽도규]] — 곽도규 (투수)
 - [[player-시라카와]] — 시라카와 (투수)
 - [[kim-hyun-soo]] — 김현수 (투수)
+- [[player-지현]] — 지현 (투수)
 
 #### KT
 - [[choi-won-jun-kia]] — 최원준
@@ -118,15 +119,15 @@
 #### LG
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
-- [[oh-ji-hwan]] — 오지환
 - [[hong-chang-ki]] — 홍창기
+- [[oh-ji-hwan]] — 오지환
 - [[shin-min-jae]] — 신민재
 - [[player-천성호]] — 천성호
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
-- [[player-송찬의]] — 송찬의
 - [[moon-sung-joo]] — 문성주
+- [[player-송찬의]] — 송찬의
 - [[player-이주헌]] — 이주헌
 - [[player-문정빈]] — 문정빈
 - [[player-이재원]] — 이재원
@@ -272,6 +273,7 @@
 - [[player-이건욱]] — 이건욱 (투수)
 - [[player-최용준]] — 최용준 (투수)
 - [[player-신상연]] — 신상연 (투수)
+- [[player-해치]] — 해치 (투수)
 
 #### 두산
 - [[cameron]] — 카메론
@@ -285,8 +287,8 @@
 - [[player-손아섭]] — 손아섭
 - [[kang-seung-ho]] — 강승호
 - [[oh-myung-jin]] — 오명진
-- [[yang-seok-hwan]] — 양석환
 - [[yoon-jun-ho]] — 윤준호
+- [[yang-seok-hwan]] — 양석환
 - [[lee-yu-chan]] — 이유찬
 - [[jo-su-haeng]] — 조수행
 - [[player-김기연]] — 김기연
@@ -373,6 +375,7 @@
 - [[player-이승헌]] — 이승헌 (투수)
 - [[player-이진하]] — 이진하 (투수)
 - [[player-김창훈]] — 김창훈 (투수)
+- [[player-김기준]] — 김기준 (투수)
 
 #### 삼성
 - [[diaz]] — 디아즈
@@ -381,16 +384,16 @@
 - [[kim-ji-chan]] — 김지찬
 - [[koo-ja-wook]] — 구자욱
 - [[player-박승규]] — 박승규
-- [[kim-sung-yun]] — 김성윤
 - [[jeon-byung-woo]] — 전병우
+- [[kim-sung-yun]] — 김성윤
 - [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
 - [[kim-hun-gon]] — 김헌곤
 - [[yang-woo-hyun]] — 양우현
 - [[player-김도환]] — 김도환
+- [[player-김상준]] — 김상준
 - [[kim-young-woong]] — 김영웅
 - [[park-se-hyuk]] — 박세혁
-- [[player-김상준]] — 김상준
 - [[player-박계범]] — 박계범
 - [[player-김재상]] — 김재상
 - [[player-장승현]] — 장승현
@@ -449,11 +452,11 @@
 - [[player-추재현]] — 추재현
 - [[player-전태현]] — 전태현
 - [[player-박성빈]] — 박성빈
+- [[player-원성준]] — 원성준
 - [[player-김태진]] — 김태진
 - [[player-염승원]] — 염승원
 - [[player-주성원]] — 주성원
 - [[player-박채울]] — 박채울
-- [[player-원성준]] — 원성준
 - [[player-김재현]] — 김재현
 - [[player-김동헌]] — 김동헌
 - [[player-알칸타라]] — 알칸타라 (투수)
@@ -858,6 +861,10 @@
 - [[source-nc-vs-kt-20260613]] — NC vs KT 2026.06.13
 - [[source-doosan-vs-kia-20260613]] — 두산 vs KIA 2026.06.13
 - [[source-ssg-vs-samsung-20260613]] — SSG vs 삼성 2026.06.13
+- [[source-hanwha-vs-kiwoom-20260614]] — 한화 vs 키움 2026.06.14
+- [[source-lotte-vs-lg-20260614]] — 롯데 vs LG 2026.06.14
+- [[source-doosan-vs-kia-20260614]] — 두산 vs KIA 2026.06.14
+- [[source-ssg-vs-samsung-20260614]] — SSG vs 삼성 2026.06.14
 
 ## 음악
 
