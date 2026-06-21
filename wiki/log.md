@@ -288,4 +288,8 @@
 - 신규 경기 5개 반영 (1일치)
 - games / teams / players / kbo-2026-season / index 재생성
 
-<!-- last-kbo-ingest-date: 2026-06-20 -->
+## [2026-06-22] ingest | KBO 자동 수집 (2026-06-21)
+- 신규 경기 5개 반영 (1일치)
+- games / teams / players / kbo-2026-season / index 재생성
+
+<!-- last-kbo-ingest-date: 2026-06-21 -->

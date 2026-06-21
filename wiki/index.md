@@ -26,9 +26,9 @@
 - [[player-김선빈]] — 김선빈
 - [[han-jun-soo]] — 한준수
 - [[player-아데를린]] — 아데를린
+- [[player-카스트로]] — 카스트로
 - [[player-박민]] — 박민
 - [[player-데일]] — 데일
-- [[player-카스트로]] — 카스트로
 - [[player-김규성]] — 김규성
 - [[player-김태군]] — 김태군
 - [[player-박상준]] — 박상준
@@ -115,6 +115,7 @@
 - [[player-한차현]] — 한차현 (투수)
 - [[player-한승주]] — 한승주 (투수)
 - [[player-이상동]] — 이상동 (투수)
+- [[player-로건]] — 로건 (투수)
 
 #### LG
 - [[austin]] — 오스틴
@@ -124,12 +125,12 @@
 - [[player-천성호]] — 천성호
 - [[shin-min-jae]] — 신민재
 - [[koo-bon-hyuk]] — 구본혁
-- [[moon-bo-kyung]] — 문보경
 - [[player-송찬의]] — 송찬의
+- [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
 - [[moon-sung-joo]] — 문성주
-- [[player-이주헌]] — 이주헌
 - [[player-문정빈]] — 문정빈
+- [[player-이주헌]] — 이주헌
 - [[player-이재원]] — 이재원
 - [[player-이영빈]] — 이영빈
 - [[player-최원영]] — 최원영
@@ -280,8 +281,8 @@
 - [[cameron]] — 카메론
 - [[park-chan-ho]] — 박찬호
 - [[jung-su-bin]] — 정수빈
-- [[yang-eui-ji]] — 양의지
 - [[kim-min-seok]] — 김민석
+- [[yang-eui-ji]] — 양의지
 - [[park-jun-sun]] — 박준순
 - [[park-ji-hun]] — 박지훈
 - [[ahn-jae-seok]] — 안재석
@@ -331,8 +332,8 @@
 - [[player-고승민]] — 고승민
 - [[jeon-jun-woo]] — 전준우
 - [[jang-doo-sung]] — 장두성
-- [[player-손성빈]] — 손성빈
 - [[player-한동희]] — 한동희
+- [[player-손성빈]] — 손성빈
 - [[na-seung-yub]] — 나승엽
 - [[player-손호영]] — 손호영
 - [[no-jin-hyuk]] — 노진혁
@@ -439,9 +440,9 @@
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
 - [[player-김웅빈]] — 김웅빈
+- [[park-chan-hyuk]] — 박찬혁
 - [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
-- [[park-chan-hyuk]] — 박찬혁
 - [[player-히우라]] — 히우라
 - [[player-권혁빈]] — 권혁빈
 - [[eo-jun-seo]] — 어준서
@@ -896,6 +897,11 @@
 - [[source-doosan-vs-lg-20260620]] — 두산 vs LG 2026.06.20
 - [[source-ssg-vs-nc-20260620]] — SSG vs NC 2026.06.20
 - [[source-samsung-vs-hanwha-20260620]] — 삼성 vs 한화 2026.06.20
+- [[source-kia-vs-kt-20260621]] — KIA vs KT 2026.06.21
+- [[source-lotte-vs-kiwoom-20260621]] — 롯데 vs 키움 2026.06.21
+- [[source-doosan-vs-lg-20260621]] — 두산 vs LG 2026.06.21
+- [[source-ssg-vs-nc-20260621]] — SSG vs NC 2026.06.21
+- [[source-samsung-vs-hanwha-20260621]] — 삼성 vs 한화 2026.06.21
 
 ## 음악
 
