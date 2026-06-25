@@ -80,16 +80,16 @@
 - [[jang-sung-woo]] — 장성우
 - [[player-한승택]] — 한승택
 - [[player-권동진]] — 권동진
+- [[ahn-hyun-min]] — 안현민
 - [[ryu-hyun-in]] — 류현인
 - [[lee-gang-min]] — 이강민
-- [[ahn-hyun-min]] — 안현민
 - [[player-이정훈]] — 이정훈
 - [[player-배정대]] — 배정대
 - [[player-유준규]] — 유준규
 - [[player-장준원]] — 장준원
 - [[kang-hyun-woo]] — 강현우
-- [[player-이재원]] — 이재원
 - [[player-조대현]] — 조대현
+- [[player-이재원]] — 이재원
 - [[player-강민성]] — 강민성
 - [[player-안인산]] — 안인산
 - [[player-장진혁]] — 장진혁
@@ -126,9 +126,9 @@
 - [[player-천성호]] — 천성호
 - [[shin-min-jae]] — 신민재
 - [[koo-bon-hyuk]] — 구본혁
-- [[player-송찬의]] — 송찬의
 - [[moon-bo-kyung]] — 문보경
 - [[moon-sung-joo]] — 문성주
+- [[player-송찬의]] — 송찬의
 - [[park-dong-won]] — 박동원
 - [[player-문정빈]] — 문정빈
 - [[player-이주헌]] — 이주헌
@@ -246,10 +246,10 @@
 - [[player-류효승]] — 류효승
 - [[player-이정범]] — 이정범
 - [[player-최윤석]] — 최윤석
+- [[player-신범수]] — 신범수
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
 - [[player-김정민]] — 김정민
-- [[player-신범수]] — 신범수
 - [[player-김창평]] — 김창평
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
@@ -449,9 +449,9 @@
 - [[eo-jun-seo]] — 어준서
 - [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
+- [[player-추재현]] — 추재현
 - [[player-김지석]] — 김지석
 - [[player-박수종]] — 박수종
-- [[player-추재현]] — 추재현
 - [[player-여동욱]] — 여동욱
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
@@ -502,14 +502,14 @@
 - [[noh-si-hwan]] — 노시환
 - [[lee-do-yoon]] — 이도윤
 - [[kim-tae-yeon]] — 김태연
-- [[heo-in-seo]] — 허인서
 - [[sim-woo-jun]] — 심우준
+- [[heo-in-seo]] — 허인서
 - [[player-이원석]] — 이원석
 - [[chae-eun-seong]] — 채은성
 - [[ha-ju-seok]] — 하주석
 - [[oh-jae-won]] — 오재원
-- [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
+- [[hwang-young-mook]] — 황영묵
 - [[choi-jae-hun]] — 최재훈
 - [[player-유민]] — 유민
 - [[player-박정현]] — 박정현
@@ -914,6 +914,11 @@
 - [[source-doosan-vs-hanwha-20260624]] — 두산 vs 한화 2026.06.24
 - [[source-ssg-vs-kt-20260624]] — SSG vs KT 2026.06.24
 - [[source-samsung-vs-lg-20260624]] — 삼성 vs LG 2026.06.24
+- [[source-kia-vs-kiwoom-20260625]] — KIA vs 키움 2026.06.25
+- [[source-nc-vs-lotte-20260625]] — NC vs 롯데 2026.06.25
+- [[source-doosan-vs-hanwha-20260625]] — 두산 vs 한화 2026.06.25
+- [[source-ssg-vs-kt-20260625]] — SSG vs KT 2026.06.25
+- [[source-samsung-vs-lg-20260625]] — 삼성 vs LG 2026.06.25
 
 ## 음악
 
