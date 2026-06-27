@@ -122,13 +122,13 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[hong-chang-ki]] — 홍창기
-- [[oh-ji-hwan]] — 오지환
 - [[player-천성호]] — 천성호
+- [[oh-ji-hwan]] — 오지환
 - [[shin-min-jae]] — 신민재
-- [[koo-bon-hyuk]] — 구본혁
 - [[player-송찬의]] — 송찬의
-- [[moon-bo-kyung]] — 문보경
+- [[koo-bon-hyuk]] — 구본혁
 - [[moon-sung-joo]] — 문성주
+- [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
 - [[player-문정빈]] — 문정빈
 - [[player-이주헌]] — 이주헌
@@ -228,8 +228,8 @@
 - [[player-박성한]] — 박성한
 - [[heredia]] — 에레디아
 - [[player-정준재]] — 정준재
-- [[choi-jung]] — 최정
 - [[choi-ji-hun]] — 최지훈
+- [[choi-jung]] — 최정
 - [[player-김재환]] — 김재환
 - [[player-오태곤]] — 오태곤
 - [[player-조형우]] — 조형우
@@ -245,8 +245,8 @@
 - [[player-김민식]] — 김민식
 - [[player-류효승]] — 류효승
 - [[player-이정범]] — 이정범
-- [[player-최윤석]] — 최윤석
 - [[player-신범수]] — 신범수
+- [[player-최윤석]] — 최윤석
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
 - [[player-김정민]] — 김정민
@@ -300,8 +300,8 @@
 - [[player-김기연]] — 김기연
 - [[player-임종성]] — 임종성
 - [[player-홍성호]] — 홍성호
-- [[player-박성재]] — 박성재
 - [[player-전다민]] — 전다민
+- [[player-박성재]] — 박성재
 - [[flexen]] — 플렉센 (투수)
 - [[park-shin-ji]] — 박신지 (투수)
 - [[lee-byung-hun]] — 이병헌 (투수)
@@ -351,6 +351,7 @@
 - [[player-조세진]] — 조세진
 - [[player-이호준]] — 이호준
 - [[player-최항]] — 최항
+- [[player-박찬형]] — 박찬형
 - [[player-정보근]] — 정보근
 - [[player-김동혁]] — 김동혁
 - [[player-박재엽]] — 박재엽
@@ -384,6 +385,7 @@
 - [[player-이진하]] — 이진하 (투수)
 - [[player-김창훈]] — 김창훈 (투수)
 - [[player-김기준]] — 김기준 (투수)
+- [[player-이이무라]] — 이이무라 (투수)
 
 #### 삼성
 - [[diaz]] — 디아즈
@@ -391,8 +393,8 @@
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-ji-chan]] — 김지찬
 - [[koo-ja-wook]] — 구자욱
-- [[player-박승규]] — 박승규
 - [[kim-sung-yun]] — 김성윤
+- [[player-박승규]] — 박승규
 - [[jeon-byung-woo]] — 전병우
 - [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
@@ -444,13 +446,13 @@
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
 - [[park-chan-hyuk]] — 박찬혁
-- [[lee-hyung-jong]] — 이형종
 - [[player-히우라]] — 히우라
+- [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
 - [[player-권혁빈]] — 권혁빈
 - [[eo-jun-seo]] — 어준서
-- [[player-임지열]] — 임지열
 - [[player-추재현]] — 추재현
+- [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
 - [[player-박수종]] — 박수종
@@ -513,9 +515,9 @@
 - [[player-이진영]] — 이진영
 - [[hwang-young-mook]] — 황영묵
 - [[choi-jae-hun]] — 최재훈
+- [[choi-in-ho]] — 최인호
 - [[player-유민]] — 유민
 - [[player-박정현]] — 박정현
-- [[choi-in-ho]] — 최인호
 - [[player-장규현]] — 장규현
 - [[player-권광민]] — 권광민
 - [[player-최유빈]] — 최유빈
@@ -926,6 +928,11 @@
 - [[source-kt-vs-samsung-20260626]] — KT vs 삼성 2026.06.26
 - [[source-lg-vs-lotte-20260626]] — LG vs 롯데 2026.06.26
 - [[source-kiwoom-vs-nc-20260626]] — 키움 vs NC 2026.06.26
+- [[source-hanwha-vs-ssg-20260627]] — 한화 vs SSG 2026.06.27
+- [[source-kia-vs-doosan-20260627]] — KIA vs 두산 2026.06.27
+- [[source-kt-vs-samsung-20260627]] — KT vs 삼성 2026.06.27
+- [[source-lg-vs-lotte-20260627]] — LG vs 롯데 2026.06.27
+- [[source-kiwoom-vs-nc-20260627]] — 키움 vs NC 2026.06.27
 
 ## 음악
 
