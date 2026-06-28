@@ -34,10 +34,10 @@
 - [[player-박상준]] — 박상준
 - [[player-오선우]] — 오선우
 - [[player-박정우]] — 박정우
-- [[player-윤도현]] — 윤도현
-- [[player-한승연]] — 한승연
 - [[player-김민규]] — 김민규
 - [[player-변우혁]] — 변우혁
+- [[player-윤도현]] — 윤도현
+- [[player-한승연]] — 한승연
 - [[player-정현창]] — 정현창
 - [[player-고종욱]] — 고종욱
 - [[player-주효상]] — 주효상
@@ -77,9 +77,9 @@
 - [[player-김상수]] — 김상수
 - [[player-허경민]] — 허경민
 - [[oh-yoon-seok]] — 오윤석
+- [[player-권동진]] — 권동진
 - [[jang-sung-woo]] — 장성우
 - [[player-한승택]] — 한승택
-- [[player-권동진]] — 권동진
 - [[ryu-hyun-in]] — 류현인
 - [[ahn-hyun-min]] — 안현민
 - [[lee-gang-min]] — 이강민
@@ -90,9 +90,9 @@
 - [[kang-hyun-woo]] — 강현우
 - [[player-조대현]] — 조대현
 - [[player-이재원]] — 이재원
+- [[player-장진혁]] — 장진혁
 - [[player-강민성]] — 강민성
 - [[player-안인산]] — 안인산
-- [[player-장진혁]] — 장진혁
 - [[player-안치영]] — 안치영
 - [[park-young-hyun]] — 박영현
 - [[player-우규민]] — 우규민
@@ -126,8 +126,8 @@
 - [[oh-ji-hwan]] — 오지환
 - [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
-- [[koo-bon-hyuk]] — 구본혁
 - [[moon-sung-joo]] — 문성주
+- [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
 - [[player-문정빈]] — 문정빈
@@ -186,8 +186,8 @@
 - [[kim-hwi-jip]] — 김휘집
 - [[park-si-won]] — 박시원
 - [[player-오장한]] — 오장한
-- [[oh-young-soo]] — 오영수
 - [[player-신재인]] — 신재인
+- [[oh-young-soo]] — 오영수
 - [[player-도태훈]] — 도태훈
 - [[go-jun-hwi]] — 고준휘
 - [[heo-yun]] — 허윤
@@ -336,8 +336,8 @@
 - [[jeon-jun-woo]] — 전준우
 - [[jang-doo-sung]] — 장두성
 - [[player-한동희]] — 한동희
-- [[na-seung-yub]] — 나승엽
 - [[player-손성빈]] — 손성빈
+- [[na-seung-yub]] — 나승엽
 - [[yoon-dong-hee]] — 윤동희
 - [[no-jin-hyuk]] — 노진혁
 - [[player-손호영]] — 손호영
@@ -390,9 +390,9 @@
 #### 삼성
 - [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
-- [[ryu-ji-hyeok]] — 류지혁
 - [[kim-ji-chan]] — 김지찬
 - [[koo-ja-wook]] — 구자욱
+- [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
 - [[jeon-byung-woo]] — 전병우
@@ -405,9 +405,10 @@
 - [[kim-young-woong]] — 김영웅
 - [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
-- [[player-김재상]] — 김재상
 - [[sim-jae-hun]] — 심재훈
+- [[player-김재상]] — 김재상
 - [[player-장승현]] — 장승현
+- [[player-김현준]] — 김현준
 - [[hong-hyun-bin]] — 홍현빈
 - [[ham-su-ho]] — 함수호
 - [[lee-hae-seung]] — 이해승
@@ -933,6 +934,11 @@
 - [[source-kt-vs-samsung-20260627]] — KT vs 삼성 2026.06.27
 - [[source-lg-vs-lotte-20260627]] — LG vs 롯데 2026.06.27
 - [[source-kiwoom-vs-nc-20260627]] — 키움 vs NC 2026.06.27
+- [[source-hanwha-vs-ssg-20260628]] — 한화 vs SSG 2026.06.28
+- [[source-kia-vs-doosan-20260628]] — KIA vs 두산 2026.06.28
+- [[source-kt-vs-samsung-20260628]] — KT vs 삼성 2026.06.28
+- [[source-lg-vs-lotte-20260628]] — LG vs 롯데 2026.06.28
+- [[source-kiwoom-vs-nc-20260628]] — 키움 vs NC 2026.06.28
 
 ## 음악
 
