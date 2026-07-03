@@ -19,8 +19,8 @@
 ### 선수 (`players/`)
 
 #### KIA
-- [[player-김호령]] — 김호령
 - [[kim-do-young]] — 김도영
+- [[player-김호령]] — 김호령
 - [[player-박재현]] — 박재현
 - [[na-sung-bum]] — 나성범
 - [[player-김선빈]] — 김선빈
@@ -78,18 +78,18 @@
 - [[player-허경민]] — 허경민
 - [[oh-yoon-seok]] — 오윤석
 - [[player-권동진]] — 권동진
-- [[jang-sung-woo]] — 장성우
 - [[player-한승택]] — 한승택
-- [[ryu-hyun-in]] — 류현인
+- [[jang-sung-woo]] — 장성우
 - [[ahn-hyun-min]] — 안현민
+- [[ryu-hyun-in]] — 류현인
 - [[lee-gang-min]] — 이강민
 - [[player-이정훈]] — 이정훈
 - [[player-배정대]] — 배정대
 - [[player-유준규]] — 유준규
 - [[player-장준원]] — 장준원
+- [[player-장진혁]] — 장진혁
 - [[player-조대현]] — 조대현
 - [[kang-hyun-woo]] — 강현우
-- [[player-장진혁]] — 장진혁
 - [[player-이재원]] — 이재원
 - [[player-강민성]] — 강민성
 - [[player-안인산]] — 안인산
@@ -171,8 +171,8 @@
 - [[player-조원태]] — 조원태 (투수)
 
 #### NC
-- [[lee-woo-sung]] — 이우성
 - [[kim-ju-won]] — 김주원
+- [[lee-woo-sung]] — 이우성
 - [[park-min-woo]] — 박민우
 - [[park-gun-woo]] — 박건우
 - [[davidson]] — 데이비슨
@@ -196,6 +196,7 @@
 - [[player-윤준혁]] — 윤준혁
 - [[player-오태양]] — 오태양
 - [[player-한재환]] — 한재환
+- [[player-블레인]] — 블레인
 - [[koo-chang-mo]] — 구창모 (투수)
 - [[bae-jae-hwan]] — 배재환 (투수)
 - [[im-ji-min]] — 임지민 (투수)
@@ -340,8 +341,8 @@
 - [[jang-doo-sung]] — 장두성
 - [[na-seung-yub]] — 나승엽
 - [[yoon-dong-hee]] — 윤동희
-- [[no-jin-hyuk]] — 노진혁
 - [[player-손호영]] — 손호영
+- [[no-jin-hyuk]] — 노진혁
 - [[player-박승욱]] — 박승욱
 - [[player-유강남]] — 유강남
 - [[han-tae-yang]] — 한태양
@@ -391,8 +392,8 @@
 #### 삼성
 - [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
-- [[ryu-ji-hyeok]] — 류지혁
 - [[koo-ja-wook]] — 구자욱
+- [[ryu-ji-hyeok]] — 류지혁
 - [[kim-ji-chan]] — 김지찬
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
@@ -454,8 +455,8 @@
 - [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
 - [[player-권혁빈]] — 권혁빈
-- [[eo-jun-seo]] — 어준서
 - [[player-추재현]] — 추재현
+- [[eo-jun-seo]] — 어준서
 - [[player-여동욱]] — 여동욱
 - [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
@@ -959,6 +960,11 @@
 - [[source-lotte-vs-doosan-20260702]] — 롯데 vs 두산 2026.07.02
 - [[source-ssg-vs-kia-20260702]] — SSG vs KIA 2026.07.02
 - [[source-samsung-vs-nc-20260702]] — 삼성 vs NC 2026.07.02
+- [[source-hanwha-vs-lg-20260703]] — 한화 vs LG 2026.07.03
+- [[source-lotte-vs-kt-20260703]] — 롯데 vs KT 2026.07.03
+- [[source-nc-vs-kia-20260703]] — NC vs KIA 2026.07.03
+- [[source-doosan-vs-kiwoom-20260703]] — 두산 vs 키움 2026.07.03
+- [[source-samsung-vs-ssg-20260703]] — 삼성 vs SSG 2026.07.03
 
 ## 음악
 
