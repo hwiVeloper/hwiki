@@ -284,14 +284,14 @@
 #### 두산
 - [[park-chan-ho]] — 박찬호
 - [[cameron]] — 카메론
-- [[jung-su-bin]] — 정수빈
 - [[kim-min-seok]] — 김민석
+- [[jung-su-bin]] — 정수빈
 - [[yang-eui-ji]] — 양의지
 - [[park-jun-sun]] — 박준순
 - [[park-ji-hun]] — 박지훈
 - [[ahn-jae-seok]] — 안재석
-- [[player-손아섭]] — 손아섭
 - [[kang-seung-ho]] — 강승호
+- [[player-손아섭]] — 손아섭
 - [[oh-myung-jin]] — 오명진
 - [[yoon-jun-ho]] — 윤준호
 - [[yang-seok-hwan]] — 양석환
@@ -339,8 +339,8 @@
 - [[jeon-jun-woo]] — 전준우
 - [[player-손성빈]] — 손성빈
 - [[jang-doo-sung]] — 장두성
-- [[yoon-dong-hee]] — 윤동희
 - [[na-seung-yub]] — 나승엽
+- [[yoon-dong-hee]] — 윤동희
 - [[no-jin-hyuk]] — 노진혁
 - [[player-손호영]] — 손호영
 - [[player-박승욱]] — 박승욱
@@ -348,9 +348,9 @@
 - [[han-tae-yang]] — 한태양
 - [[player-김동현]] — 김동현
 - [[player-박찬형]] — 박찬형
+- [[player-김세민]] — 김세민
 - [[player-신윤후]] — 신윤후
 - [[player-김민성]] — 김민성
-- [[player-김세민]] — 김세민
 - [[player-조세진]] — 조세진
 - [[player-이호준]] — 이호준
 - [[park-gun-woo]] — 박건우
@@ -392,8 +392,8 @@
 #### 삼성
 - [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
-- [[koo-ja-wook]] — 구자욱
 - [[kim-ji-chan]] — 김지찬
+- [[koo-ja-wook]] — 구자욱
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
@@ -407,9 +407,9 @@
 - [[kim-young-woong]] — 김영웅
 - [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
+- [[player-김현준]] — 김현준
 - [[sim-jae-hun]] — 심재훈
 - [[player-김재상]] — 김재상
-- [[player-김현준]] — 김현준
 - [[player-장승현]] — 장승현
 - [[hong-hyun-bin]] — 홍현빈
 - [[ham-su-ho]] — 함수호
@@ -447,8 +447,8 @@
 - [[choi-ju-hwan]] — 최주환
 - [[player-서건창]] — 서건창
 - [[player-임병욱]] — 임병욱
-- [[park-chan-hyuk]] — 박찬혁
 - [[player-김웅빈]] — 김웅빈
+- [[park-chan-hyuk]] — 박찬혁
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
 - [[player-히우라]] — 히우라
@@ -459,8 +459,8 @@
 - [[eo-jun-seo]] — 어준서
 - [[player-여동욱]] — 여동욱
 - [[player-임지열]] — 임지열
-- [[player-오선진]] — 오선진
 - [[player-김동헌]] — 김동헌
+- [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
 - [[player-박수종]] — 박수종
 - [[player-송지후]] — 송지후
@@ -971,6 +971,9 @@
 - [[source-nc-vs-kia-20260704]] — NC vs KIA 2026.07.04
 - [[source-doosan-vs-kiwoom-20260704]] — 두산 vs 키움 2026.07.04
 - [[source-samsung-vs-ssg-20260704]] — 삼성 vs SSG 2026.07.04
+- [[source-lotte-vs-kt-20260705]] — 롯데 vs KT 2026.07.05
+- [[source-doosan-vs-kiwoom-20260705]] — 두산 vs 키움 2026.07.05
+- [[source-samsung-vs-ssg-20260705]] — 삼성 vs SSG 2026.07.05
 
 ## 음악
 
