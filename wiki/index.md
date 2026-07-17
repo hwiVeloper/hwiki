@@ -21,8 +21,8 @@
 #### KIA
 - [[kim-do-young]] — 김도영
 - [[player-김호령]] — 김호령
-- [[player-박재현]] — 박재현
 - [[na-sung-bum]] — 나성범
+- [[player-박재현]] — 박재현
 - [[player-김선빈]] — 김선빈
 - [[han-jun-soo]] — 한준수
 - [[player-카스트로]] — 카스트로
@@ -182,15 +182,15 @@
 - [[kwon-hee-dong]] — 권희동
 - [[choi-jung-won]] — 최정원
 - [[seo-ho-chul]] — 서호철
-- [[kim-hwi-jip]] — 김휘집
 - [[kim-han-byul]] — 김한별
+- [[kim-hwi-jip]] — 김휘집
 - [[player-안중열]] — 안중열
 - [[player-신재인]] — 신재인
 - [[park-si-won]] — 박시원
 - [[player-오장한]] — 오장한
+- [[go-jun-hwi]] — 고준휘
 - [[oh-young-soo]] — 오영수
 - [[player-도태훈]] — 도태훈
-- [[go-jun-hwi]] — 고준휘
 - [[player-블레인]] — 블레인
 - [[heo-yun]] — 허윤
 - [[player-김정호]] — 김정호
@@ -253,6 +253,7 @@
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
 - [[player-김정민]] — 김정민
+- [[player-임근우]] — 임근우
 - [[player-김창평]] — 김창평
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
@@ -285,8 +286,8 @@
 
 #### 두산
 - [[park-chan-ho]] — 박찬호
-- [[cameron]] — 카메론
 - [[kim-min-seok]] — 김민석
+- [[cameron]] — 카메론
 - [[jung-su-bin]] — 정수빈
 - [[park-jun-sun]] — 박준순
 - [[yang-eui-ji]] — 양의지
@@ -457,10 +458,10 @@
 - [[player-김웅빈]] — 김웅빈
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
-- [[lee-hyung-jong]] — 이형종
-- [[lee-ju-hyung]] — 이주형
 - [[player-추재현]] — 추재현
 - [[player-권혁빈]] — 권혁빈
+- [[lee-hyung-jong]] — 이형종
+- [[lee-ju-hyung]] — 이주형
 - [[player-여동욱]] — 여동욱
 - [[eo-jun-seo]] — 어준서
 - [[player-임지열]] — 임지열
@@ -468,9 +469,9 @@
 - [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
 - [[player-박수종]] — 박수종
+- [[davidson]] — 데이비슨
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
-- [[davidson]] — 데이비슨
 - [[park-han-gyul]] — 박한결
 - [[player-원성준]] — 원성준
 - [[player-최재영]] — 최재영
@@ -514,17 +515,17 @@
 - [[player-김성민]] — 김성민 (투수)
 
 #### 한화
-- [[peraza]] — 페라자
-- [[moon-hyun-bin]] — 문현빈
 - [[kang-baek-ho]] — 강백호
+- [[moon-hyun-bin]] — 문현빈
+- [[peraza]] — 페라자
 - [[noh-si-hwan]] — 노시환
 - [[kim-tae-yeon]] — 김태연
 - [[heo-in-seo]] — 허인서
 - [[lee-do-yoon]] — 이도윤
 - [[sim-woo-jun]] — 심우준
 - [[player-이원석]] — 이원석
-- [[chae-eun-seong]] — 채은성
 - [[oh-jae-won]] — 오재원
+- [[chae-eun-seong]] — 채은성
 - [[ha-ju-seok]] — 하주석
 - [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
@@ -1001,6 +1002,10 @@
 - [[source-lotte-vs-samsung-20260716]] — 롯데 vs 삼성 2026.07.16
 - [[source-doosan-vs-nc-20260716]] — 두산 vs NC 2026.07.16
 - [[source-kiwoom-vs-hanwha-20260716]] — 키움 vs 한화 2026.07.16
+- [[source-kia-vs-ssg-20260717]] — KIA vs SSG 2026.07.17
+- [[source-kt-vs-lg-20260717]] — KT vs LG 2026.07.17
+- [[source-doosan-vs-nc-20260717]] — 두산 vs NC 2026.07.17
+- [[source-kiwoom-vs-hanwha-20260717]] — 키움 vs 한화 2026.07.17
 
 ## 음악
 
