@@ -36,8 +36,8 @@
 - [[player-오선우]] — 오선우
 - [[player-변우혁]] — 변우혁
 - [[player-김민규]] — 김민규
-- [[player-정현창]] — 정현창
 - [[player-윤도현]] — 윤도현
+- [[player-정현창]] — 정현창
 - [[player-한승연]] — 한승연
 - [[player-주효상]] — 주효상
 - [[player-고종욱]] — 고종욱
@@ -244,10 +244,11 @@
 - [[han-yoo-seom]] — 한유섬
 - [[player-이지영]] — 이지영
 - [[player-채현우]] — 채현우
-- [[player-최준우]] — 최준우
 - [[player-홍대인]] — 홍대인
+- [[player-최준우]] — 최준우
 - [[player-김민식]] — 김민식
 - [[player-류효승]] — 류효승
+- [[player-마드리스]] — 마드리스
 - [[player-이정범]] — 이정범
 - [[player-신범수]] — 신범수
 - [[player-임근우]] — 임근우
@@ -255,7 +256,6 @@
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
 - [[player-김정민]] — 김정민
-- [[player-마드리스]] — 마드리스
 - [[player-김창평]] — 김창평
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
@@ -417,8 +417,8 @@
 - [[sim-jae-hun]] — 심재훈
 - [[player-김상준]] — 김상준
 - [[park-se-hyuk]] — 박세혁
-- [[player-박계범]] — 박계범
 - [[player-김현준]] — 김현준
+- [[player-박계범]] — 박계범
 - [[player-김재상]] — 김재상
 - [[player-장승현]] — 장승현
 - [[hong-hyun-bin]] — 홍현빈
@@ -521,13 +521,13 @@
 
 #### 한화
 - [[moon-hyun-bin]] — 문현빈
-- [[kang-baek-ho]] — 강백호
 - [[peraza]] — 페라자
+- [[kang-baek-ho]] — 강백호
 - [[noh-si-hwan]] — 노시환
 - [[heo-in-seo]] — 허인서
-- [[kim-tae-yeon]] — 김태연
 - [[lee-do-yoon]] — 이도윤
 - [[sim-woo-jun]] — 심우준
+- [[kim-tae-yeon]] — 김태연
 - [[player-이원석]] — 이원석
 - [[oh-jae-won]] — 오재원
 - [[chae-eun-seong]] — 채은성
@@ -1026,6 +1026,9 @@
 - [[source-doosan-vs-kt-20260721]] — 두산 vs KT 2026.07.21
 - [[source-ssg-vs-lotte-20260721]] — SSG vs 롯데 2026.07.21
 - [[source-samsung-vs-kiwoom-20260721]] — 삼성 vs 키움 2026.07.21
+- [[source-hanwha-vs-kia-20260722]] — 한화 vs KIA 2026.07.22
+- [[source-ssg-vs-lotte-20260722]] — SSG vs 롯데 2026.07.22
+- [[source-samsung-vs-kiwoom-20260722]] — 삼성 vs 키움 2026.07.22
 
 ## 음악
 
