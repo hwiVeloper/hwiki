@@ -129,8 +129,8 @@
 - [[player-천성호]] — 천성호
 - [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
-- [[moon-sung-joo]] — 문성주
 - [[koo-bon-hyuk]] — 구본혁
+- [[moon-sung-joo]] — 문성주
 - [[player-문정빈]] — 문정빈
 - [[player-이재원]] — 이재원
 - [[player-이주헌]] — 이주헌
@@ -179,8 +179,8 @@
 - [[davidson]] — 데이비슨
 - [[kim-hyung-jun]] — 김형준
 - [[chun-jae-hwan]] — 천재환
-- [[han-seok-hyun]] — 한석현
 - [[kwon-hee-dong]] — 권희동
+- [[han-seok-hyun]] — 한석현
 - [[choi-jung-won]] — 최정원
 - [[kim-hwi-jip]] — 김휘집
 - [[seo-ho-chul]] — 서호철
@@ -188,8 +188,8 @@
 - [[player-안중열]] — 안중열
 - [[park-si-won]] — 박시원
 - [[player-신재인]] — 신재인
-- [[player-오장한]] — 오장한
 - [[player-블레인]] — 블레인
+- [[player-오장한]] — 오장한
 - [[go-jun-hwi]] — 고준휘
 - [[oh-young-soo]] — 오영수
 - [[player-도태훈]] — 도태훈
@@ -246,9 +246,9 @@
 - [[player-채현우]] — 채현우
 - [[player-홍대인]] — 홍대인
 - [[player-최준우]] — 최준우
+- [[player-마드리스]] — 마드리스
 - [[player-김민식]] — 김민식
 - [[player-류효승]] — 류효승
-- [[player-마드리스]] — 마드리스
 - [[player-이정범]] — 이정범
 - [[player-신범수]] — 신범수
 - [[player-임근우]] — 임근우
@@ -257,16 +257,16 @@
 - [[player-석정우]] — 석정우
 - [[player-김정민]] — 김정민
 - [[player-김창평]] — 김창평
+- [[player-조병현]] — 조병현
+- [[player-이로운]] — 이로운
 - [[player-화이트]] — 화이트 (투수)
 - [[player-전영준]] — 전영준 (투수)
 - [[player-박시후]] — 박시후 (투수)
 - [[moon-seung-won]] — 문승원 (투수)
-- [[player-이로운]] — 이로운 (투수)
 - [[player-김민]] — 김민 (투수)
 - [[player-김건우]] — 김건우 (투수)
 - [[player-김택형]] — 김택형 (투수)
 - [[player-노경은]] — 노경은 (투수)
-- [[player-조병현]] — 조병현 (투수)
 - [[veneziano]] — 베니지아노 (투수)
 - [[player-이기순]] — 이기순 (투수)
 - [[player-백승건]] — 백승건 (투수)
@@ -348,9 +348,9 @@
 - [[jang-doo-sung]] — 장두성
 - [[jeon-jun-woo]] — 전준우
 - [[yoon-dong-hee]] — 윤동희
+- [[no-jin-hyuk]] — 노진혁
 - [[han-tae-yang]] — 한태양
 - [[player-손호영]] — 손호영
-- [[no-jin-hyuk]] — 노진혁
 - [[player-박승욱]] — 박승욱
 - [[player-유강남]] — 유강남
 - [[player-박찬형]] — 박찬형
@@ -412,8 +412,8 @@
 - [[lee-jae-hyun]] — 이재현
 - [[kim-hun-gon]] — 김헌곤
 - [[player-김도환]] — 김도환
-- [[yang-woo-hyun]] — 양우현
 - [[kim-young-woong]] — 김영웅
+- [[yang-woo-hyun]] — 양우현
 - [[sim-jae-hun]] — 심재훈
 - [[player-김상준]] — 김상준
 - [[park-se-hyuk]] — 박세혁
@@ -454,8 +454,8 @@
 
 #### 키움
 - [[ahn-chi-hong]] — 안치홍
-- [[kim-gun-hee]] — 김건희
 - [[player-서건창]] — 서건창
+- [[kim-gun-hee]] — 김건희
 - [[choi-ju-hwan]] — 최주환
 - [[player-임병욱]] — 임병욱
 - [[player-히우라]] — 히우라
@@ -468,11 +468,11 @@
 - [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
 - [[player-여동욱]] — 여동욱
+- [[player-김동헌]] — 김동헌
 - [[eo-jun-seo]] — 어준서
 - [[player-임지열]] — 임지열
-- [[player-김동헌]] — 김동헌
-- [[player-오선진]] — 오선진
 - [[davidson]] — 데이비슨
+- [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
 - [[player-박수종]] — 박수종
 - [[player-송지후]] — 송지후
@@ -1029,6 +1029,10 @@
 - [[source-hanwha-vs-kia-20260722]] — 한화 vs KIA 2026.07.22
 - [[source-ssg-vs-lotte-20260722]] — SSG vs 롯데 2026.07.22
 - [[source-samsung-vs-kiwoom-20260722]] — 삼성 vs 키움 2026.07.22
+- [[source-hanwha-vs-kia-20260723]] — 한화 vs KIA 2026.07.23
+- [[source-nc-vs-lg-20260723]] — NC vs LG 2026.07.23
+- [[source-ssg-vs-lotte-20260723]] — SSG vs 롯데 2026.07.23
+- [[source-samsung-vs-kiwoom-20260723]] — 삼성 vs 키움 2026.07.23
 
 ## 음악
 
