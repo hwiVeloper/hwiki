@@ -21,8 +21,8 @@
 #### KIA
 - [[kim-do-young]] — 김도영
 - [[player-김호령]] — 김호령
-- [[na-sung-bum]] — 나성범
 - [[player-박재현]] — 박재현
+- [[na-sung-bum]] — 나성범
 - [[player-김선빈]] — 김선빈
 - [[han-jun-soo]] — 한준수
 - [[player-카스트로]] — 카스트로
@@ -41,8 +41,8 @@
 - [[player-한승연]] — 한승연
 - [[player-주효상]] — 주효상
 - [[player-고종욱]] — 고종욱
-- [[player-이호연]] — 이호연
 - [[ha-ju-seok]] — 하주석
+- [[player-이호연]] — 이호연
 - [[player-성영탁]] — 성영탁
 - [[player-황대인]] — 황대인
 - [[player-이형범]] — 이형범
@@ -127,11 +127,11 @@
 - [[oh-ji-hwan]] — 오지환
 - [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
+- [[moon-sung-joo]] — 문성주
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
-- [[player-천성호]] — 천성호
 - [[park-dong-won]] — 박동원
-- [[moon-sung-joo]] — 문성주
+- [[player-천성호]] — 천성호
 - [[player-문정빈]] — 문정빈
 - [[player-이재원]] — 이재원
 - [[player-이주헌]] — 이주헌
@@ -342,15 +342,15 @@
 
 #### 롯데
 - [[reyes]] — 레이예스
-- [[jeon-min-jae]] — 전민재
 - [[hwang-sung-bin]] — 황성빈
+- [[jeon-min-jae]] — 전민재
 - [[player-고승민]] — 고승민
 - [[player-한동희]] — 한동희
 - [[player-손성빈]] — 손성빈
 - [[na-seung-yub]] — 나승엽
+- [[yoon-dong-hee]] — 윤동희
 - [[jang-doo-sung]] — 장두성
 - [[jeon-jun-woo]] — 전준우
-- [[yoon-dong-hee]] — 윤동희
 - [[no-jin-hyuk]] — 노진혁
 - [[han-tae-yang]] — 한태양
 - [[player-손호영]] — 손호영
@@ -405,8 +405,8 @@
 #### 삼성
 - [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
-- [[koo-ja-wook]] — 구자욱
 - [[kim-ji-chan]] — 김지찬
+- [[koo-ja-wook]] — 구자욱
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
@@ -528,8 +528,8 @@
 - [[peraza]] — 페라자
 - [[kang-baek-ho]] — 강백호
 - [[noh-si-hwan]] — 노시환
-- [[lee-do-yoon]] — 이도윤
 - [[heo-in-seo]] — 허인서
+- [[lee-do-yoon]] — 이도윤
 - [[kim-tae-yeon]] — 김태연
 - [[sim-woo-jun]] — 심우준
 - [[player-이원석]] — 이원석
@@ -1054,6 +1054,11 @@
 - [[source-nc-vs-ssg-20260726]] — NC vs SSG 2026.07.26
 - [[source-samsung-vs-doosan-20260726]] — 삼성 vs 두산 2026.07.26
 - [[source-kiwoom-vs-kia-20260726]] — 키움 vs KIA 2026.07.26
+- [[source-kia-vs-samsung-20260728]] — KIA vs 삼성 2026.07.28
+- [[source-kt-vs-nc-20260728]] — KT vs NC 2026.07.28
+- [[source-lotte-vs-hanwha-20260728]] — 롯데 vs 한화 2026.07.28
+- [[source-doosan-vs-ssg-20260728]] — 두산 vs SSG 2026.07.28
+- [[source-kiwoom-vs-lg-20260728]] — 키움 vs LG 2026.07.28
 
 ## 음악
 
