@@ -35,13 +35,13 @@
 - [[player-박정우]] — 박정우
 - [[player-오선우]] — 오선우
 - [[player-변우혁]] — 변우혁
-- [[player-김민규]] — 김민규
 - [[player-윤도현]] — 윤도현
+- [[player-김민규]] — 김민규
 - [[player-정현창]] — 정현창
 - [[player-한승연]] — 한승연
 - [[player-주효상]] — 주효상
-- [[player-고종욱]] — 고종욱
 - [[ha-ju-seok]] — 하주석
+- [[player-고종욱]] — 고종욱
 - [[player-이호연]] — 이호연
 - [[player-성영탁]] — 성영탁
 - [[player-황대인]] — 황대인
@@ -127,8 +127,8 @@
 - [[oh-ji-hwan]] — 오지환
 - [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
-- [[moon-sung-joo]] — 문성주
 - [[koo-bon-hyuk]] — 구본혁
+- [[moon-sung-joo]] — 문성주
 - [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
 - [[player-천성호]] — 천성호
@@ -190,8 +190,8 @@
 - [[kim-han-byul]] — 김한별
 - [[player-안중열]] — 안중열
 - [[player-블레인]] — 블레인
-- [[park-si-won]] — 박시원
 - [[player-신재인]] — 신재인
+- [[park-si-won]] — 박시원
 - [[player-오장한]] — 오장한
 - [[player-도태훈]] — 도태훈
 - [[go-jun-hwi]] — 고준휘
@@ -294,8 +294,8 @@
 - [[kim-min-seok]] — 김민석
 - [[park-jun-sun]] — 박준순
 - [[jung-su-bin]] — 정수빈
-- [[cameron]] — 카메론
 - [[yang-eui-ji]] — 양의지
+- [[cameron]] — 카메론
 - [[ahn-jae-seok]] — 안재석
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
@@ -307,8 +307,8 @@
 - [[yang-seok-hwan]] — 양석환
 - [[player-류승민]] — 류승민
 - [[kim-in-tae]] — 김인태
-- [[player-김기연]] — 김기연
 - [[player-세베리노]] — 세베리노
+- [[player-김기연]] — 김기연
 - [[player-김대한]] — 김대한
 - [[player-임종성]] — 임종성
 - [[player-홍성호]] — 홍성호
@@ -462,11 +462,11 @@
 - [[kim-gun-hee]] — 김건희
 - [[choi-ju-hwan]] — 최주환
 - [[player-임병욱]] — 임병욱
-- [[player-김웅빈]] — 김웅빈
 - [[park-chan-hyuk]] — 박찬혁
+- [[player-김웅빈]] — 김웅빈
 - [[player-히우라]] — 히우라
-- [[player-추재현]] — 추재현
 - [[player-권혁빈]] — 권혁빈
+- [[player-추재현]] — 추재현
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
 - [[lee-hyung-jong]] — 이형종
@@ -528,9 +528,9 @@
 - [[peraza]] — 페라자
 - [[kang-baek-ho]] — 강백호
 - [[noh-si-hwan]] — 노시환
-- [[heo-in-seo]] — 허인서
-- [[lee-do-yoon]] — 이도윤
 - [[kim-tae-yeon]] — 김태연
+- [[lee-do-yoon]] — 이도윤
+- [[heo-in-seo]] — 허인서
 - [[sim-woo-jun]] — 심우준
 - [[player-이원석]] — 이원석
 - [[oh-jae-won]] — 오재원
@@ -1059,6 +1059,11 @@
 - [[source-lotte-vs-hanwha-20260728]] — 롯데 vs 한화 2026.07.28
 - [[source-doosan-vs-ssg-20260728]] — 두산 vs SSG 2026.07.28
 - [[source-kiwoom-vs-lg-20260728]] — 키움 vs LG 2026.07.28
+- [[source-kia-vs-samsung-20260729]] — KIA vs 삼성 2026.07.29
+- [[source-kt-vs-nc-20260729]] — KT vs NC 2026.07.29
+- [[source-lotte-vs-hanwha-20260729]] — 롯데 vs 한화 2026.07.29
+- [[source-doosan-vs-ssg-20260729]] — 두산 vs SSG 2026.07.29
+- [[source-kiwoom-vs-lg-20260729]] — 키움 vs LG 2026.07.29
 
 ## 음악
 
