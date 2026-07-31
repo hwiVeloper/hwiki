@@ -34,9 +34,9 @@
 - [[player-김태군]] — 김태군
 - [[player-박정우]] — 박정우
 - [[player-오선우]] — 오선우
+- [[player-김민규]] — 김민규
 - [[player-변우혁]] — 변우혁
 - [[player-윤도현]] — 윤도현
-- [[player-김민규]] — 김민규
 - [[player-정현창]] — 정현창
 - [[player-한승연]] — 한승연
 - [[ha-ju-seok]] — 하주석
@@ -405,8 +405,8 @@
 #### 삼성
 - [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
-- [[kim-ji-chan]] — 김지찬
 - [[koo-ja-wook]] — 구자욱
+- [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
@@ -471,10 +471,10 @@
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
 - [[lee-hyung-jong]] — 이형종
-- [[lee-ju-hyung]] — 이주형
 - [[davidson]] — 데이비슨
-- [[player-여동욱]] — 여동욱
+- [[lee-ju-hyung]] — 이주형
 - [[player-김동헌]] — 김동헌
+- [[player-여동욱]] — 여동욱
 - [[eo-jun-seo]] — 어준서
 - [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
@@ -529,9 +529,9 @@
 - [[peraza]] — 페라자
 - [[kang-baek-ho]] — 강백호
 - [[noh-si-hwan]] — 노시환
-- [[kim-tae-yeon]] — 김태연
 - [[lee-do-yoon]] — 이도윤
 - [[heo-in-seo]] — 허인서
+- [[kim-tae-yeon]] — 김태연
 - [[sim-woo-jun]] — 심우준
 - [[player-이원석]] — 이원석
 - [[oh-jae-won]] — 오재원
@@ -1070,6 +1070,11 @@
 - [[source-lotte-vs-hanwha-20260730]] — 롯데 vs 한화 2026.07.30
 - [[source-doosan-vs-ssg-20260730]] — 두산 vs SSG 2026.07.30
 - [[source-kiwoom-vs-lg-20260730]] — 키움 vs LG 2026.07.30
+- [[source-hanwha-vs-kt-20260731]] — 한화 vs KT 2026.07.31
+- [[source-kia-vs-nc-20260731]] — KIA vs NC 2026.07.31
+- [[source-lg-vs-doosan-20260731]] — LG vs 두산 2026.07.31
+- [[source-ssg-vs-kiwoom-20260731]] — SSG vs 키움 2026.07.31
+- [[source-samsung-vs-lotte-20260731]] — 삼성 vs 롯데 2026.07.31
 
 ## 음악
 
