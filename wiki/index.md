@@ -78,8 +78,8 @@
 - [[player-김상수]] — 김상수
 - [[player-김민혁]] — 김민혁
 - [[player-허경민]] — 허경민
-- [[player-한승택]] — 한승택
 - [[ahn-hyun-min]] — 안현민
+- [[player-한승택]] — 한승택
 - [[player-권동진]] — 권동진
 - [[oh-yoon-seok]] — 오윤석
 - [[ryu-hyun-in]] — 류현인
@@ -119,6 +119,7 @@
 - [[player-한승주]] — 한승주 (투수)
 - [[player-이상동]] — 이상동 (투수)
 - [[player-로건]] — 로건 (투수)
+- [[player-이정현]] — 이정현 (투수)
 
 #### LG
 - [[austin]] — 오스틴
@@ -309,8 +310,8 @@
 - [[player-류승민]] — 류승민
 - [[player-세베리노]] — 세베리노
 - [[kim-in-tae]] — 김인태
-- [[player-김기연]] — 김기연
 - [[player-김대한]] — 김대한
+- [[player-김기연]] — 김기연
 - [[player-임종성]] — 임종성
 - [[player-홍성호]] — 홍성호
 - [[player-전다민]] — 전다민
@@ -347,8 +348,8 @@
 - [[jeon-min-jae]] — 전민재
 - [[player-고승민]] — 고승민
 - [[player-한동희]] — 한동희
-- [[player-손성빈]] — 손성빈
 - [[na-seung-yub]] — 나승엽
+- [[player-손성빈]] — 손성빈
 - [[yoon-dong-hee]] — 윤동희
 - [[jang-doo-sung]] — 장두성
 - [[jeon-jun-woo]] — 전준우
@@ -419,8 +420,8 @@
 - [[kim-young-woong]] — 김영웅
 - [[yang-woo-hyun]] — 양우현
 - [[sim-jae-hun]] — 심재훈
-- [[player-김상준]] — 김상준
 - [[player-김현준]] — 김현준
+- [[player-김상준]] — 김상준
 - [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
 - [[player-김재상]] — 김재상
@@ -540,8 +541,8 @@
 - [[hwang-young-mook]] — 황영묵
 - [[ha-ju-seok]] — 하주석
 - [[player-이진영]] — 이진영
-- [[choi-jae-hun]] — 최재훈
 - [[choi-in-ho]] — 최인호
+- [[choi-jae-hun]] — 최재훈
 - [[player-박정현]] — 박정현
 - [[player-유민]] — 유민
 - [[player-장규현]] — 장규현
@@ -1079,6 +1080,10 @@
 - [[source-hanwha-vs-kt-20260801]] — 한화 vs KT 2026.08.01
 - [[source-lg-vs-doosan-20260801]] — LG vs 두산 2026.08.01
 - [[source-ssg-vs-kiwoom-20260801]] — SSG vs 키움 2026.08.01
+- [[source-hanwha-vs-kt-20260802]] — 한화 vs KT 2026.08.02
+- [[source-lg-vs-doosan-20260802]] — LG vs 두산 2026.08.02
+- [[source-ssg-vs-kiwoom-20260802]] — SSG vs 키움 2026.08.02
+- [[source-samsung-vs-lotte-20260802]] — 삼성 vs 롯데 2026.08.02
 
 ## 음악
 
