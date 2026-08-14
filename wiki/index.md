@@ -41,8 +41,8 @@
 - [[player-정현창]] — 정현창
 - [[player-한승연]] — 한승연
 - [[player-주효상]] — 주효상
-- [[player-고종욱]] — 고종욱
 - [[player-이호연]] — 이호연
+- [[player-고종욱]] — 고종욱
 - [[player-홍민규]] — 홍민규
 - [[player-성영탁]] — 성영탁
 - [[player-황대인]] — 황대인
@@ -187,8 +187,8 @@
 - [[chun-jae-hwan]] — 천재환
 - [[kwon-hee-dong]] — 권희동
 - [[choi-jung-won]] — 최정원
-- [[han-seok-hyun]] — 한석현
 - [[kim-hwi-jip]] — 김휘집
+- [[han-seok-hyun]] — 한석현
 - [[seo-ho-chul]] — 서호철
 - [[player-안중열]] — 안중열
 - [[kim-han-byul]] — 김한별
@@ -237,8 +237,8 @@
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[heredia]] — 에레디아
 - [[choi-ji-hun]] — 최지훈
+- [[heredia]] — 에레디아
 - [[choi-jung]] — 최정
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
@@ -304,8 +304,8 @@
 - [[kang-seung-ho]] — 강승호
 - [[player-손아섭]] — 손아섭
 - [[yoon-jun-ho]] — 윤준호
-- [[oh-myung-jin]] — 오명진
 - [[jo-su-haeng]] — 조수행
+- [[oh-myung-jin]] — 오명진
 - [[lee-yu-chan]] — 이유찬
 - [[yang-seok-hwan]] — 양석환
 - [[player-류승민]] — 류승민
@@ -468,15 +468,15 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-임병욱]] — 임병욱
 - [[choi-ju-hwan]] — 최주환
-- [[park-chan-hyuk]] — 박찬혁
 - [[player-김웅빈]] — 김웅빈
+- [[park-chan-hyuk]] — 박찬혁
 - [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
 - [[player-추재현]] — 추재현
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
-- [[lee-hyung-jong]] — 이형종
 - [[davidson]] — 데이비슨
+- [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
 - [[player-여동욱]] — 여동욱
 - [[player-김동헌]] — 김동헌
@@ -532,10 +532,10 @@
 #### 한화
 - [[moon-hyun-bin]] — 문현빈
 - [[peraza]] — 페라자
-- [[noh-si-hwan]] — 노시환
 - [[kang-baek-ho]] — 강백호
-- [[heo-in-seo]] — 허인서
+- [[noh-si-hwan]] — 노시환
 - [[lee-do-yoon]] — 이도윤
+- [[heo-in-seo]] — 허인서
 - [[sim-woo-jun]] — 심우준
 - [[kim-tae-yeon]] — 김태연
 - [[player-이원석]] — 이원석
@@ -1105,6 +1105,11 @@
 - [[source-lg-vs-kiwoom-20260813]] — LG vs 키움 2026.08.13
 - [[source-lotte-vs-ssg-20260813]] — 롯데 vs SSG 2026.08.13
 - [[source-samsung-vs-kia-20260813]] — 삼성 vs KIA 2026.08.13
+- [[source-hanwha-vs-samsung-20260814]] — 한화 vs 삼성 2026.08.14
+- [[source-nc-vs-lotte-20260814]] — NC vs 롯데 2026.08.14
+- [[source-doosan-vs-kia-20260814]] — 두산 vs KIA 2026.08.14
+- [[source-ssg-vs-lg-20260814]] — SSG vs LG 2026.08.14
+- [[source-kiwoom-vs-kt-20260814]] — 키움 vs KT 2026.08.14
 
 ## 음악
 
