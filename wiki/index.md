@@ -20,9 +20,9 @@
 
 #### KIA
 - [[kim-do-young]] — 김도영
+- [[player-박재현]] — 박재현
 - [[na-sung-bum]] — 나성범
 - [[player-김호령]] — 김호령
-- [[player-박재현]] — 박재현
 - [[player-김선빈]] — 김선빈
 - [[player-카스트로]] — 카스트로
 - [[han-jun-soo]] — 한준수
@@ -252,8 +252,8 @@
 - [[player-이지영]] — 이지영
 - [[player-채현우]] — 채현우
 - [[player-홍대인]] — 홍대인
-- [[player-최준우]] — 최준우
 - [[player-마드리스]] — 마드리스
+- [[player-최준우]] — 최준우
 - [[player-임근우]] — 임근우
 - [[player-김민식]] — 김민식
 - [[player-류효승]] — 류효승
@@ -297,15 +297,15 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[park-jun-sun]] — 박준순
-- [[yang-eui-ji]] — 양의지
 - [[jung-su-bin]] — 정수빈
+- [[yang-eui-ji]] — 양의지
 - [[cameron]] — 카메론
 - [[ahn-jae-seok]] — 안재석
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
 - [[player-손아섭]] — 손아섭
-- [[yoon-jun-ho]] — 윤준호
 - [[jo-su-haeng]] — 조수행
+- [[yoon-jun-ho]] — 윤준호
 - [[oh-myung-jin]] — 오명진
 - [[lee-yu-chan]] — 이유찬
 - [[yang-seok-hwan]] — 양석환
@@ -471,8 +471,8 @@
 - [[choi-ju-hwan]] — 최주환
 - [[park-chan-hyuk]] — 박찬혁
 - [[player-김웅빈]] — 김웅빈
-- [[player-권혁빈]] — 권혁빈
 - [[player-추재현]] — 추재현
+- [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
 - [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
@@ -1116,6 +1116,9 @@
 - [[source-doosan-vs-kia-20260815]] — 두산 vs KIA 2026.08.15
 - [[source-ssg-vs-lg-20260815]] — SSG vs LG 2026.08.15
 - [[source-kiwoom-vs-kt-20260815]] — 키움 vs KT 2026.08.15
+- [[source-doosan-vs-kia-20260816]] — 두산 vs KIA 2026.08.16
+- [[source-ssg-vs-lg-20260816]] — SSG vs LG 2026.08.16
+- [[source-kiwoom-vs-kt-20260816]] — 키움 vs KT 2026.08.16
 
 ## 음악
 
