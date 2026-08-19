@@ -130,8 +130,8 @@
 - [[oh-ji-hwan]] — 오지환
 - [[player-송찬의]] — 송찬의
 - [[koo-bon-hyuk]] — 구본혁
-- [[park-dong-won]] — 박동원
 - [[moon-bo-kyung]] — 문보경
+- [[park-dong-won]] — 박동원
 - [[moon-sung-joo]] — 문성주
 - [[player-천성호]] — 천성호
 - [[player-문정빈]] — 문정빈
@@ -176,6 +176,7 @@
 - [[player-최지명]] — 최지명 (투수)
 - [[player-양우진]] — 양우진 (투수)
 - [[player-카라스코]] — 카라스코 (투수)
+- [[player-케네디]] — 케네디 (투수)
 
 #### NC
 - [[kim-ju-won]] — 김주원
@@ -297,8 +298,8 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[park-jun-sun]] — 박준순
-- [[jung-su-bin]] — 정수빈
 - [[yang-eui-ji]] — 양의지
+- [[jung-su-bin]] — 정수빈
 - [[cameron]] — 카메론
 - [[ahn-jae-seok]] — 안재석
 - [[park-ji-hun]] — 박지훈
@@ -309,8 +310,8 @@
 - [[oh-myung-jin]] — 오명진
 - [[lee-yu-chan]] — 이유찬
 - [[yang-seok-hwan]] — 양석환
-- [[player-류승민]] — 류승민
 - [[player-김대한]] — 김대한
+- [[player-류승민]] — 류승민
 - [[player-세베리노]] — 세베리노
 - [[kim-in-tae]] — 김인태
 - [[player-김기연]] — 김기연
@@ -544,8 +545,8 @@
 - [[oh-jae-won]] — 오재원
 - [[hwang-young-mook]] — 황영묵
 - [[choi-in-ho]] — 최인호
-- [[ha-ju-seok]] — 하주석
 - [[player-이진영]] — 이진영
+- [[ha-ju-seok]] — 하주석
 - [[choi-jae-hun]] — 최재훈
 - [[player-박정현]] — 박정현
 - [[player-유민]] — 유민
@@ -1124,6 +1125,11 @@
 - [[source-doosan-vs-nc-20260818]] — 두산 vs NC 2026.08.18
 - [[source-ssg-vs-samsung-20260818]] — SSG vs 삼성 2026.08.18
 - [[source-kiwoom-vs-lotte-20260818]] — 키움 vs 롯데 2026.08.18
+- [[source-kia-vs-hanwha-20260819]] — KIA vs 한화 2026.08.19
+- [[source-kt-vs-lg-20260819]] — KT vs LG 2026.08.19
+- [[source-doosan-vs-nc-20260819]] — 두산 vs NC 2026.08.19
+- [[source-ssg-vs-samsung-20260819]] — SSG vs 삼성 2026.08.19
+- [[source-kiwoom-vs-lotte-20260819]] — 키움 vs 롯데 2026.08.19
 
 ## 음악
 
