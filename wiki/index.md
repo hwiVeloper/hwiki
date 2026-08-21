@@ -21,8 +21,8 @@
 #### KIA
 - [[kim-do-young]] — 김도영
 - [[player-박재현]] — 박재현
-- [[na-sung-bum]] — 나성범
 - [[player-김호령]] — 김호령
+- [[na-sung-bum]] — 나성범
 - [[player-김선빈]] — 김선빈
 - [[player-카스트로]] — 카스트로
 - [[han-jun-soo]] — 한준수
@@ -127,8 +127,8 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[hong-chang-ki]] — 홍창기
-- [[oh-ji-hwan]] — 오지환
 - [[shin-min-jae]] — 신민재
+- [[oh-ji-hwan]] — 오지환
 - [[player-송찬의]] — 송찬의
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
@@ -187,8 +187,8 @@
 - [[davidson]] — 데이비슨
 - [[kim-hyung-jun]] — 김형준
 - [[chun-jae-hwan]] — 천재환
-- [[kwon-hee-dong]] — 권희동
 - [[choi-jung-won]] — 최정원
+- [[kwon-hee-dong]] — 권희동
 - [[kim-hwi-jip]] — 김휘집
 - [[han-seok-hyun]] — 한석현
 - [[player-안중열]] — 안중열
@@ -252,8 +252,8 @@
 - [[player-김성욱]] — 김성욱
 - [[han-yoo-seom]] — 한유섬
 - [[player-이지영]] — 이지영
-- [[player-채현우]] — 채현우
 - [[player-홍대인]] — 홍대인
+- [[player-채현우]] — 채현우
 - [[player-마드리스]] — 마드리스
 - [[player-최준우]] — 최준우
 - [[player-임근우]] — 임근우
@@ -299,8 +299,8 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[park-jun-sun]] — 박준순
-- [[yang-eui-ji]] — 양의지
 - [[jung-su-bin]] — 정수빈
+- [[yang-eui-ji]] — 양의지
 - [[cameron]] — 카메론
 - [[ahn-jae-seok]] — 안재석
 - [[park-ji-hun]] — 박지훈
@@ -345,6 +345,7 @@
 - [[player-김동주]] — 김동주 (투수)
 - [[player-타카다]] — 타카다 (투수)
 - [[player-김한중]] — 김한중 (투수)
+- [[player-서준오]] — 서준오 (투수)
 
 #### 롯데
 - [[reyes]] — 레이예스
@@ -368,9 +369,9 @@
 - [[park-gun-woo]] — 박건우
 - [[player-신윤후]] — 신윤후
 - [[player-김민성]] — 김민성
+- [[player-김동혁]] — 김동혁
 - [[player-조세진]] — 조세진
 - [[player-이호준]] — 이호준
-- [[player-김동혁]] — 김동혁
 - [[player-최항]] — 최항
 - [[player-박재엽]] — 박재엽
 - [[player-정보근]] — 정보근
@@ -1137,6 +1138,11 @@
 - [[source-doosan-vs-nc-20260820]] — 두산 vs NC 2026.08.20
 - [[source-ssg-vs-samsung-20260820]] — SSG vs 삼성 2026.08.20
 - [[source-kiwoom-vs-lotte-20260820]] — 키움 vs 롯데 2026.08.20
+- [[source-kia-vs-kiwoom-20260821]] — KIA vs 키움 2026.08.21
+- [[source-kt-vs-ssg-20260821]] — KT vs SSG 2026.08.21
+- [[source-lg-vs-hanwha-20260821]] — LG vs 한화 2026.08.21
+- [[source-lotte-vs-doosan-20260821]] — 롯데 vs 두산 2026.08.21
+- [[source-samsung-vs-nc-20260821]] — 삼성 vs NC 2026.08.21
 
 ## 음악
 
