@@ -193,8 +193,8 @@
 - [[han-seok-hyun]] — 한석현
 - [[player-안중열]] — 안중열
 - [[seo-ho-chul]] — 서호철
-- [[kim-han-byul]] — 김한별
 - [[player-블레인]] — 블레인
+- [[kim-han-byul]] — 김한별
 - [[park-si-won]] — 박시원
 - [[player-신재인]] — 신재인
 - [[player-오장한]] — 오장한
@@ -412,8 +412,8 @@
 
 #### 삼성
 - [[diaz]] — 디아즈
-- [[koo-ja-wook]] — 구자욱
 - [[choi-hyung-woo-kia]] — 최형우
+- [[koo-ja-wook]] — 구자욱
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
@@ -431,11 +431,11 @@
 - [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
 - [[player-김재상]] — 김재상
+- [[player-김태훈]] — 김태훈
 - [[player-장승현]] — 장승현
 - [[hong-hyun-bin]] — 홍현빈
 - [[ham-su-ho]] — 함수호
 - [[lee-hae-seung]] — 이해승
-- [[player-김태훈]] — 김태훈
 - [[player-이성규]] — 이성규
 - [[player-김재혁]] — 김재혁
 - [[player-이창용]] — 이창용
@@ -474,12 +474,12 @@
 - [[player-임병욱]] — 임병욱
 - [[choi-ju-hwan]] — 최주환
 - [[park-chan-hyuk]] — 박찬혁
-- [[player-김웅빈]] — 김웅빈
 - [[player-추재현]] — 추재현
+- [[player-김웅빈]] — 김웅빈
 - [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
-- [[brooks]] — 브룩스
 - [[park-ju-hong]] — 박주홍
+- [[brooks]] — 브룩스
 - [[davidson]] — 데이비슨
 - [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
@@ -1143,6 +1143,8 @@
 - [[source-lg-vs-hanwha-20260821]] — LG vs 한화 2026.08.21
 - [[source-lotte-vs-doosan-20260821]] — 롯데 vs 두산 2026.08.21
 - [[source-samsung-vs-nc-20260821]] — 삼성 vs NC 2026.08.21
+- [[source-kia-vs-kiwoom-20260822]] — KIA vs 키움 2026.08.22
+- [[source-samsung-vs-nc-20260822]] — 삼성 vs NC 2026.08.22
 
 ## 음악
 
