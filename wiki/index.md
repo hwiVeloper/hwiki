@@ -21,17 +21,17 @@
 #### KIA
 - [[kim-do-young]] — 김도영
 - [[player-박재현]] — 박재현
-- [[player-김호령]] — 김호령
 - [[na-sung-bum]] — 나성범
+- [[player-김호령]] — 김호령
 - [[player-김선빈]] — 김선빈
 - [[player-카스트로]] — 카스트로
 - [[han-jun-soo]] — 한준수
 - [[player-김태군]] — 김태군
 - [[player-김규성]] — 김규성
 - [[player-박민]] — 박민
+- [[player-박상준]] — 박상준
 - [[player-아데를린]] — 아데를린
 - [[player-데일]] — 데일
-- [[player-박상준]] — 박상준
 - [[player-박정우]] — 박정우
 - [[ha-ju-seok]] — 하주석
 - [[player-오선우]] — 오선우
@@ -43,6 +43,7 @@
 - [[player-이호연]] — 이호연
 - [[player-주효상]] — 주효상
 - [[player-고종욱]] — 고종욱
+- [[lee-chang-jin]] — 이창진
 - [[player-홍민규]] — 홍민규
 - [[player-성영탁]] — 성영탁
 - [[player-황대인]] — 황대인
@@ -255,8 +256,8 @@
 - [[player-홍대인]] — 홍대인
 - [[player-채현우]] — 채현우
 - [[player-마드리스]] — 마드리스
-- [[player-최준우]] — 최준우
 - [[player-임근우]] — 임근우
+- [[player-최준우]] — 최준우
 - [[player-김민식]] — 김민식
 - [[player-류효승]] — 류효승
 - [[player-이정범]] — 이정범
@@ -358,8 +359,8 @@
 - [[yoon-dong-hee]] — 윤동희
 - [[jang-doo-sung]] — 장두성
 - [[no-jin-hyuk]] — 노진혁
-- [[jeon-jun-woo]] — 전준우
 - [[han-tae-yang]] — 한태양
+- [[jeon-jun-woo]] — 전준우
 - [[player-손호영]] — 손호영
 - [[player-박승욱]] — 박승욱
 - [[player-유강남]] — 유강남
@@ -412,13 +413,13 @@
 
 #### 삼성
 - [[diaz]] — 디아즈
-- [[choi-hyung-woo-kia]] — 최형우
 - [[koo-ja-wook]] — 구자욱
+- [[choi-hyung-woo-kia]] — 최형우
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
-- [[player-박승규]] — 박승규
 - [[jeon-byung-woo]] — 전병우
+- [[player-박승규]] — 박승규
 - [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
 - [[kim-hun-gon]] — 김헌곤
@@ -441,6 +442,7 @@
 - [[player-이창용]] — 이창용
 - [[player-윤정빈]] — 윤정빈
 - [[lee-seung-hyun]] — 이승현
+- [[player-이진용]] — 이진용
 - [[player-김재성]] — 김재성
 - [[player-후라도]] — 후라도 (투수)
 - [[yook-sun-yup]] — 육선엽 (투수)
@@ -495,10 +497,10 @@
 - [[player-원성준]] — 원성준
 - [[park-han-gyul]] — 박한결
 - [[player-최재영]] — 최재영
+- [[player-김재현]] — 김재현
 - [[player-전태현]] — 전태현
 - [[player-박성빈]] — 박성빈
 - [[player-박채울]] — 박채울
-- [[player-김재현]] — 김재현
 - [[player-김태진]] — 김태진
 - [[player-주성원]] — 주성원
 - [[player-염승원]] — 염승원
@@ -1151,6 +1153,11 @@
 - [[source-lg-vs-hanwha-20260823]] — LG vs 한화 2026.08.23
 - [[source-lotte-vs-doosan-20260823]] — 롯데 vs 두산 2026.08.23
 - [[source-samsung-vs-nc-20260823]] — 삼성 vs NC 2026.08.23
+- [[source-hanwha-vs-ssg-20260825]] — 한화 vs SSG 2026.08.25
+- [[source-lotte-vs-kia-20260825]] — 롯데 vs KIA 2026.08.25
+- [[source-nc-vs-lg-20260825]] — NC vs LG 2026.08.25
+- [[source-doosan-vs-kt-20260825]] — 두산 vs KT 2026.08.25
+- [[source-samsung-vs-kiwoom-20260825]] — 삼성 vs 키움 2026.08.25
 
 ## 음악
 
