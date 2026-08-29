@@ -128,8 +128,8 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[hong-chang-ki]] — 홍창기
-- [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
+- [[shin-min-jae]] — 신민재
 - [[oh-ji-hwan]] — 오지환
 - [[moon-bo-kyung]] — 문보경
 - [[koo-bon-hyuk]] — 구본혁
@@ -186,8 +186,8 @@
 - [[park-min-woo]] — 박민우
 - [[lee-woo-sung]] — 이우성
 - [[park-gun-woo]] — 박건우
-- [[davidson]] — 데이비슨
 - [[kim-hyung-jun]] — 김형준
+- [[davidson]] — 데이비슨
 - [[chun-jae-hwan]] — 천재환
 - [[choi-jung-won]] — 최정원
 - [[kwon-hee-dong]] — 권희동
@@ -252,8 +252,8 @@
 - [[player-오태곤]] — 오태곤
 - [[go-myung-jun]] — 고명준
 - [[ahn-sang-hyun]] — 안상현
-- [[player-김성욱]] — 김성욱
 - [[han-yoo-seom]] — 한유섬
+- [[player-김성욱]] — 김성욱
 - [[player-이지영]] — 이지영
 - [[player-홍대인]] — 홍대인
 - [[player-임근우]] — 임근우
@@ -305,8 +305,8 @@
 - [[park-jun-sun]] — 박준순
 - [[jung-su-bin]] — 정수빈
 - [[yang-eui-ji]] — 양의지
-- [[cameron]] — 카메론
 - [[ahn-jae-seok]] — 안재석
+- [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
 - [[jo-su-haeng]] — 조수행
@@ -416,8 +416,8 @@
 
 #### 삼성
 - [[diaz]] — 디아즈
-- [[choi-hyung-woo-kia]] — 최형우
 - [[koo-ja-wook]] — 구자욱
+- [[choi-hyung-woo-kia]] — 최형우
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
@@ -478,8 +478,8 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-임병욱]] — 임병욱
 - [[choi-ju-hwan]] — 최주환
-- [[park-chan-hyuk]] — 박찬혁
 - [[player-추재현]] — 추재현
+- [[park-chan-hyuk]] — 박찬혁
 - [[player-김웅빈]] — 김웅빈
 - [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
@@ -1170,6 +1170,11 @@
 - [[source-nc-vs-lg-20260827]] — NC vs LG 2026.08.27
 - [[source-doosan-vs-kt-20260827]] — 두산 vs KT 2026.08.27
 - [[source-samsung-vs-kiwoom-20260827]] — 삼성 vs 키움 2026.08.27
+- [[source-kt-vs-samsung-20260829]] — KT vs 삼성 2026.08.29
+- [[source-lg-vs-lotte-20260829]] — LG vs 롯데 2026.08.29
+- [[source-nc-vs-hanwha-20260829]] — NC vs 한화 2026.08.29
+- [[source-ssg-vs-kia-20260829]] — SSG vs KIA 2026.08.29
+- [[source-kiwoom-vs-doosan-20260829]] — 키움 vs 두산 2026.08.29
 
 ## 음악
 
