@@ -190,8 +190,8 @@
 - [[davidson]] — 데이비슨
 - [[chun-jae-hwan]] — 천재환
 - [[choi-jung-won]] — 최정원
-- [[kwon-hee-dong]] — 권희동
 - [[kim-hwi-jip]] — 김휘집
+- [[kwon-hee-dong]] — 권희동
 - [[han-seok-hyun]] — 한석현
 - [[player-안중열]] — 안중열
 - [[player-블레인]] — 블레인
@@ -318,10 +318,11 @@
 - [[yang-seok-hwan]] — 양석환
 - [[player-류승민]] — 류승민
 - [[player-세베리노]] — 세베리노
-- [[kim-in-tae]] — 김인태
 - [[player-김기연]] — 김기연
+- [[kim-in-tae]] — 김인태
 - [[player-임종성]] — 임종성
 - [[player-홍성호]] — 홍성호
+- [[player-류현준]] — 류현준
 - [[player-전다민]] — 전다민
 - [[player-박성재]] — 박성재
 - [[player-이영하]] — 이영하
@@ -484,9 +485,9 @@
 - [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
 - [[davidson]] — 데이비슨
+- [[lee-hyung-jong]] — 이형종
 - [[park-ju-hong]] — 박주홍
 - [[brooks]] — 브룩스
-- [[lee-hyung-jong]] — 이형종
 - [[lee-ju-hyung]] — 이주형
 - [[player-여동욱]] — 여동욱
 - [[player-김동헌]] — 김동헌
@@ -539,6 +540,7 @@
 - [[player-김선기]] — 김선기 (투수)
 - [[player-김성민]] — 김성민 (투수)
 - [[player-이강준]] — 이강준 (투수)
+- [[player-임진묵]] — 임진묵 (투수)
 
 #### 한화
 - [[moon-hyun-bin]] — 문현빈
@@ -1175,6 +1177,8 @@
 - [[source-nc-vs-hanwha-20260829]] — NC vs 한화 2026.08.29
 - [[source-ssg-vs-kia-20260829]] — SSG vs KIA 2026.08.29
 - [[source-kiwoom-vs-doosan-20260829]] — 키움 vs 두산 2026.08.29
+- [[source-nc-vs-hanwha-20260830]] — NC vs 한화 2026.08.30
+- [[source-kiwoom-vs-doosan-20260830]] — 키움 vs 두산 2026.08.30
 
 ## 음악
 
