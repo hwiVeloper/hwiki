@@ -103,6 +103,7 @@
 - [[player-오서진]] — 오서진
 - [[player-김정운]] — 김정운
 - [[joo-kwon]] — 주권
+- [[player-문상철]] — 문상철
 - [[sauer]] — 사우어 (투수)
 - [[player-전용주]] — 전용주 (투수)
 - [[player-한승혁]] — 한승혁 (투수)
@@ -255,8 +256,8 @@
 - [[han-yoo-seom]] — 한유섬
 - [[player-김성욱]] — 김성욱
 - [[player-이지영]] — 이지영
-- [[player-홍대인]] — 홍대인
 - [[player-임근우]] — 임근우
+- [[player-홍대인]] — 홍대인
 - [[player-채현우]] — 채현우
 - [[player-마드리스]] — 마드리스
 - [[player-최준우]] — 최준우
@@ -303,13 +304,13 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[park-jun-sun]] — 박준순
-- [[jung-su-bin]] — 정수빈
 - [[yang-eui-ji]] — 양의지
+- [[jung-su-bin]] — 정수빈
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
-- [[kang-seung-ho]] — 강승호
 - [[jo-su-haeng]] — 조수행
+- [[kang-seung-ho]] — 강승호
 - [[player-손아섭]] — 손아섭
 - [[yoon-jun-ho]] — 윤준호
 - [[oh-myung-jin]] — 오명진
@@ -1179,6 +1180,11 @@
 - [[source-kiwoom-vs-doosan-20260829]] — 키움 vs 두산 2026.08.29
 - [[source-nc-vs-hanwha-20260830]] — NC vs 한화 2026.08.30
 - [[source-kiwoom-vs-doosan-20260830]] — 키움 vs 두산 2026.08.30
+- [[source-hanwha-vs-kt-20260901]] — 한화 vs KT 2026.09.01
+- [[source-kia-vs-nc-20260901]] — KIA vs NC 2026.09.01
+- [[source-lg-vs-doosan-20260901]] — LG vs 두산 2026.09.01
+- [[source-lotte-vs-samsung-20260901]] — 롯데 vs 삼성 2026.09.01
+- [[source-ssg-vs-kiwoom-20260901]] — SSG vs 키움 2026.09.01
 
 ## 음악
 
