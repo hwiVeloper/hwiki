@@ -82,8 +82,8 @@
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
 - [[player-권동진]] — 권동진
-- [[ryu-hyun-in]] — 류현인
 - [[oh-yoon-seok]] — 오윤석
+- [[ryu-hyun-in]] — 류현인
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
 - [[player-배정대]] — 배정대
@@ -304,18 +304,18 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[park-jun-sun]] — 박준순
-- [[yang-eui-ji]] — 양의지
 - [[jung-su-bin]] — 정수빈
+- [[yang-eui-ji]] — 양의지
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
-- [[jo-su-haeng]] — 조수행
 - [[kang-seung-ho]] — 강승호
-- [[player-손아섭]] — 손아섭
+- [[jo-su-haeng]] — 조수행
 - [[yoon-jun-ho]] — 윤준호
+- [[player-손아섭]] — 손아섭
 - [[oh-myung-jin]] — 오명진
-- [[lee-yu-chan]] — 이유찬
 - [[player-김대한]] — 김대한
+- [[lee-yu-chan]] — 이유찬
 - [[yang-seok-hwan]] — 양석환
 - [[player-류승민]] — 류승민
 - [[player-세베리노]] — 세베리노
@@ -352,6 +352,7 @@
 - [[player-타카다]] — 타카다 (투수)
 - [[player-김한중]] — 김한중 (투수)
 - [[player-서준오]] — 서준오 (투수)
+- [[player-김영현]] — 김영현 (투수)
 
 #### 롯데
 - [[reyes]] — 레이예스
@@ -489,8 +490,8 @@
 - [[lee-hyung-jong]] — 이형종
 - [[park-ju-hong]] — 박주홍
 - [[brooks]] — 브룩스
-- [[lee-ju-hyung]] — 이주형
 - [[player-여동욱]] — 여동욱
+- [[lee-ju-hyung]] — 이주형
 - [[player-김동헌]] — 김동헌
 - [[eo-jun-seo]] — 어준서
 - [[player-임지열]] — 임지열
@@ -555,8 +556,8 @@
 - [[player-이원석]] — 이원석
 - [[chae-eun-seong]] — 채은성
 - [[oh-jae-won]] — 오재원
-- [[hwang-young-mook]] — 황영묵
 - [[choi-in-ho]] — 최인호
+- [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
 - [[choi-jae-hun]] — 최재훈
@@ -1185,6 +1186,11 @@
 - [[source-lg-vs-doosan-20260901]] — LG vs 두산 2026.09.01
 - [[source-lotte-vs-samsung-20260901]] — 롯데 vs 삼성 2026.09.01
 - [[source-ssg-vs-kiwoom-20260901]] — SSG vs 키움 2026.09.01
+- [[source-hanwha-vs-kt-20260902]] — 한화 vs KT 2026.09.02
+- [[source-kia-vs-nc-20260902]] — KIA vs NC 2026.09.02
+- [[source-lg-vs-doosan-20260902]] — LG vs 두산 2026.09.02
+- [[source-lotte-vs-samsung-20260902]] — 롯데 vs 삼성 2026.09.02
+- [[source-ssg-vs-kiwoom-20260902]] — SSG vs 키움 2026.09.02
 
 ## 음악
 
