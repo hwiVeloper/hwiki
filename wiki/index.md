@@ -188,8 +188,8 @@
 #### NC
 - [[kim-ju-won]] — 김주원
 - [[park-min-woo]] — 박민우
-- [[lee-woo-sung]] — 이우성
 - [[park-gun-woo]] — 박건우
+- [[lee-woo-sung]] — 이우성
 - [[kim-hyung-jun]] — 김형준
 - [[chun-jae-hwan]] — 천재환
 - [[davidson]] — 데이비슨
@@ -243,6 +243,7 @@
 - [[player-김태훈]] — 김태훈 (투수)
 - [[player-최성영]] — 최성영 (투수)
 - [[player-홍재문]] — 홍재문 (투수)
+- [[player-이재학]] — 이재학 (투수)
 
 #### SSG
 - [[player-박성한]] — 박성한
@@ -378,8 +379,8 @@
 - [[park-gun-woo]] — 박건우
 - [[player-김동현]] — 김동현
 - [[player-김세민]] — 김세민
-- [[player-김동혁]] — 김동혁
 - [[player-조세진]] — 조세진
+- [[player-김동혁]] — 김동혁
 - [[player-신윤후]] — 신윤후
 - [[player-김민성]] — 김민성
 - [[player-이호준]] — 이호준
@@ -485,8 +486,8 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-추재현]] — 추재현
 - [[player-임병욱]] — 임병욱
-- [[choi-ju-hwan]] — 최주환
 - [[player-김웅빈]] — 김웅빈
+- [[choi-ju-hwan]] — 최주환
 - [[park-chan-hyuk]] — 박찬혁
 - [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
@@ -554,9 +555,9 @@
 - [[kang-baek-ho]] — 강백호
 - [[peraza]] — 페라자
 - [[heo-in-seo]] — 허인서
+- [[sim-woo-jun]] — 심우준
 - [[lee-do-yoon]] — 이도윤
 - [[kim-tae-yeon]] — 김태연
-- [[sim-woo-jun]] — 심우준
 - [[player-이원석]] — 이원석
 - [[chae-eun-seong]] — 채은성
 - [[oh-jae-won]] — 오재원
@@ -1205,6 +1206,11 @@
 - [[source-nc-vs-kiwoom-20260904]] — NC vs 키움 2026.09.04
 - [[source-doosan-vs-ssg-20260904]] — 두산 vs SSG 2026.09.04
 - [[source-samsung-vs-lg-20260904]] — 삼성 vs LG 2026.09.04
+- [[source-hanwha-vs-lotte-20260905]] — 한화 vs 롯데 2026.09.05
+- [[source-kt-vs-kia-20260905]] — KT vs KIA 2026.09.05
+- [[source-nc-vs-kiwoom-20260905]] — NC vs 키움 2026.09.05
+- [[source-doosan-vs-ssg-20260905]] — 두산 vs SSG 2026.09.05
+- [[source-samsung-vs-lg-20260905]] — 삼성 vs LG 2026.09.05
 
 ## 음악
 
