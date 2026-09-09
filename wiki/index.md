@@ -36,10 +36,10 @@
 - [[player-박정우]] — 박정우
 - [[player-오선우]] — 오선우
 - [[player-김민규]] — 김민규
-- [[player-윤도현]] — 윤도현
 - [[player-변우혁]] — 변우혁
-- [[player-정현창]] — 정현창
+- [[player-윤도현]] — 윤도현
 - [[player-이호연]] — 이호연
+- [[player-정현창]] — 정현창
 - [[player-한승연]] — 한승연
 - [[player-주효상]] — 주효상
 - [[player-고종욱]] — 고종욱
@@ -193,8 +193,8 @@
 - [[kim-hyung-jun]] — 김형준
 - [[chun-jae-hwan]] — 천재환
 - [[davidson]] — 데이비슨
-- [[choi-jung-won]] — 최정원
 - [[kim-hwi-jip]] — 김휘집
+- [[choi-jung-won]] — 최정원
 - [[kwon-hee-dong]] — 권희동
 - [[player-블레인]] — 블레인
 - [[player-안중열]] — 안중열
@@ -255,13 +255,13 @@
 - [[choi-jung]] — 최정
 - [[player-전의산]] — 전의산
 - [[player-오태곤]] — 오태곤
-- [[go-myung-jun]] — 고명준
 - [[ahn-sang-hyun]] — 안상현
+- [[go-myung-jun]] — 고명준
 - [[han-yoo-seom]] — 한유섬
 - [[player-김성욱]] — 김성욱
 - [[player-이지영]] — 이지영
-- [[player-홍대인]] — 홍대인
 - [[player-임근우]] — 임근우
+- [[player-홍대인]] — 홍대인
 - [[player-채현우]] — 채현우
 - [[player-마드리스]] — 마드리스
 - [[player-최준우]] — 최준우
@@ -310,8 +310,8 @@
 #### 두산
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
-- [[park-jun-sun]] — 박준순
 - [[jung-su-bin]] — 정수빈
+- [[park-jun-sun]] — 박준순
 - [[yang-eui-ji]] — 양의지
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
@@ -425,8 +425,8 @@
 - [[player-김한결]] — 김한결 (투수)
 
 #### 삼성
-- [[diaz]] — 디아즈
 - [[koo-ja-wook]] — 구자욱
+- [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
@@ -554,8 +554,8 @@
 #### 한화
 - [[moon-hyun-bin]] — 문현빈
 - [[noh-si-hwan]] — 노시환
-- [[peraza]] — 페라자
 - [[kang-baek-ho]] — 강백호
+- [[peraza]] — 페라자
 - [[heo-in-seo]] — 허인서
 - [[sim-woo-jun]] — 심우준
 - [[kim-tae-yeon]] — 김태연
@@ -567,14 +567,15 @@
 - [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
-- [[choi-jae-hun]] — 최재훈
 - [[player-박정현]] — 박정현
+- [[choi-jae-hun]] — 최재훈
 - [[player-한지윤]] — 한지윤
 - [[player-유민]] — 유민
 - [[player-장규현]] — 장규현
 - [[player-권광민]] — 권광민
 - [[player-정은원]] — 정은원
 - [[player-최유빈]] — 최유빈
+- [[kim-seo-hyun]] — 김서현
 - [[player-쿠싱]] — 쿠싱
 - [[player-이민우]] — 이민우
 - [[player-정민규]] — 정민규
@@ -586,7 +587,6 @@
 - [[yoon-san-heum]] — 윤산흠 (투수)
 - [[jung-woo-joo]] — 정우주 (투수)
 - [[kim-do-bin]] — 김도빈 (투수)
-- [[kim-seo-hyun]] — 김서현 (투수)
 - [[player-강재민]] — 강재민 (투수)
 - [[player-원종혁]] — 원종혁 (투수)
 - [[wang-yan-cheng]] — 왕옌청 (투수)
@@ -1223,6 +1223,10 @@
 - [[source-doosan-vs-hanwha-20260908]] — 두산 vs 한화 2026.09.08
 - [[source-ssg-vs-kt-20260908]] — SSG vs KT 2026.09.08
 - [[source-kiwoom-vs-lg-20260908]] — 키움 vs LG 2026.09.08
+- [[source-kt-vs-samsung-20260909]] — KT vs 삼성 2026.09.09
+- [[source-lg-vs-hanwha-20260909]] — LG vs 한화 2026.09.09
+- [[source-nc-vs-kia-20260909]] — NC vs KIA 2026.09.09
+- [[source-ssg-vs-doosan-20260909]] — SSG vs 두산 2026.09.09
 
 ## 음악
 
