@@ -23,8 +23,8 @@
 - [[player-박재현]] — 박재현
 - [[na-sung-bum]] — 나성범
 - [[player-김호령]] — 김호령
-- [[player-카스트로]] — 카스트로
 - [[player-김선빈]] — 김선빈
+- [[player-카스트로]] — 카스트로
 - [[han-jun-soo]] — 한준수
 - [[player-김태군]] — 김태군
 - [[player-김규성]] — 김규성
@@ -81,9 +81,9 @@
 - [[player-김민혁]] — 김민혁
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
+- [[ryu-hyun-in]] — 류현인
 - [[player-권동진]] — 권동진
 - [[oh-yoon-seok]] — 오윤석
-- [[ryu-hyun-in]] — 류현인
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
 - [[player-배정대]] — 배정대
@@ -133,9 +133,9 @@
 - [[hong-chang-ki]] — 홍창기
 - [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
+- [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
 - [[oh-ji-hwan]] — 오지환
-- [[koo-bon-hyuk]] — 구본혁
 - [[park-dong-won]] — 박동원
 - [[player-천성호]] — 천성호
 - [[moon-sung-joo]] — 문성주
@@ -310,19 +310,19 @@
 #### 두산
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
-- [[jung-su-bin]] — 정수빈
 - [[park-jun-sun]] — 박준순
+- [[jung-su-bin]] — 정수빈
 - [[yang-eui-ji]] — 양의지
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
-- [[kang-seung-ho]] — 강승호
 - [[jo-su-haeng]] — 조수행
+- [[kang-seung-ho]] — 강승호
 - [[yoon-jun-ho]] — 윤준호
 - [[player-손아섭]] — 손아섭
 - [[oh-myung-jin]] — 오명진
-- [[player-김대한]] — 김대한
 - [[player-세베리노]] — 세베리노
+- [[player-김대한]] — 김대한
 - [[yang-seok-hwan]] — 양석환
 - [[lee-yu-chan]] — 이유찬
 - [[player-류승민]] — 류승민
@@ -363,8 +363,8 @@
 
 #### 롯데
 - [[reyes]] — 레이예스
-- [[jeon-min-jae]] — 전민재
 - [[hwang-sung-bin]] — 황성빈
+- [[jeon-min-jae]] — 전민재
 - [[player-고승민]] — 고승민
 - [[player-한동희]] — 한동희
 - [[na-seung-yub]] — 나승엽
@@ -433,8 +433,8 @@
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
-- [[jeon-byung-woo]] — 전병우
 - [[kang-min-ho]] — 강민호
+- [[jeon-byung-woo]] — 전병우
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
@@ -1236,6 +1236,10 @@
 - [[source-nc-vs-hanwha-20260911]] — NC vs 한화 2026.09.11
 - [[source-ssg-vs-kia-20260911]] — SSG vs KIA 2026.09.11
 - [[source-kiwoom-vs-samsung-20260911]] — 키움 vs 삼성 2026.09.11
+- [[source-kia-vs-kt-20260912]] — KIA vs KT 2026.09.12
+- [[source-lg-vs-samsung-20260912]] — LG vs 삼성 2026.09.12
+- [[source-lotte-vs-kiwoom-20260912]] — 롯데 vs 키움 2026.09.12
+- [[source-nc-vs-doosan-20260912]] — NC vs 두산 2026.09.12
 
 ## 음악
 
