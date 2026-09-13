@@ -38,8 +38,8 @@
 - [[player-변우혁]] — 변우혁
 - [[player-김민규]] — 김민규
 - [[player-윤도현]] — 윤도현
-- [[player-이호연]] — 이호연
 - [[player-정현창]] — 정현창
+- [[player-이호연]] — 이호연
 - [[player-한승연]] — 한승연
 - [[player-주효상]] — 주효상
 - [[player-고종욱]] — 고종욱
@@ -77,8 +77,8 @@
 - [[hilliard]] — 힐리어드
 - [[kim-hyun-soo]] — 김현수
 - [[player-김상수]] — 김상수
-- [[player-허경민]] — 허경민
 - [[player-김민혁]] — 김민혁
+- [[player-허경민]] — 허경민
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
 - [[ryu-hyun-in]] — 류현인
@@ -134,8 +134,8 @@
 - [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
 - [[koo-bon-hyuk]] — 구본혁
-- [[moon-bo-kyung]] — 문보경
 - [[oh-ji-hwan]] — 오지환
+- [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
 - [[player-천성호]] — 천성호
 - [[moon-sung-joo]] — 문성주
@@ -213,6 +213,7 @@
 - [[heo-yun]] — 허윤
 - [[player-김정호]] — 김정호
 - [[player-윤준혁]] — 윤준혁
+- [[player-김준원]] — 김준원
 - [[player-이희성]] — 이희성
 - [[koo-chang-mo]] — 구창모 (투수)
 - [[bae-jae-hwan]] — 배재환 (투수)
@@ -235,7 +236,6 @@
 - [[player-김태경]] — 김태경 (투수)
 - [[player-라일리]] — 라일리 (투수)
 - [[player-박지한]] — 박지한 (투수)
-- [[player-김준원]] — 김준원 (투수)
 - [[player-최우석]] — 최우석 (투수)
 - [[player-최요한]] — 최요한 (투수)
 - [[player-이용준]] — 이용준 (투수)
@@ -318,8 +318,8 @@
 - [[park-ji-hun]] — 박지훈
 - [[jo-su-haeng]] — 조수행
 - [[kang-seung-ho]] — 강승호
-- [[yoon-jun-ho]] — 윤준호
 - [[player-손아섭]] — 손아섭
+- [[yoon-jun-ho]] — 윤준호
 - [[oh-myung-jin]] — 오명진
 - [[player-세베리노]] — 세베리노
 - [[player-김대한]] — 김대한
@@ -446,9 +446,9 @@
 - [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
 - [[player-김재상]] — 김재상
+- [[player-이창용]] — 이창용
 - [[player-김태훈]] — 김태훈
 - [[player-장승현]] — 장승현
-- [[player-이창용]] — 이창용
 - [[hong-hyun-bin]] — 홍현빈
 - [[ham-su-ho]] — 함수호
 - [[lee-hae-seung]] — 이해승
@@ -1240,6 +1240,10 @@
 - [[source-lg-vs-samsung-20260912]] — LG vs 삼성 2026.09.12
 - [[source-lotte-vs-kiwoom-20260912]] — 롯데 vs 키움 2026.09.12
 - [[source-nc-vs-doosan-20260912]] — NC vs 두산 2026.09.12
+- [[source-hanwha-vs-kia-20260913]] — 한화 vs KIA 2026.09.13
+- [[source-lg-vs-samsung-20260913]] — LG vs 삼성 2026.09.13
+- [[source-lotte-vs-kt-20260913]] — 롯데 vs KT 2026.09.13
+- [[source-nc-vs-doosan-20260913]] — NC vs 두산 2026.09.13
 
 ## 음악
 
