@@ -89,9 +89,9 @@
 - [[player-배정대]] — 배정대
 - [[player-이정훈]] — 이정훈
 - [[player-장준원]] — 장준원
+- [[player-장진혁]] — 장진혁
 - [[player-유준규]] — 유준규
 - [[player-조대현]] — 조대현
-- [[player-장진혁]] — 장진혁
 - [[kang-hyun-woo]] — 강현우
 - [[player-이재원]] — 이재원
 - [[player-강민성]] — 강민성
@@ -131,8 +131,8 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[hong-chang-ki]] — 홍창기
-- [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
+- [[shin-min-jae]] — 신민재
 - [[koo-bon-hyuk]] — 구본혁
 - [[oh-ji-hwan]] — 오지환
 - [[moon-bo-kyung]] — 문보경
@@ -200,8 +200,8 @@
 - [[player-안중열]] — 안중열
 - [[han-seok-hyun]] — 한석현
 - [[seo-ho-chul]] — 서호철
-- [[park-si-won]] — 박시원
 - [[kim-han-byul]] — 김한별
+- [[park-si-won]] — 박시원
 - [[player-신재인]] — 신재인
 - [[player-오장한]] — 오장한
 - [[player-도태훈]] — 도태훈
@@ -213,8 +213,8 @@
 - [[heo-yun]] — 허윤
 - [[player-김정호]] — 김정호
 - [[player-윤준혁]] — 윤준혁
-- [[player-김준원]] — 김준원
 - [[player-이희성]] — 이희성
+- [[player-김준원]] — 김준원
 - [[player-김건]] — 김건
 - [[koo-chang-mo]] — 구창모 (투수)
 - [[bae-jae-hwan]] — 배재환 (투수)
@@ -245,12 +245,13 @@
 - [[player-최성영]] — 최성영 (투수)
 - [[player-홍재문]] — 홍재문 (투수)
 - [[player-이재학]] — 이재학 (투수)
+- [[player-클레빈저]] — 클레빈저 (투수)
 
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[heredia]] — 에레디아
 - [[choi-ji-hun]] — 최지훈
+- [[heredia]] — 에레디아
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
 - [[choi-jung]] — 최정
@@ -323,8 +324,8 @@
 - [[yoon-jun-ho]] — 윤준호
 - [[oh-myung-jin]] — 오명진
 - [[player-세베리노]] — 세베리노
-- [[player-김대한]] — 김대한
 - [[yang-seok-hwan]] — 양석환
+- [[player-김대한]] — 김대한
 - [[lee-yu-chan]] — 이유찬
 - [[player-류승민]] — 류승민
 - [[player-김기연]] — 김기연
@@ -434,8 +435,8 @@
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
-- [[kang-min-ho]] — 강민호
 - [[jeon-byung-woo]] — 전병우
+- [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
@@ -1249,6 +1250,10 @@
 - [[source-kt-vs-hanwha-20260915]] — KT vs 한화 2026.09.15
 - [[source-lg-vs-nc-20260915]] — LG vs NC 2026.09.15
 - [[source-lotte-vs-samsung-20260915]] — 롯데 vs 삼성 2026.09.15
+- [[source-kt-vs-hanwha-20260916]] — KT vs 한화 2026.09.16
+- [[source-lg-vs-nc-20260916]] — LG vs NC 2026.09.16
+- [[source-ssg-vs-lotte-20260916]] — SSG vs 롯데 2026.09.16
+- [[source-samsung-vs-doosan-20260916]] — 삼성 vs 두산 2026.09.16
 
 ## 음악
 
