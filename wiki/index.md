@@ -250,8 +250,8 @@
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[choi-ji-hun]] — 최지훈
 - [[heredia]] — 에레디아
+- [[choi-ji-hun]] — 최지훈
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
 - [[choi-jung]] — 최정
@@ -1254,6 +1254,8 @@
 - [[source-lg-vs-nc-20260916]] — LG vs NC 2026.09.16
 - [[source-ssg-vs-lotte-20260916]] — SSG vs 롯데 2026.09.16
 - [[source-samsung-vs-doosan-20260916]] — 삼성 vs 두산 2026.09.16
+- [[source-ssg-vs-nc-20260917]] — SSG vs NC 2026.09.17
+- [[source-kiwoom-vs-kia-20260917]] — 키움 vs KIA 2026.09.17
 
 ## 음악
 
