@@ -31,8 +31,8 @@
 - [[player-박민]] — 박민
 - [[player-박상준]] — 박상준
 - [[player-아데를린]] — 아데를린
-- [[player-데일]] — 데일
 - [[ha-ju-seok]] — 하주석
+- [[player-데일]] — 데일
 - [[player-박정우]] — 박정우
 - [[player-오선우]] — 오선우
 - [[player-변우혁]] — 변우혁
@@ -195,8 +195,8 @@
 - [[chun-jae-hwan]] — 천재환
 - [[davidson]] — 데이비슨
 - [[kim-hwi-jip]] — 김휘집
-- [[kwon-hee-dong]] — 권희동
 - [[choi-jung-won]] — 최정원
+- [[kwon-hee-dong]] — 권희동
 - [[player-블레인]] — 블레인
 - [[player-안중열]] — 안중열
 - [[han-seok-hyun]] — 한석현
@@ -313,8 +313,8 @@
 #### 두산
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
-- [[park-jun-sun]] — 박준순
 - [[jung-su-bin]] — 정수빈
+- [[park-jun-sun]] — 박준순
 - [[yang-eui-ji]] — 양의지
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
@@ -323,8 +323,8 @@
 - [[jo-su-haeng]] — 조수행
 - [[player-손아섭]] — 손아섭
 - [[yoon-jun-ho]] — 윤준호
-- [[oh-myung-jin]] — 오명진
 - [[player-세베리노]] — 세베리노
+- [[oh-myung-jin]] — 오명진
 - [[yang-seok-hwan]] — 양석환
 - [[player-김대한]] — 김대한
 - [[lee-yu-chan]] — 이유찬
@@ -436,8 +436,8 @@
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
-- [[kang-min-ho]] — 강민호
 - [[jeon-byung-woo]] — 전병우
+- [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
@@ -571,8 +571,8 @@
 - [[hwang-young-mook]] — 황영묵
 - [[player-한지윤]] — 한지윤
 - [[player-이진영]] — 이진영
-- [[ha-ju-seok]] — 하주석
 - [[player-박정현]] — 박정현
+- [[ha-ju-seok]] — 하주석
 - [[choi-jae-hun]] — 최재훈
 - [[player-유민]] — 유민
 - [[player-장규현]] — 장규현
@@ -1261,6 +1261,10 @@
 - [[source-nc-vs-lotte-20260918]] — NC vs 롯데 2026.09.18
 - [[source-samsung-vs-hanwha-20260918]] — 삼성 vs 한화 2026.09.18
 - [[source-kiwoom-vs-doosan-20260918]] — 키움 vs 두산 2026.09.18
+- [[source-hanwha-vs-lg-20260919]] — 한화 vs LG 2026.09.19
+- [[source-kia-vs-nc-20260919]] — KIA vs NC 2026.09.19
+- [[source-doosan-vs-kt-20260919]] — 두산 vs KT 2026.09.19
+- [[source-samsung-vs-lotte-20260919]] — 삼성 vs 롯데 2026.09.19
 
 ## 음악
 
