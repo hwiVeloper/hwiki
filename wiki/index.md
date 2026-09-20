@@ -82,8 +82,8 @@
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
 - [[player-권동진]] — 권동진
-- [[ryu-hyun-in]] — 류현인
 - [[oh-yoon-seok]] — 오윤석
+- [[ryu-hyun-in]] — 류현인
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
 - [[player-배정대]] — 배정대
@@ -251,8 +251,8 @@
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[heredia]] — 에레디아
 - [[choi-ji-hun]] — 최지훈
+- [[heredia]] — 에레디아
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
 - [[choi-jung]] — 최정
@@ -273,10 +273,10 @@
 - [[player-신범수]] — 신범수
 - [[player-안재연]] — 안재연
 - [[player-이정범]] — 이정범
+- [[player-김정민]] — 김정민
 - [[player-최윤석]] — 최윤석
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
-- [[player-김정민]] — 김정민
 - [[player-오시후]] — 오시후
 - [[player-김창평]] — 김창평
 - [[player-조병현]] — 조병현
@@ -492,8 +492,8 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-추재현]] — 추재현
 - [[park-chan-hyuk]] — 박찬혁
-- [[player-김웅빈]] — 김웅빈
 - [[player-임병욱]] — 임병욱
+- [[player-김웅빈]] — 김웅빈
 - [[player-권혁빈]] — 권혁빈
 - [[player-히우라]] — 히우라
 - [[choi-ju-hwan]] — 최주환
@@ -1265,6 +1265,11 @@
 - [[source-kia-vs-nc-20260919]] — KIA vs NC 2026.09.19
 - [[source-doosan-vs-kt-20260919]] — 두산 vs KT 2026.09.19
 - [[source-samsung-vs-lotte-20260919]] — 삼성 vs 롯데 2026.09.19
+- [[source-hanwha-vs-lg-20260920]] — 한화 vs LG 2026.09.20
+- [[source-kia-vs-nc-20260920]] — KIA vs NC 2026.09.20
+- [[source-doosan-vs-kt-20260920]] — 두산 vs KT 2026.09.20
+- [[source-samsung-vs-lotte-20260920]] — 삼성 vs 롯데 2026.09.20
+- [[source-kiwoom-vs-ssg-20260920]] — 키움 vs SSG 2026.09.20
 
 ## 음악
 
