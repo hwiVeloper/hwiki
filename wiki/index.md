@@ -86,8 +86,8 @@
 - [[ryu-hyun-in]] — 류현인
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
-- [[player-배정대]] — 배정대
 - [[player-이정훈]] — 이정훈
+- [[player-배정대]] — 배정대
 - [[player-장준원]] — 장준원
 - [[player-장진혁]] — 장진혁
 - [[player-유준규]] — 유준규
@@ -195,8 +195,8 @@
 - [[chun-jae-hwan]] — 천재환
 - [[davidson]] — 데이비슨
 - [[kim-hwi-jip]] — 김휘집
-- [[choi-jung-won]] — 최정원
 - [[kwon-hee-dong]] — 권희동
+- [[choi-jung-won]] — 최정원
 - [[player-블레인]] — 블레인
 - [[player-안중열]] — 안중열
 - [[han-seok-hyun]] — 한석현
@@ -261,8 +261,8 @@
 - [[go-myung-jun]] — 고명준
 - [[ahn-sang-hyun]] — 안상현
 - [[han-yoo-seom]] — 한유섬
-- [[player-김성욱]] — 김성욱
 - [[player-이지영]] — 이지영
+- [[player-김성욱]] — 김성욱
 - [[player-임근우]] — 임근우
 - [[player-홍대인]] — 홍대인
 - [[player-채현우]] — 채현우
@@ -275,9 +275,9 @@
 - [[player-이정범]] — 이정범
 - [[player-김정민]] — 김정민
 - [[player-최윤석]] — 최윤석
+- [[player-오시후]] — 오시후
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
-- [[player-오시후]] — 오시후
 - [[player-김창평]] — 김창평
 - [[player-조병현]] — 조병현
 - [[player-이로운]] — 이로운
@@ -493,8 +493,8 @@
 - [[player-추재현]] — 추재현
 - [[park-chan-hyuk]] — 박찬혁
 - [[player-임병욱]] — 임병욱
-- [[player-김웅빈]] — 김웅빈
 - [[player-권혁빈]] — 권혁빈
+- [[player-김웅빈]] — 김웅빈
 - [[player-히우라]] — 히우라
 - [[choi-ju-hwan]] — 최주환
 - [[davidson]] — 데이비슨
@@ -515,12 +515,13 @@
 - [[player-원성준]] — 원성준
 - [[player-최재영]] — 최재영
 - [[park-han-gyul]] — 박한결
+- [[player-염승원]] — 염승원
 - [[player-전태현]] — 전태현
 - [[player-박성빈]] — 박성빈
 - [[player-박채울]] — 박채울
 - [[player-김태진]] — 김태진
-- [[player-염승원]] — 염승원
 - [[player-주성원]] — 주성원
+- [[player-김시앙]] — 김시앙
 - [[player-알칸타라]] — 알칸타라 (투수)
 - [[kim-sung-jin]] — 김성진 (투수)
 - [[kim-jae-woong]] — 김재웅 (투수)
@@ -585,6 +586,7 @@
 - [[player-정민규]] — 정민규
 - [[player-이도훈]] — 이도훈
 - [[player-배승수]] — 배승수
+- [[player-유로결]] — 유로결
 - [[hernandez]] — 에르난데스 (투수)
 - [[jo-dong-wook]] — 조동욱 (투수)
 - [[park-jun-young]] — 박준영 (투수)
@@ -611,6 +613,7 @@
 - [[player-장유호]] — 장유호 (투수)
 - [[player-이형범]] — 이형범 (투수)
 - [[player-짐머맨]] — 짐머맨 (투수)
+- [[player-하동준]] — 하동준 (투수)
 
 
 ### 개념
@@ -1270,6 +1273,10 @@
 - [[source-doosan-vs-kt-20260920]] — 두산 vs KT 2026.09.20
 - [[source-samsung-vs-lotte-20260920]] — 삼성 vs 롯데 2026.09.20
 - [[source-kiwoom-vs-ssg-20260920]] — 키움 vs SSG 2026.09.20
+- [[source-kt-vs-ssg-20260922]] — KT vs SSG 2026.09.22
+- [[source-lotte-vs-hanwha-20260922]] — 롯데 vs 한화 2026.09.22
+- [[source-nc-vs-samsung-20260922]] — NC vs 삼성 2026.09.22
+- [[source-doosan-vs-kiwoom-20260922]] — 두산 vs 키움 2026.09.22
 
 ## 음악
 
