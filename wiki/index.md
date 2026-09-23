@@ -34,8 +34,8 @@
 - [[ha-ju-seok]] — 하주석
 - [[player-데일]] — 데일
 - [[player-박정우]] — 박정우
-- [[player-오선우]] — 오선우
 - [[player-변우혁]] — 변우혁
+- [[player-오선우]] — 오선우
 - [[player-김민규]] — 김민규
 - [[player-윤도현]] — 윤도현
 - [[player-정현창]] — 정현창
@@ -81,14 +81,14 @@
 - [[player-김민혁]] — 김민혁
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
+- [[ryu-hyun-in]] — 류현인
 - [[player-권동진]] — 권동진
 - [[oh-yoon-seok]] — 오윤석
-- [[ryu-hyun-in]] — 류현인
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
 - [[player-이정훈]] — 이정훈
-- [[player-배정대]] — 배정대
 - [[player-장준원]] — 장준원
+- [[player-배정대]] — 배정대
 - [[player-장진혁]] — 장진혁
 - [[player-유준규]] — 유준규
 - [[player-조대현]] — 조대현
@@ -187,14 +187,14 @@
 - [[player-고우석]] — 고우석 (투수)
 
 #### NC
-- [[kim-ju-won]] — 김주원
 - [[park-min-woo]] — 박민우
+- [[kim-ju-won]] — 김주원
 - [[park-gun-woo]] — 박건우
 - [[lee-woo-sung]] — 이우성
-- [[kim-hyung-jun]] — 김형준
 - [[chun-jae-hwan]] — 천재환
-- [[davidson]] — 데이비슨
+- [[kim-hyung-jun]] — 김형준
 - [[kim-hwi-jip]] — 김휘집
+- [[davidson]] — 데이비슨
 - [[kwon-hee-dong]] — 권희동
 - [[choi-jung-won]] — 최정원
 - [[player-블레인]] — 블레인
@@ -209,9 +209,9 @@
 - [[go-jun-hwi]] — 고준휘
 - [[oh-young-soo]] — 오영수
 - [[player-오태양]] — 오태양
+- [[player-홍종표]] — 홍종표
 - [[player-한재환]] — 한재환
 - [[player-윤준혁]] — 윤준혁
-- [[player-홍종표]] — 홍종표
 - [[heo-yun]] — 허윤
 - [[player-김정호]] — 김정호
 - [[player-이희성]] — 이희성
@@ -314,8 +314,8 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[jung-su-bin]] — 정수빈
-- [[park-jun-sun]] — 박준순
 - [[yang-eui-ji]] — 양의지
+- [[park-jun-sun]] — 박준순
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
@@ -567,12 +567,12 @@
 - [[lee-do-yoon]] — 이도윤
 - [[player-이원석]] — 이원석
 - [[chae-eun-seong]] — 채은성
-- [[oh-jae-won]] — 오재원
 - [[choi-in-ho]] — 최인호
+- [[oh-jae-won]] — 오재원
 - [[hwang-young-mook]] — 황영묵
 - [[player-한지윤]] — 한지윤
-- [[player-이진영]] — 이진영
 - [[player-박정현]] — 박정현
+- [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
 - [[choi-jae-hun]] — 최재훈
 - [[player-유민]] — 유민
@@ -1277,6 +1277,9 @@
 - [[source-lotte-vs-hanwha-20260922]] — 롯데 vs 한화 2026.09.22
 - [[source-nc-vs-samsung-20260922]] — NC vs 삼성 2026.09.22
 - [[source-doosan-vs-kiwoom-20260922]] — 두산 vs 키움 2026.09.22
+- [[source-kia-vs-doosan-20260923]] — KIA vs 두산 2026.09.23
+- [[source-lotte-vs-hanwha-20260923]] — 롯데 vs 한화 2026.09.23
+- [[source-nc-vs-kt-20260923]] — NC vs KT 2026.09.23
 
 ## 음악
 
