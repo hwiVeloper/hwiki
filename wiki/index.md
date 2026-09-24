@@ -77,8 +77,8 @@
 - [[hilliard]] — 힐리어드
 - [[kim-hyun-soo]] — 김현수
 - [[player-김상수]] — 김상수
-- [[player-허경민]] — 허경민
 - [[player-김민혁]] — 김민혁
+- [[player-허경민]] — 허경민
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
 - [[ryu-hyun-in]] — 류현인
@@ -209,9 +209,9 @@
 - [[go-jun-hwi]] — 고준휘
 - [[oh-young-soo]] — 오영수
 - [[player-오태양]] — 오태양
+- [[player-윤준혁]] — 윤준혁
 - [[player-홍종표]] — 홍종표
 - [[player-한재환]] — 한재환
-- [[player-윤준혁]] — 윤준혁
 - [[heo-yun]] — 허윤
 - [[player-김정호]] — 김정호
 - [[player-이희성]] — 이희성
@@ -251,8 +251,8 @@
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[choi-ji-hun]] — 최지훈
 - [[heredia]] — 에레디아
+- [[choi-ji-hun]] — 최지훈
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
 - [[choi-jung]] — 최정
@@ -429,8 +429,8 @@
 - [[player-김태균]] — 김태균 (투수)
 
 #### 삼성
-- [[diaz]] — 디아즈
 - [[koo-ja-wook]] — 구자욱
+- [[diaz]] — 디아즈
 - [[choi-hyung-woo-kia]] — 최형우
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
@@ -443,8 +443,8 @@
 - [[kim-hun-gon]] — 김헌곤
 - [[player-김도환]] — 김도환
 - [[yang-woo-hyun]] — 양우현
-- [[sim-jae-hun]] — 심재훈
 - [[player-김상준]] — 김상준
+- [[sim-jae-hun]] — 심재훈
 - [[player-김현준]] — 김현준
 - [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
@@ -1280,6 +1280,9 @@
 - [[source-kia-vs-doosan-20260923]] — KIA vs 두산 2026.09.23
 - [[source-lotte-vs-hanwha-20260923]] — 롯데 vs 한화 2026.09.23
 - [[source-nc-vs-kt-20260923]] — NC vs KT 2026.09.23
+- [[source-lotte-vs-lg-20260924]] — 롯데 vs LG 2026.09.24
+- [[source-nc-vs-kt-20260924]] — NC vs KT 2026.09.24
+- [[source-samsung-vs-ssg-20260924]] — 삼성 vs SSG 2026.09.24
 
 ## 음악
 
