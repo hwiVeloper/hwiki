@@ -209,9 +209,9 @@
 - [[go-jun-hwi]] — 고준휘
 - [[oh-young-soo]] — 오영수
 - [[player-오태양]] — 오태양
+- [[player-한재환]] — 한재환
 - [[player-윤준혁]] — 윤준혁
 - [[player-홍종표]] — 홍종표
-- [[player-한재환]] — 한재환
 - [[heo-yun]] — 허윤
 - [[player-김정호]] — 김정호
 - [[player-이희성]] — 이희성
@@ -558,8 +558,8 @@
 
 #### 한화
 - [[moon-hyun-bin]] — 문현빈
-- [[noh-si-hwan]] — 노시환
 - [[kang-baek-ho]] — 강백호
+- [[noh-si-hwan]] — 노시환
 - [[peraza]] — 페라자
 - [[heo-in-seo]] — 허인서
 - [[sim-woo-jun]] — 심우준
@@ -587,6 +587,7 @@
 - [[player-이도훈]] — 이도훈
 - [[player-배승수]] — 배승수
 - [[player-유로결]] — 유로결
+- [[choi-won-jun-kia]] — 최원준
 - [[hernandez]] — 에르난데스 (투수)
 - [[jo-dong-wook]] — 조동욱 (투수)
 - [[park-jun-young]] — 박준영 (투수)
@@ -1283,6 +1284,7 @@
 - [[source-lotte-vs-lg-20260924]] — 롯데 vs LG 2026.09.24
 - [[source-nc-vs-kt-20260924]] — NC vs KT 2026.09.24
 - [[source-samsung-vs-ssg-20260924]] — 삼성 vs SSG 2026.09.24
+- [[source-hanwha-vs-nc-20260925]] — 한화 vs NC 2026.09.25
 
 ## 음악
 
