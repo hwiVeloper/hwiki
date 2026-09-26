@@ -20,8 +20,8 @@
 
 #### KIA
 - [[kim-do-young]] — 김도영
-- [[player-박재현]] — 박재현
 - [[na-sung-bum]] — 나성범
+- [[player-박재현]] — 박재현
 - [[player-김호령]] — 김호령
 - [[player-카스트로]] — 카스트로
 - [[player-김선빈]] — 김선빈
@@ -32,8 +32,8 @@
 - [[player-박상준]] — 박상준
 - [[player-아데를린]] — 아데를린
 - [[ha-ju-seok]] — 하주석
-- [[player-데일]] — 데일
 - [[player-박정우]] — 박정우
+- [[player-데일]] — 데일
 - [[player-변우혁]] — 변우혁
 - [[player-오선우]] — 오선우
 - [[player-김민규]] — 김민규
@@ -86,8 +86,8 @@
 - [[oh-yoon-seok]] — 오윤석
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
-- [[player-이정훈]] — 이정훈
 - [[player-장준원]] — 장준원
+- [[player-이정훈]] — 이정훈
 - [[player-배정대]] — 배정대
 - [[player-장진혁]] — 장진혁
 - [[player-유준규]] — 유준규
@@ -132,8 +132,8 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[hong-chang-ki]] — 홍창기
-- [[player-송찬의]] — 송찬의
 - [[shin-min-jae]] — 신민재
+- [[player-송찬의]] — 송찬의
 - [[oh-ji-hwan]] — 오지환
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
@@ -191,8 +191,8 @@
 - [[kim-ju-won]] — 김주원
 - [[park-gun-woo]] — 박건우
 - [[lee-woo-sung]] — 이우성
-- [[chun-jae-hwan]] — 천재환
 - [[kim-hyung-jun]] — 김형준
+- [[chun-jae-hwan]] — 천재환
 - [[kim-hwi-jip]] — 김휘집
 - [[davidson]] — 데이비슨
 - [[kwon-hee-dong]] — 권희동
@@ -492,12 +492,12 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-추재현]] — 추재현
 - [[park-chan-hyuk]] — 박찬혁
+- [[player-김웅빈]] — 김웅빈
 - [[player-임병욱]] — 임병욱
 - [[player-권혁빈]] — 권혁빈
-- [[player-김웅빈]] — 김웅빈
 - [[player-히우라]] — 히우라
-- [[choi-ju-hwan]] — 최주환
 - [[davidson]] — 데이비슨
+- [[choi-ju-hwan]] — 최주환
 - [[lee-hyung-jong]] — 이형종
 - [[park-ju-hong]] — 박주홍
 - [[brooks]] — 브룩스
@@ -509,9 +509,9 @@
 - [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
 - [[player-박수종]] — 박수종
+- [[player-김재현]] — 김재현
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
-- [[player-김재현]] — 김재현
 - [[player-원성준]] — 원성준
 - [[player-최재영]] — 최재영
 - [[park-han-gyul]] — 박한결
@@ -569,8 +569,8 @@
 - [[chae-eun-seong]] — 채은성
 - [[choi-in-ho]] — 최인호
 - [[oh-jae-won]] — 오재원
-- [[hwang-young-mook]] — 황영묵
 - [[player-한지윤]] — 한지윤
+- [[hwang-young-mook]] — 황영묵
 - [[player-박정현]] — 박정현
 - [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
@@ -1285,6 +1285,9 @@
 - [[source-nc-vs-kt-20260924]] — NC vs KT 2026.09.24
 - [[source-samsung-vs-ssg-20260924]] — 삼성 vs SSG 2026.09.24
 - [[source-hanwha-vs-nc-20260925]] — 한화 vs NC 2026.09.25
+- [[source-hanwha-vs-nc-20260926]] — 한화 vs NC 2026.09.26
+- [[source-lg-vs-kia-20260926]] — LG vs KIA 2026.09.26
+- [[source-kiwoom-vs-kt-20260926]] — 키움 vs KT 2026.09.26
 
 ## 음악
 
