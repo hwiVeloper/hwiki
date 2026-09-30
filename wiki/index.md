@@ -191,8 +191,8 @@
 - [[kim-ju-won]] — 김주원
 - [[park-gun-woo]] — 박건우
 - [[lee-woo-sung]] — 이우성
-- [[chun-jae-hwan]] — 천재환
 - [[kim-hyung-jun]] — 김형준
+- [[chun-jae-hwan]] — 천재환
 - [[kim-hwi-jip]] — 김휘집
 - [[davidson]] — 데이비슨
 - [[kwon-hee-dong]] — 권희동
@@ -205,8 +205,8 @@
 - [[park-si-won]] — 박시원
 - [[player-신재인]] — 신재인
 - [[player-오장한]] — 오장한
-- [[player-도태훈]] — 도태훈
 - [[go-jun-hwi]] — 고준휘
+- [[player-도태훈]] — 도태훈
 - [[oh-young-soo]] — 오영수
 - [[player-오태양]] — 오태양
 - [[player-한재환]] — 한재환
@@ -251,8 +251,8 @@
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[heredia]] — 에레디아
 - [[choi-ji-hun]] — 최지훈
+- [[heredia]] — 에레디아
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
 - [[choi-jung]] — 최정
@@ -313,18 +313,18 @@
 #### 두산
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
+- [[park-jun-sun]] — 박준순
 - [[jung-su-bin]] — 정수빈
 - [[yang-eui-ji]] — 양의지
-- [[park-jun-sun]] — 박준순
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
 - [[jo-su-haeng]] — 조수행
 - [[player-손아섭]] — 손아섭
+- [[player-세베리노]] — 세베리노
 - [[yoon-jun-ho]] — 윤준호
 - [[oh-myung-jin]] — 오명진
-- [[player-세베리노]] — 세베리노
 - [[yang-seok-hwan]] — 양석환
 - [[player-김대한]] — 김대한
 - [[lee-yu-chan]] — 이유찬
@@ -372,8 +372,8 @@
 - [[player-한동희]] — 한동희
 - [[na-seung-yub]] — 나승엽
 - [[player-손성빈]] — 손성빈
-- [[jang-doo-sung]] — 장두성
 - [[yoon-dong-hee]] — 윤동희
+- [[jang-doo-sung]] — 장두성
 - [[jeon-jun-woo]] — 전준우
 - [[no-jin-hyuk]] — 노진혁
 - [[han-tae-yang]] — 한태양
@@ -491,20 +491,20 @@
 - [[ahn-chi-hong]] — 안치홍
 - [[kim-gun-hee]] — 김건희
 - [[player-추재현]] — 추재현
-- [[park-chan-hyuk]] — 박찬혁
 - [[player-김웅빈]] — 김웅빈
+- [[park-chan-hyuk]] — 박찬혁
 - [[player-히우라]] — 히우라
 - [[player-임병욱]] — 임병욱
-- [[player-권혁빈]] — 권혁빈
 - [[davidson]] — 데이비슨
+- [[player-권혁빈]] — 권혁빈
 - [[choi-ju-hwan]] — 최주환
 - [[lee-hyung-jong]] — 이형종
 - [[park-ju-hong]] — 박주홍
 - [[brooks]] — 브룩스
 - [[player-여동욱]] — 여동욱
 - [[lee-ju-hyung]] — 이주형
-- [[player-김동헌]] — 김동헌
 - [[eo-jun-seo]] — 어준서
+- [[player-김동헌]] — 김동헌
 - [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
@@ -1296,6 +1296,11 @@
 - [[source-lg-vs-ssg-20260929]] — LG vs SSG 2026.09.29
 - [[source-nc-vs-doosan-20260929]] — NC vs 두산 2026.09.29
 - [[source-kiwoom-vs-lotte-20260929]] — 키움 vs 롯데 2026.09.29
+- [[source-hanwha-vs-samsung-20260930]] — 한화 vs 삼성 2026.09.30
+- [[source-kt-vs-kia-20260930]] — KT vs KIA 2026.09.30
+- [[source-lg-vs-ssg-20260930]] — LG vs SSG 2026.09.30
+- [[source-nc-vs-doosan-20260930]] — NC vs 두산 2026.09.30
+- [[source-kiwoom-vs-lotte-20260930]] — 키움 vs 롯데 2026.09.30
 
 ## 음악
 
