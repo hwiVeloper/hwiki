@@ -90,8 +90,8 @@
 - [[player-이정훈]] — 이정훈
 - [[player-배정대]] — 배정대
 - [[player-장진혁]] — 장진혁
-- [[player-유준규]] — 유준규
 - [[player-조대현]] — 조대현
+- [[player-유준규]] — 유준규
 - [[kang-hyun-woo]] — 강현우
 - [[player-이재원]] — 이재원
 - [[player-강민성]] — 강민성
@@ -132,8 +132,8 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[hong-chang-ki]] — 홍창기
-- [[shin-min-jae]] — 신민재
 - [[player-송찬의]] — 송찬의
+- [[shin-min-jae]] — 신민재
 - [[oh-ji-hwan]] — 오지환
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
@@ -206,9 +206,9 @@
 - [[player-신재인]] — 신재인
 - [[player-오장한]] — 오장한
 - [[go-jun-hwi]] — 고준휘
+- [[player-오태양]] — 오태양
 - [[player-도태훈]] — 도태훈
 - [[oh-young-soo]] — 오영수
-- [[player-오태양]] — 오태양
 - [[player-한재환]] — 한재환
 - [[player-홍종표]] — 홍종표
 - [[player-윤준혁]] — 윤준혁
@@ -260,8 +260,8 @@
 - [[player-오태곤]] — 오태곤
 - [[go-myung-jun]] — 고명준
 - [[ahn-sang-hyun]] — 안상현
-- [[player-이지영]] — 이지영
 - [[han-yoo-seom]] — 한유섬
+- [[player-이지영]] — 이지영
 - [[player-김성욱]] — 김성욱
 - [[player-임근우]] — 임근우
 - [[player-홍대인]] — 홍대인
@@ -313,16 +313,16 @@
 #### 두산
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
-- [[park-jun-sun]] — 박준순
 - [[jung-su-bin]] — 정수빈
+- [[park-jun-sun]] — 박준순
 - [[yang-eui-ji]] — 양의지
 - [[ahn-jae-seok]] — 안재석
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
 - [[jo-su-haeng]] — 조수행
-- [[player-손아섭]] — 손아섭
 - [[player-세베리노]] — 세베리노
+- [[player-손아섭]] — 손아섭
 - [[yoon-jun-ho]] — 윤준호
 - [[oh-myung-jin]] — 오명진
 - [[yang-seok-hwan]] — 양석환
@@ -429,15 +429,15 @@
 - [[player-김태균]] — 김태균 (투수)
 
 #### 삼성
-- [[koo-ja-wook]] — 구자욱
 - [[diaz]] — 디아즈
+- [[koo-ja-wook]] — 구자욱
 - [[choi-hyung-woo-kia]] — 최형우
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
-- [[jeon-byung-woo]] — 전병우
 - [[kang-min-ho]] — 강민호
+- [[jeon-byung-woo]] — 전병우
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
@@ -570,8 +570,8 @@
 - [[choi-in-ho]] — 최인호
 - [[oh-jae-won]] — 오재원
 - [[player-한지윤]] — 한지윤
-- [[hwang-young-mook]] — 황영묵
 - [[player-박정현]] — 박정현
+- [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
 - [[choi-jae-hun]] — 최재훈
@@ -1301,6 +1301,10 @@
 - [[source-lg-vs-ssg-20260930]] — LG vs SSG 2026.09.30
 - [[source-nc-vs-doosan-20260930]] — NC vs 두산 2026.09.30
 - [[source-kiwoom-vs-lotte-20260930]] — 키움 vs 롯데 2026.09.30
+- [[source-hanwha-vs-samsung-20261001]] — 한화 vs 삼성 2026.10.01
+- [[source-kt-vs-kia-20261001]] — KT vs KIA 2026.10.01
+- [[source-lg-vs-ssg-20261001]] — LG vs SSG 2026.10.01
+- [[source-nc-vs-doosan-20261001]] — NC vs 두산 2026.10.01
 
 ## 음악
 
