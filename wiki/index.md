@@ -138,8 +138,8 @@
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
 - [[park-dong-won]] — 박동원
-- [[player-천성호]] — 천성호
 - [[player-문정빈]] — 문정빈
+- [[player-천성호]] — 천성호
 - [[moon-sung-joo]] — 문성주
 - [[player-이주헌]] — 이주헌
 - [[player-이재원]] — 이재원
@@ -195,9 +195,9 @@
 - [[chun-jae-hwan]] — 천재환
 - [[kim-hwi-jip]] — 김휘집
 - [[davidson]] — 데이비슨
+- [[player-블레인]] — 블레인
 - [[kwon-hee-dong]] — 권희동
 - [[choi-jung-won]] — 최정원
-- [[player-블레인]] — 블레인
 - [[player-안중열]] — 안중열
 - [[han-seok-hyun]] — 한석현
 - [[seo-ho-chul]] — 서호철
@@ -435,8 +435,8 @@
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
-- [[player-박승규]] — 박승규
 - [[kang-min-ho]] — 강민호
+- [[player-박승규]] — 박승규
 - [[jeon-byung-woo]] — 전병우
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
@@ -494,8 +494,8 @@
 - [[player-김웅빈]] — 김웅빈
 - [[park-chan-hyuk]] — 박찬혁
 - [[player-히우라]] — 히우라
-- [[player-임병욱]] — 임병욱
 - [[davidson]] — 데이비슨
+- [[player-임병욱]] — 임병욱
 - [[player-권혁빈]] — 권혁빈
 - [[choi-ju-hwan]] — 최주환
 - [[lee-hyung-jong]] — 이형종
@@ -513,9 +513,9 @@
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
 - [[player-최재영]] — 최재영
+- [[player-염승원]] — 염승원
 - [[player-원성준]] — 원성준
 - [[park-han-gyul]] — 박한결
-- [[player-염승원]] — 염승원
 - [[player-전태현]] — 전태현
 - [[player-박성빈]] — 박성빈
 - [[player-박채울]] — 박채울
@@ -565,12 +565,12 @@
 - [[sim-woo-jun]] — 심우준
 - [[kim-tae-yeon]] — 김태연
 - [[lee-do-yoon]] — 이도윤
+- [[choi-in-ho]] — 최인호
 - [[player-이원석]] — 이원석
 - [[chae-eun-seong]] — 채은성
-- [[choi-in-ho]] — 최인호
 - [[oh-jae-won]] — 오재원
-- [[player-한지윤]] — 한지윤
 - [[player-박정현]] — 박정현
+- [[player-한지윤]] — 한지윤
 - [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
@@ -1305,6 +1305,11 @@
 - [[source-kt-vs-kia-20261001]] — KT vs KIA 2026.10.01
 - [[source-lg-vs-ssg-20261001]] — LG vs SSG 2026.10.01
 - [[source-nc-vs-doosan-20261001]] — NC vs 두산 2026.10.01
+- [[source-kia-vs-lg-20261003]] — KIA vs LG 2026.10.03
+- [[source-lotte-vs-kt-20261003]] — 롯데 vs KT 2026.10.03
+- [[source-doosan-vs-samsung-20261003]] — 두산 vs 삼성 2026.10.03
+- [[source-ssg-vs-nc-20261003]] — SSG vs NC 2026.10.03
+- [[source-kiwoom-vs-hanwha-20261003]] — 키움 vs 한화 2026.10.03
 
 ## 음악
 
