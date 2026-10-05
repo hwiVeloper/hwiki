@@ -29,10 +29,10 @@
 - [[player-김태군]] — 김태군
 - [[player-김규성]] — 김규성
 - [[player-박민]] — 박민
+- [[player-박정우]] — 박정우
 - [[player-박상준]] — 박상준
 - [[player-아데를린]] — 아데를린
 - [[ha-ju-seok]] — 하주석
-- [[player-박정우]] — 박정우
 - [[player-데일]] — 데일
 - [[player-변우혁]] — 변우혁
 - [[player-오선우]] — 오선우
@@ -106,6 +106,7 @@
 - [[player-오서진]] — 오서진
 - [[player-김정운]] — 김정운
 - [[joo-kwon]] — 주권
+- [[player-문용익]] — 문용익
 - [[sauer]] — 사우어 (투수)
 - [[player-전용주]] — 전용주 (투수)
 - [[player-한승혁]] — 한승혁 (투수)
@@ -117,7 +118,6 @@
 - [[go-young-pyo]] — 고영표 (투수)
 - [[oh-won-seok]] — 오원석 (투수)
 - [[park-ji-hun]] — 박지훈 (투수)
-- [[player-문용익]] — 문용익 (투수)
 - [[player-배제성]] — 배제성 (투수)
 - [[player-임준형]] — 임준형 (투수)
 - [[player-한차현]] — 한차현 (투수)
@@ -141,8 +141,8 @@
 - [[player-문정빈]] — 문정빈
 - [[player-천성호]] — 천성호
 - [[moon-sung-joo]] — 문성주
-- [[player-이재원]] — 이재원
 - [[player-이주헌]] — 이주헌
+- [[player-이재원]] — 이재원
 - [[player-이영빈]] — 이영빈
 - [[player-최원영]] — 최원영
 - [[player-손용준]] — 손용준
@@ -268,11 +268,11 @@
 - [[player-채현우]] — 채현우
 - [[player-마드리스]] — 마드리스
 - [[player-최준우]] — 최준우
+- [[player-김정민]] — 김정민
+- [[player-안재연]] — 안재연
 - [[player-김민식]] — 김민식
 - [[player-류효승]] — 류효승
-- [[player-김정민]] — 김정민
 - [[player-신범수]] — 신범수
-- [[player-안재연]] — 안재연
 - [[player-이정범]] — 이정범
 - [[player-최윤석]] — 최윤석
 - [[player-오시후]] — 오시후
@@ -493,8 +493,8 @@
 - [[player-추재현]] — 추재현
 - [[player-히우라]] — 히우라
 - [[park-chan-hyuk]] — 박찬혁
-- [[player-김웅빈]] — 김웅빈
 - [[davidson]] — 데이비슨
+- [[player-김웅빈]] — 김웅빈
 - [[player-임병욱]] — 임병욱
 - [[player-권혁빈]] — 권혁빈
 - [[choi-ju-hwan]] — 최주환
@@ -508,8 +508,8 @@
 - [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
 - [[player-김지석]] — 김지석
-- [[player-박수종]] — 박수종
 - [[player-김재현]] — 김재현
+- [[player-박수종]] — 박수종
 - [[player-염승원]] — 염승원
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
@@ -580,13 +580,13 @@
 - [[player-정은원]] — 정은원
 - [[player-권광민]] — 권광민
 - [[player-최유빈]] — 최유빈
+- [[player-유로결]] — 유로결
 - [[kim-seo-hyun]] — 김서현
 - [[player-쿠싱]] — 쿠싱
 - [[player-이민우]] — 이민우
 - [[player-정민규]] — 정민규
 - [[player-이도훈]] — 이도훈
 - [[player-배승수]] — 배승수
-- [[player-유로결]] — 유로결
 - [[choi-won-jun-kia]] — 최원준
 - [[hernandez]] — 에르난데스 (투수)
 - [[jo-dong-wook]] — 조동욱 (투수)
@@ -1315,6 +1315,11 @@
 - [[source-doosan-vs-samsung-20261004]] — 두산 vs 삼성 2026.10.04
 - [[source-ssg-vs-nc-20261004]] — SSG vs NC 2026.10.04
 - [[source-kiwoom-vs-hanwha-20261004]] — 키움 vs 한화 2026.10.04
+- [[source-kia-vs-lg-20261005]] — KIA vs LG 2026.10.05
+- [[source-lotte-vs-kt-20261005]] — 롯데 vs KT 2026.10.05
+- [[source-doosan-vs-samsung-20261005]] — 두산 vs 삼성 2026.10.05
+- [[source-ssg-vs-nc-20261005]] — SSG vs NC 2026.10.05
+- [[source-kiwoom-vs-hanwha-20261005]] — 키움 vs 한화 2026.10.05
 
 ## 음악
 
