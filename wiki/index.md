@@ -29,10 +29,10 @@
 - [[player-김태군]] — 김태군
 - [[player-김규성]] — 김규성
 - [[player-박민]] — 박민
+- [[ha-ju-seok]] — 하주석
 - [[player-박정우]] — 박정우
 - [[player-박상준]] — 박상준
 - [[player-아데를린]] — 아데를린
-- [[ha-ju-seok]] — 하주석
 - [[player-데일]] — 데일
 - [[player-변우혁]] — 변우혁
 - [[player-오선우]] — 오선우
@@ -87,8 +87,8 @@
 - [[jang-sung-woo]] — 장성우
 - [[lee-gang-min]] — 이강민
 - [[player-장준원]] — 장준원
-- [[player-이정훈]] — 이정훈
 - [[player-배정대]] — 배정대
+- [[player-이정훈]] — 이정훈
 - [[player-장진혁]] — 장진혁
 - [[player-조대현]] — 조대현
 - [[player-유준규]] — 유준규
@@ -131,8 +131,8 @@
 #### LG
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
-- [[hong-chang-ki]] — 홍창기
 - [[player-송찬의]] — 송찬의
+- [[hong-chang-ki]] — 홍창기
 - [[shin-min-jae]] — 신민재
 - [[oh-ji-hwan]] — 오지환
 - [[koo-bon-hyuk]] — 구본혁
@@ -315,8 +315,8 @@
 - [[kim-min-seok]] — 김민석
 - [[jung-su-bin]] — 정수빈
 - [[park-jun-sun]] — 박준순
-- [[yang-eui-ji]] — 양의지
 - [[ahn-jae-seok]] — 안재석
+- [[yang-eui-ji]] — 양의지
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
 - [[kang-seung-ho]] — 강승호
@@ -435,8 +435,8 @@
 - [[kim-ji-chan]] — 김지찬
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
-- [[kang-min-ho]] — 강민호
 - [[player-박승규]] — 박승규
+- [[kang-min-ho]] — 강민호
 - [[jeon-byung-woo]] — 전병우
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
@@ -446,8 +446,8 @@
 - [[player-김상준]] — 김상준
 - [[sim-jae-hun]] — 심재훈
 - [[player-김현준]] — 김현준
-- [[park-se-hyuk]] — 박세혁
 - [[player-박계범]] — 박계범
+- [[park-se-hyuk]] — 박세혁
 - [[player-이창용]] — 이창용
 - [[player-김재상]] — 김재상
 - [[player-김태훈]] — 김태훈
@@ -492,9 +492,9 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-추재현]] — 추재현
 - [[player-히우라]] — 히우라
-- [[park-chan-hyuk]] — 박찬혁
-- [[davidson]] — 데이비슨
 - [[player-김웅빈]] — 김웅빈
+- [[davidson]] — 데이비슨
+- [[park-chan-hyuk]] — 박찬혁
 - [[player-임병욱]] — 임병욱
 - [[player-권혁빈]] — 권혁빈
 - [[choi-ju-hwan]] — 최주환
@@ -1320,6 +1320,11 @@
 - [[source-doosan-vs-samsung-20261005]] — 두산 vs 삼성 2026.10.05
 - [[source-ssg-vs-nc-20261005]] — SSG vs NC 2026.10.05
 - [[source-kiwoom-vs-hanwha-20261005]] — 키움 vs 한화 2026.10.05
+- [[source-kt-vs-kiwoom-20261006]] — KT vs 키움 2026.10.06
+- [[source-nc-vs-lg-20261006]] — NC vs LG 2026.10.06
+- [[source-doosan-vs-lotte-20261006]] — 두산 vs 롯데 2026.10.06
+- [[source-ssg-vs-hanwha-20261006]] — SSG vs 한화 2026.10.06
+- [[source-samsung-vs-kia-20261006]] — 삼성 vs KIA 2026.10.06
 
 ## 음악
 
