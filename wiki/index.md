@@ -23,14 +23,14 @@
 - [[na-sung-bum]] — 나성범
 - [[player-박재현]] — 박재현
 - [[player-김호령]] — 김호령
-- [[player-카스트로]] — 카스트로
 - [[player-김선빈]] — 김선빈
+- [[player-카스트로]] — 카스트로
 - [[han-jun-soo]] — 한준수
 - [[player-김태군]] — 김태군
 - [[player-김규성]] — 김규성
-- [[player-박민]] — 박민
-- [[ha-ju-seok]] — 하주석
 - [[player-박정우]] — 박정우
+- [[ha-ju-seok]] — 하주석
+- [[player-박민]] — 박민
 - [[player-박상준]] — 박상준
 - [[player-아데를린]] — 아데를린
 - [[player-데일]] — 데일
@@ -76,8 +76,8 @@
 - [[choi-won-jun-kia]] — 최원준
 - [[hilliard]] — 힐리어드
 - [[kim-hyun-soo]] — 김현수
-- [[player-김상수]] — 김상수
 - [[player-허경민]] — 허경민
+- [[player-김상수]] — 김상수
 - [[player-김민혁]] — 김민혁
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
@@ -141,8 +141,8 @@
 - [[player-문정빈]] — 문정빈
 - [[player-천성호]] — 천성호
 - [[moon-sung-joo]] — 문성주
-- [[player-이주헌]] — 이주헌
 - [[player-이재원]] — 이재원
+- [[player-이주헌]] — 이주헌
 - [[player-이영빈]] — 이영빈
 - [[player-최원영]] — 최원영
 - [[player-손용준]] — 손용준
@@ -247,12 +247,13 @@
 - [[player-홍재문]] — 홍재문 (투수)
 - [[player-이재학]] — 이재학 (투수)
 - [[player-클레빈저]] — 클레빈저 (투수)
+- [[player-김재열]] — 김재열 (투수)
 
 #### SSG
 - [[player-박성한]] — 박성한
 - [[player-정준재]] — 정준재
-- [[heredia]] — 에레디아
 - [[choi-ji-hun]] — 최지훈
+- [[heredia]] — 에레디아
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
 - [[choi-jung]] — 최정
@@ -485,6 +486,7 @@
 - [[player-보스]] — 보스 (투수)
 - [[player-박용재]] — 박용재 (투수)
 - [[player-사토시]] — 사토시 (투수)
+- [[player-홍원표]] — 홍원표 (투수)
 
 #### 키움
 - [[player-서건창]] — 서건창
@@ -492,9 +494,9 @@
 - [[kim-gun-hee]] — 김건희
 - [[player-추재현]] — 추재현
 - [[player-히우라]] — 히우라
-- [[player-김웅빈]] — 김웅빈
 - [[davidson]] — 데이비슨
 - [[park-chan-hyuk]] — 박찬혁
+- [[player-김웅빈]] — 김웅빈
 - [[player-임병욱]] — 임병욱
 - [[player-권혁빈]] — 권혁빈
 - [[choi-ju-hwan]] — 최주환
@@ -507,10 +509,10 @@
 - [[player-김동헌]] — 김동헌
 - [[player-임지열]] — 임지열
 - [[player-오선진]] — 오선진
-- [[player-김지석]] — 김지석
-- [[player-김재현]] — 김재현
-- [[player-박수종]] — 박수종
 - [[player-염승원]] — 염승원
+- [[player-김재현]] — 김재현
+- [[player-김지석]] — 김지석
+- [[player-박수종]] — 박수종
 - [[player-송지후]] — 송지후
 - [[yang-hyun-jong]] — 양현종
 - [[player-최재영]] — 최재영
@@ -1325,6 +1327,11 @@
 - [[source-doosan-vs-lotte-20261006]] — 두산 vs 롯데 2026.10.06
 - [[source-ssg-vs-hanwha-20261006]] — SSG vs 한화 2026.10.06
 - [[source-samsung-vs-kia-20261006]] — 삼성 vs KIA 2026.10.06
+- [[source-hanwha-vs-kiwoom-20261007]] — 한화 vs 키움 2026.10.07
+- [[source-kia-vs-lotte-20261007]] — KIA vs 롯데 2026.10.07
+- [[source-nc-vs-ssg-20261007]] — NC vs SSG 2026.10.07
+- [[source-doosan-vs-lg-20261007]] — 두산 vs LG 2026.10.07
+- [[source-samsung-vs-kt-20261007]] — 삼성 vs KT 2026.10.07
 
 ## 음악
 
