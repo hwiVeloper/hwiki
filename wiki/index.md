@@ -19,12 +19,12 @@
 ### 선수 (`players/`)
 
 #### KIA
-- [[kim-do-young]] — 김도영
 - [[na-sung-bum]] — 나성범
+- [[kim-do-young]] — 김도영
 - [[player-박재현]] — 박재현
 - [[player-김호령]] — 김호령
-- [[player-김선빈]] — 김선빈
 - [[player-카스트로]] — 카스트로
+- [[player-김선빈]] — 김선빈
 - [[han-jun-soo]] — 한준수
 - [[player-김태군]] — 김태군
 - [[player-김규성]] — 김규성
@@ -201,8 +201,8 @@
 - [[player-안중열]] — 안중열
 - [[han-seok-hyun]] — 한석현
 - [[seo-ho-chul]] — 서호철
-- [[kim-han-byul]] — 김한별
 - [[park-si-won]] — 박시원
+- [[kim-han-byul]] — 김한별
 - [[player-신재인]] — 신재인
 - [[go-jun-hwi]] — 고준휘
 - [[player-오장한]] — 오장한
@@ -251,8 +251,8 @@
 
 #### SSG
 - [[player-박성한]] — 박성한
-- [[player-정준재]] — 정준재
 - [[choi-ji-hun]] — 최지훈
+- [[player-정준재]] — 정준재
 - [[heredia]] — 에레디아
 - [[player-김재환]] — 김재환
 - [[player-조형우]] — 조형우
@@ -1332,6 +1332,9 @@
 - [[source-nc-vs-ssg-20261007]] — NC vs SSG 2026.10.07
 - [[source-doosan-vs-lg-20261007]] — 두산 vs LG 2026.10.07
 - [[source-samsung-vs-kt-20261007]] — 삼성 vs KT 2026.10.07
+- [[source-kia-vs-nc-20261009]] — KIA vs NC 2026.10.09
+- [[source-lg-vs-lotte-20261009]] — LG vs 롯데 2026.10.09
+- [[source-samsung-vs-ssg-20261009]] — 삼성 vs SSG 2026.10.09
 
 ## 음악
 
