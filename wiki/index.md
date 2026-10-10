@@ -132,13 +132,13 @@
 - [[austin]] — 오스틴
 - [[park-hae-min]] — 박해민
 - [[player-송찬의]] — 송찬의
-- [[hong-chang-ki]] — 홍창기
 - [[shin-min-jae]] — 신민재
+- [[hong-chang-ki]] — 홍창기
 - [[oh-ji-hwan]] — 오지환
 - [[koo-bon-hyuk]] — 구본혁
 - [[moon-bo-kyung]] — 문보경
-- [[park-dong-won]] — 박동원
 - [[player-문정빈]] — 문정빈
+- [[park-dong-won]] — 박동원
 - [[player-천성호]] — 천성호
 - [[moon-sung-joo]] — 문성주
 - [[player-이재원]] — 이재원
@@ -191,8 +191,8 @@
 - [[kim-ju-won]] — 김주원
 - [[park-gun-woo]] — 박건우
 - [[lee-woo-sung]] — 이우성
-- [[kim-hyung-jun]] — 김형준
 - [[chun-jae-hwan]] — 천재환
+- [[kim-hyung-jun]] — 김형준
 - [[kim-hwi-jip]] — 김휘집
 - [[davidson]] — 데이비슨
 - [[player-블레인]] — 블레인
@@ -204,12 +204,12 @@
 - [[park-si-won]] — 박시원
 - [[kim-han-byul]] — 김한별
 - [[player-신재인]] — 신재인
+- [[player-오태양]] — 오태양
 - [[go-jun-hwi]] — 고준휘
 - [[player-오장한]] — 오장한
-- [[player-오태양]] — 오태양
 - [[player-도태훈]] — 도태훈
-- [[oh-young-soo]] — 오영수
 - [[player-한재환]] — 한재환
+- [[oh-young-soo]] — 오영수
 - [[player-홍종표]] — 홍종표
 - [[player-윤준혁]] — 윤준혁
 - [[heo-yun]] — 허윤
@@ -279,6 +279,7 @@
 - [[player-오시후]] — 오시후
 - [[player-김민준]] — 김민준
 - [[player-석정우]] — 석정우
+- [[player-문상준]] — 문상준
 - [[player-김창평]] — 김창평
 - [[player-조병현]] — 조병현
 - [[player-이로운]] — 이로운
@@ -428,6 +429,7 @@
 - [[player-이준서]] — 이준서 (투수)
 - [[player-김한결]] — 김한결 (투수)
 - [[player-김태균]] — 김태균 (투수)
+- [[player-송재영]] — 송재영 (투수)
 
 #### 삼성
 - [[diaz]] — 디아즈
@@ -576,13 +578,13 @@
 - [[hwang-young-mook]] — 황영묵
 - [[player-이진영]] — 이진영
 - [[ha-ju-seok]] — 하주석
-- [[choi-jae-hun]] — 최재훈
 - [[player-유민]] — 유민
+- [[choi-jae-hun]] — 최재훈
 - [[player-장규현]] — 장규현
 - [[player-정은원]] — 정은원
 - [[player-권광민]] — 권광민
-- [[player-최유빈]] — 최유빈
 - [[player-유로결]] — 유로결
+- [[player-최유빈]] — 최유빈
 - [[kim-seo-hyun]] — 김서현
 - [[player-쿠싱]] — 쿠싱
 - [[player-이민우]] — 이민우
@@ -1335,6 +1337,9 @@
 - [[source-kia-vs-nc-20261009]] — KIA vs NC 2026.10.09
 - [[source-lg-vs-lotte-20261009]] — LG vs 롯데 2026.10.09
 - [[source-samsung-vs-ssg-20261009]] — 삼성 vs SSG 2026.10.09
+- [[source-lg-vs-lotte-20261010]] — LG vs 롯데 2026.10.10
+- [[source-nc-vs-hanwha-20261010]] — NC vs 한화 2026.10.10
+- [[source-ssg-vs-kia-20261010]] — SSG vs KIA 2026.10.10
 
 ## 음악
 
