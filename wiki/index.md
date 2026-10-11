@@ -76,8 +76,8 @@
 - [[choi-won-jun-kia]] — 최원준
 - [[hilliard]] — 힐리어드
 - [[kim-hyun-soo]] — 김현수
-- [[player-허경민]] — 허경민
 - [[player-김상수]] — 김상수
+- [[player-허경민]] — 허경민
 - [[player-김민혁]] — 김민혁
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
@@ -368,8 +368,8 @@
 
 #### 롯데
 - [[reyes]] — 레이예스
-- [[hwang-sung-bin]] — 황성빈
 - [[jeon-min-jae]] — 전민재
+- [[hwang-sung-bin]] — 황성빈
 - [[player-고승민]] — 고승민
 - [[player-한동희]] — 한동희
 - [[na-seung-yub]] — 나승엽
@@ -439,8 +439,8 @@
 - [[ryu-ji-hyeok]] — 류지혁
 - [[kim-sung-yun]] — 김성윤
 - [[player-박승규]] — 박승규
-- [[kang-min-ho]] — 강민호
 - [[jeon-byung-woo]] — 전병우
+- [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
 - [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
@@ -448,8 +448,8 @@
 - [[yang-woo-hyun]] — 양우현
 - [[player-김상준]] — 김상준
 - [[sim-jae-hun]] — 심재훈
-- [[player-김현준]] — 김현준
 - [[player-박계범]] — 박계범
+- [[player-김현준]] — 김현준
 - [[park-se-hyuk]] — 박세혁
 - [[player-이창용]] — 이창용
 - [[player-김재상]] — 김재상
@@ -459,9 +459,9 @@
 - [[ham-su-ho]] — 함수호
 - [[lee-hae-seung]] — 이해승
 - [[player-이성규]] — 이성규
+- [[player-윤정빈]] — 윤정빈
 - [[player-김재혁]] — 김재혁
 - [[player-이진용]] — 이진용
-- [[player-윤정빈]] — 윤정빈
 - [[lee-seung-hyun]] — 이승현
 - [[player-김재성]] — 김재성
 - [[player-후라도]] — 후라도 (투수)
@@ -1340,6 +1340,8 @@
 - [[source-lg-vs-lotte-20261010]] — LG vs 롯데 2026.10.10
 - [[source-nc-vs-hanwha-20261010]] — NC vs 한화 2026.10.10
 - [[source-ssg-vs-kia-20261010]] — SSG vs KIA 2026.10.10
+- [[source-kt-vs-samsung-20261011]] — KT vs 삼성 2026.10.11
+- [[source-lotte-vs-kia-20261011]] — 롯데 vs KIA 2026.10.11
 
 ## 음악
 
