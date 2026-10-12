@@ -76,8 +76,8 @@
 - [[choi-won-jun-kia]] — 최원준
 - [[hilliard]] — 힐리어드
 - [[kim-hyun-soo]] — 김현수
-- [[player-김상수]] — 김상수
 - [[player-허경민]] — 허경민
+- [[player-김상수]] — 김상수
 - [[player-김민혁]] — 김민혁
 - [[ahn-hyun-min]] — 안현민
 - [[player-한승택]] — 한승택
@@ -89,15 +89,15 @@
 - [[player-장준원]] — 장준원
 - [[player-배정대]] — 배정대
 - [[player-이정훈]] — 이정훈
-- [[player-장진혁]] — 장진혁
 - [[player-조대현]] — 조대현
+- [[player-장진혁]] — 장진혁
 - [[player-유준규]] — 유준규
 - [[kang-hyun-woo]] — 강현우
 - [[player-이재원]] — 이재원
+- [[player-문상철]] — 문상철
 - [[player-강민성]] — 강민성
 - [[player-안인산]] — 안인산
 - [[player-이정범]] — 이정범
-- [[player-문상철]] — 문상철
 - [[player-손민석]] — 손민석
 - [[player-안치영]] — 안치영
 - [[park-young-hyun]] — 박영현
@@ -316,8 +316,8 @@
 - [[park-chan-ho]] — 박찬호
 - [[kim-min-seok]] — 김민석
 - [[jung-su-bin]] — 정수빈
-- [[park-jun-sun]] — 박준순
 - [[ahn-jae-seok]] — 안재석
+- [[park-jun-sun]] — 박준순
 - [[yang-eui-ji]] — 양의지
 - [[cameron]] — 카메론
 - [[park-ji-hun]] — 박지훈
@@ -326,8 +326,8 @@
 - [[player-세베리노]] — 세베리노
 - [[player-손아섭]] — 손아섭
 - [[yoon-jun-ho]] — 윤준호
-- [[oh-myung-jin]] — 오명진
 - [[yang-seok-hwan]] — 양석환
+- [[oh-myung-jin]] — 오명진
 - [[player-김대한]] — 김대한
 - [[lee-yu-chan]] — 이유찬
 - [[player-류승민]] — 류승민
@@ -368,8 +368,8 @@
 
 #### 롯데
 - [[reyes]] — 레이예스
-- [[jeon-min-jae]] — 전민재
 - [[hwang-sung-bin]] — 황성빈
+- [[jeon-min-jae]] — 전민재
 - [[player-고승민]] — 고승민
 - [[player-한동희]] — 한동희
 - [[na-seung-yub]] — 나승엽
@@ -442,14 +442,14 @@
 - [[jeon-byung-woo]] — 전병우
 - [[kang-min-ho]] — 강민호
 - [[lee-jae-hyun]] — 이재현
-- [[kim-young-woong]] — 김영웅
 - [[kim-hun-gon]] — 김헌곤
+- [[kim-young-woong]] — 김영웅
 - [[player-김도환]] — 김도환
 - [[yang-woo-hyun]] — 양우현
 - [[player-김상준]] — 김상준
 - [[sim-jae-hun]] — 심재훈
-- [[player-박계범]] — 박계범
 - [[player-김현준]] — 김현준
+- [[player-박계범]] — 박계범
 - [[park-se-hyuk]] — 박세혁
 - [[player-이창용]] — 이창용
 - [[player-김재상]] — 김재상
@@ -1342,6 +1342,9 @@
 - [[source-ssg-vs-kia-20261010]] — SSG vs KIA 2026.10.10
 - [[source-kt-vs-samsung-20261011]] — KT vs 삼성 2026.10.11
 - [[source-lotte-vs-kia-20261011]] — 롯데 vs KIA 2026.10.11
+- [[source-kt-vs-samsung-20261012]] — KT vs 삼성 2026.10.12
+- [[source-lg-vs-kia-20261012]] — LG vs KIA 2026.10.12
+- [[source-lotte-vs-doosan-20261012]] — 롯데 vs 두산 2026.10.12
 
 ## 음악
 
